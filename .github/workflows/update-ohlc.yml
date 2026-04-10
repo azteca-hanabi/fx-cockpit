@@ -26,15 +26,7 @@ jobs:
 
           fetch_and_parse() {
             local SYMBOL=$1
-            curl -sf "${BASE}&symbol=${SYMBOL}" | python3 -c "
-import sys, json
-d = json.load(sys.stdin)
-ts = d.get('Time Series (Daily)', {})
-if not ts:
-    raise ValueError('No data')
-dates = sorted(ts.keys(), reverse=True)
-row = ts[dates[0]]
-print(json.dumps({'open': float(row['1. open']), 'high': float(row['2. high']), 'low': float(row['3. low']), 'close': float(row['4. close'])}))"
+            curl -sf "${BASE}&symbol=${SYMBOL}" | python3 -c "import sys,json;d=json.load(sys.stdin);ts=d.get('Time Series (Daily)',{});ts or sys.exit('No data');row=ts[sorted(ts)[-1]];print(json.dumps({'open':float(row['1. open']),'high':float(row['2. high']),'low':float(row['3. low']),'close':float(row['4. close'])}))"
           }
 
           XAUUSD=$(fetch_and_parse "XAUUSD")
@@ -50,17 +42,8 @@ print(json.dumps({'open': float(row['1. open']), 'high': float(row['2. high']), 
 
           TODAY=$(date -u +%Y-%m-%d)
 
-          python3 -c "
-import json
-out = {
-    'updated': '${TODAY}',
-    'XAUUSD': json.loads('${XAUUSD}'),
-    'USDJPY': json.loads('${USDJPY}'),
-    'XAGUSD': json.loads('${XAGUSD}'),
-}
-open('public/data/ohlc.json','w').write(json.dumps(out, indent=2))
-print('Done:', out['updated'])
-"
+          export XAUUSD USDJPY XAGUSD TODAY
+          python3 -c "import json,os;out={'updated':os.environ['TODAY'],'XAUUSD':json.loads(os.environ['XAUUSD']),'USDJPY':json.loads(os.environ['USDJPY']),'XAGUSD':json.loads(os.environ['XAGUSD'])};open('public/data/ohlc.json','w').write(json.dumps(out,indent=2));print('Done:',out['updated'])"
 
       - name: Commit and push ohlc.json
         run: |
