@@ -1,0 +1,66 @@
+name: Update OHLC Data
+
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-ohlc:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch OHLC and write ohlc.json
+        env:
+          AV_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+        run: |
+          set -e
+          mkdir -p public/data
+
+          BASE="https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&outputsize=compact&apikey=${AV_KEY}"
+
+          fetch_and_parse() {
+            local SYMBOL=$1
+            curl -sf "${BASE}&symbol=${SYMBOL}" | python3 -c "
+          import sys, json
+          d = json.load(sys.stdin)
+          ts = d.get('Time Series (Daily)', {})
+          if not ts:
+              raise ValueError('No time series data')
+          dates = sorted(ts.keys(), reverse=True)
+          row = ts[dates[0]]
+          print(json.dumps({
+              'open':  float(row['1. open']),
+              'high':  float(row['2. high']),
+              'low':   float(row['3. low']),
+              'close': float(row['4. close']),
+          }))
+          "
+          }
+
+          echo "Fetching XAUUSD..."
+          XAUUSD=$(fetch_and_parse "XAUUSD")
+          echo "XAUUSD: $XAUUSD"
+          sleep 15
+
+          echo "Fetching USDJPY..."
+          USDJPY=$(fetch_and_parse "USDJPY")
+          echo "USDJPY: $USDJPY"
+          sleep 15
+
+          echo "Fetching XAGUSD..."
+          XAGUSD=$(fetch_and_parse "XAGUSD")
+          echo "XAGUSD: $XAGUSD"
+
+          TODAY=$(date -u +%Y-%m-%d)
+
+          python3 - <
+
+📋 コピー
+
