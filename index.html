@@ -3,422 +3,409 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FX Cockpit — azteca</title>
+<title>FX COCKPIT — azteca</title>
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#0a0a0f">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
-  /* ─── THEMES ─── */
-  :root,
-  [data-theme="dark"] {
-    --bg:         #0a0a0f;
-    --bg2:        #0f0f18;
-    --bg3:        #14141f;
-    --border:     #1e1e2e;
-    --border2:    #2a2a40;
-    --text:       #c8c8d8;
-    --muted:      #5a5a7a;
-    --gold:       #f0b429;
-    --gold-dim:   #7a5a10;
-    --silver:     #a8b8cc;
-    --silver-dim: #3a4a58;
-    --cyan:       #38c9c9;
-    --cyan-dim:   #0e4040;
-    --green:      #2ecc71;
-    --red:        #e74c3c;
-    --scanline:   1;
-  }
+/* ─── THEMES ─── */
+:root,
+[data-theme="dark"] {
+  --bg:         #0a0a0f;
+  --bg2:        #0f0f18;
+  --bg3:        #14141f;
+  --border:     #1e1e2e;
+  --border2:    #2a2a40;
+  --text:       #c8c8d8;
+  --muted:      #5a5a7a;
+  --gold:       #f0b429;
+  --gold-dim:   #7a5a10;
+  --silver:     #a8b8cc;
+  --silver-dim: #3a4a58;
+  --cyan:       #38c9c9;
+  --cyan-dim:   #0e4040;
+  --green:      #2ecc71;
+  --red:        #e74c3c;
+  --scanline:   1;
+}
 
-  [data-theme="dim"] {
-    --bg:         #5e5e78;
-    --bg2:        #686882;
-    --bg3:        #727290;
-    --border:     #82829a;
-    --border2:    #9292a8;
-    --text:       #f0f0fc;
-    --muted:      #c0c0d8;
-    --gold:       #f0b429;
-    --gold-dim:   #b08030;
-    --silver:     #d0d8e8;
-    --silver-dim: #7090a8;
-    --cyan:       #38c9c9;
-    --cyan-dim:   #2080a0;
-    --green:      #2ecc71;
-    --red:        #e74c3c;
-    --scanline:   0;
-  }
+[data-theme="dim"] {
+  --bg:         #5e5e78;
+  --bg2:        #686882;
+  --bg3:        #727290;
+  --border:     #82829a;
+  --border2:    #9292a8;
+  --text:       #f0f0fc;
+  --muted:      #c0c0d8;
+  --gold:       #f0b429;
+  --gold-dim:   #b08030;
+  --silver:     #d0d8e8;
+  --silver-dim: #7090a8;
+  --cyan:       #38c9c9;
+  --cyan-dim:   #2080a0;
+  --green:      #2ecc71;
+  --red:        #e74c3c;
+  --scanline:   0;
+}
 
-  [data-theme="light"] {
-    --bg:         #f0f0f8;
-    --bg2:        #e4e4f0;
-    --bg3:        #ffffff;
-    --border:     #d0d0e0;
-    --border2:    #b8b8cc;
-    --text:       #1a1a30;
-    --muted:      #7878a0;
-    --gold:       #a86e00;
-    --gold-dim:   #f5e8c0;
-    --silver:     #4a6070;
-    --silver-dim: #ccd8e4;
-    --cyan:       #006888;
-    --cyan-dim:   #c0e8f4;
-    --green:      #1a7a3a;
-    --red:        #c01818;
-    --scanline:   0;
-  }
+[data-theme="light"] {
+  --bg:         #f0f0f8;
+  --bg2:        #e4e4f0;
+  --bg3:        #ffffff;
+  --border:     #d0d0e0;
+  --border2:    #b8b8cc;
+  --text:       #1a1a30;
+  --muted:      #7878a0;
+  --gold:       #a86e00;
+  --gold-dim:   #f5e8c0;
+  --silver:     #4a6070;
+  --silver-dim: #ccd8e4;
+  --cyan:       #006888;
+  --cyan-dim:   #c0e8f4;
+  --green:      #1a7a3a;
+  --red:        #c01818;
+  --scanline:   0;
+}
 
-  /* ─── RESET ─── */
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+/* ─── RESET ─── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Noto Sans JP', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    min-height: 100dvh;
-    display: flex;
-    flex-direction: column;
-    overflow-x: hidden;
-    transition: background .2s, color .2s;
-  }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 16px;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  transition: background .2s, color .2s;
+}
 
-  /* ─── SCAN LINE OVERLAY ─── */
-  body::before {
-    content: '';
-    position: fixed; inset: 0;
-    background: repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(0,0,0,.07) 2px,
-      rgba(0,0,0,.07) 4px
-    );
-    pointer-events: none;
-    z-index: 9999;
-    opacity: var(--scanline);
-    transition: opacity .2s;
-  }
+/* scanline */
+body::before {
+  content: '';
+  position: fixed; inset: 0;
+  background: repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.07) 2px,rgba(0,0,0,.07) 4px);
+  pointer-events: none;
+  z-index: 9999;
+  opacity: var(--scanline);
+  transition: opacity .2s;
+}
 
-  /* ─── HEADER ─── */
-  header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 14px;
-    height: 50px;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg2);
-    flex-shrink: 0;
-    gap: 10px;
-  }
+/* ─── HEADER ─── */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 12px;
+  height: 52px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg2);
+  flex-shrink: 0;
+  gap: 8px;
+  min-width: 0;
+}
 
-  .logo {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 15px;
-    letter-spacing: .12em;
-    color: var(--cyan);
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
-  .logo span { color: var(--muted); font-size: 11px; margin-left: 8px; letter-spacing: .08em; }
+.logo {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  color: var(--cyan);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+.logo span {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 400;
+  margin-left: 6px;
+}
 
-  .header-right {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
 
-  /* ─── THEME SWITCHER ─── */
-  .theme-switcher {
-    display: flex;
-    gap: 3px;
-  }
+#clock {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+  white-space: nowrap;
+  letter-spacing: .03em;
+}
 
-  .theme-btn {
-    padding: 5px 9px;
-    border-radius: 4px;
-    border: 1px solid var(--border2);
-    background: transparent;
-    color: var(--muted);
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 12px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all .15s;
-    white-space: nowrap;
-  }
-  .theme-btn:hover {
-    color: var(--text);
-    border-color: var(--muted);
-  }
-  .theme-btn.active {
-    border-color: var(--cyan);
-    color: var(--cyan);
-    background: rgba(56,201,201,.1);
-  }
+/* ─── THEME SWITCHER ─── */
+.theme-switcher {
+  display: flex;
+  gap: 3px;
+}
 
-  #clock {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 13px;
-    color: var(--muted);
-    letter-spacing: .06em;
-    white-space: nowrap;
-  }
+.theme-btn {
+  padding: 5px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--border2);
+  background: transparent;
+  color: var(--muted);
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all .15s;
+  white-space: nowrap;
+  line-height: 1;
+}
+.theme-btn:hover { color: var(--text); border-color: var(--muted); }
+.theme-btn.active {
+  border-color: var(--cyan);
+  color: var(--cyan);
+  background: rgba(56,201,201,.1);
+}
 
-  /* ─── SESSION BAR ─── */
-  #session-bar {
-    display: flex;
-    gap: 6px;
-    padding: 7px 14px;
-    background: var(--bg2);
-    border-bottom: 1px solid var(--border);
-    flex-wrap: wrap;
-  }
+/* ─── SESSION BAR ─── */
+#session-bar {
+  display: flex;
+  gap: 6px;
+  padding: 8px 12px;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  flex-wrap: nowrap;
+}
 
-  .session-pill {
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 12px;
-    font-weight: 500;
-    padding: 4px 10px;
-    border-radius: 3px;
-    border: 1px solid var(--border2);
-    color: var(--muted);
-    letter-spacing: .04em;
-    transition: all .3s;
-  }
-  .session-pill.active {
-    color: var(--green);
-    border-color: var(--green);
-    background: rgba(46,204,113,.08);
-    box-shadow: 0 0 8px rgba(46,204,113,.2);
-  }
-  .session-pill .dot {
-    display: inline-block;
-    width: 6px; height: 6px;
-    border-radius: 50%;
-    background: currentColor;
-    margin-right: 5px;
-    vertical-align: middle;
-  }
-  .session-pill.active .dot {
-    animation: blink 1.4s ease-in-out infinite;
-  }
-  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
+.session-pill {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 10px;
+  border-radius: 3px;
+  border: 1px solid var(--border2);
+  color: var(--muted);
+  letter-spacing: .04em;
+  transition: all .3s;
+  white-space: nowrap;
+}
+.session-pill.active {
+  color: var(--green);
+  border-color: var(--green);
+  background: rgba(46,204,113,.08);
+  box-shadow: 0 0 8px rgba(46,204,113,.2);
+}
+.session-pill .dot {
+  display: inline-block;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.session-pill.active .dot { animation: blink 1.4s ease-in-out infinite; }
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
 
-  /* ─── TABS ─── */
-  .tab-bar {
-    display: flex;
-    background: var(--bg2);
-    border-bottom: 1px solid var(--border);
-    flex-shrink: 0;
-  }
+/* ─── TABS ─── */
+.tab-bar {
+  display: flex;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
 
-  .tab-btn {
-    flex: 1;
-    height: 50px;
-    background: none;
-    border: none;
-    border-bottom: 3px solid transparent;
-    cursor: pointer;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 15px;
-    font-weight: 700;
-    letter-spacing: .1em;
-    color: var(--muted);
-    transition: color .2s, border-color .2s, background .2s;
-    text-transform: uppercase;
-  }
-  .tab-btn:hover { background: rgba(255,255,255,.02); color: var(--text); }
+.tab-btn {
+  flex: 1;
+  height: 48px;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  color: var(--muted);
+  transition: color .2s, border-color .2s;
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn[data-tab="gold"].active   { color: var(--gold);   border-color: var(--gold); }
+.tab-btn[data-tab="usd"].active    { color: var(--cyan);   border-color: var(--cyan); }
+.tab-btn[data-tab="jpy"].active    { color: var(--cyan);   border-color: var(--cyan); }
+.tab-btn[data-tab="silver"].active { color: var(--silver); border-color: var(--silver); }
 
-  .tab-btn[data-tab="gold"].active   { color: var(--gold);   border-color: var(--gold);   }
-  .tab-btn[data-tab="usdjpy"].active { color: var(--cyan);   border-color: var(--cyan);   }
-  .tab-btn[data-tab="silver"].active { color: var(--silver); border-color: var(--silver); }
+/* ─── TAB PANELS ─── */
+.tab-panel {
+  display: none;
+  flex: 1;
+  flex-direction: column;
+  overflow-y: auto;
+  padding: 14px 12px 32px;
+  gap: 14px;
+}
+.tab-panel.active { display: flex; }
 
-  /* ─── TAB PANELS ─── */
-  .tab-panel { display: none; flex: 1; flex-direction: column; overflow-y: auto; padding: 14px 14px 28px; gap: 12px; }
-  .tab-panel.active { display: flex; }
+/* ─── OHLC CARD ─── */
+.ohlc-card {
+  background: var(--bg3);
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  padding: 14px 16px;
+  transition: background .2s, border-color .2s;
+}
 
-  /* ─── OHLC CARD ─── */
-  .ohlc-card {
-    background: var(--bg3);
-    border: 1px solid var(--border2);
-    border-radius: 6px;
-    padding: 14px 16px;
-    transition: background .2s, border-color .2s;
-  }
+.ohlc-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+  margin-bottom: 12px;
+  letter-spacing: .03em;
+}
 
-  .ohlc-label {
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 12px;
-    font-weight: 500;
-    letter-spacing: .08em;
-    color: var(--muted);
-    text-transform: uppercase;
-    margin-bottom: 12px;
-  }
+.ohlc-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
 
-  .ohlc-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 8px;
-  }
+.ohlc-item { display: flex; flex-direction: column; gap: 4px; }
 
-  .ohlc-item { display: flex; flex-direction: column; gap: 4px; }
-  .ohlc-key {
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 11px;
-    font-weight: 500;
-    color: var(--muted);
-    letter-spacing: .08em;
-    text-transform: uppercase;
-  }
-  .ohlc-val {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 17px;
-    color: var(--text);
-  }
-  .ohlc-val.hi { color: var(--green); }
-  .ohlc-val.lo { color: var(--red); }
+.ohlc-key {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: .04em;
+}
 
-  .ohlc-updated {
-    font-size: 11px;
-    color: var(--muted);
-    margin-top: 10px;
-    font-family: 'Share Tech Mono', monospace;
-  }
+.ohlc-val {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.2;
+}
+.ohlc-val.hi { color: var(--green); }
+.ohlc-val.lo { color: var(--red); }
 
-  /* ─── SECTION HEADING ─── */
-  .sec-heading {
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: .1em;
-    color: var(--muted);
-    text-transform: uppercase;
-    padding: 2px 0 7px;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 2px;
-  }
+/* ─── SECTION HEADING ─── */
+.sec-heading {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  color: var(--muted);
+  text-transform: uppercase;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
 
-  /* ─── LINK GRID ─── */
-  .link-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
-  }
+/* ─── CHART ROW ─── */
+.chart-row {
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
 
-  .link-btn {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 13px 14px;
-    background: var(--bg3);
-    border: 1px solid var(--border2);
-    border-radius: 5px;
-    color: var(--text);
-    text-decoration: none;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-    letter-spacing: .02em;
-    transition: background .15s, border-color .15s, color .15s;
-    cursor: pointer;
-  }
-  .link-btn:hover {
-    background: rgba(128,128,200,.06);
-    color: var(--text);
-  }
+.tv-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 12px;
+  background: var(--bg3);
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: .04em;
+  transition: background .15s, border-color .15s, color .15s;
+  min-height: 110px;
+  text-align: center;
+}
+.tv-btn:hover {
+  background: rgba(56,201,201,.06);
+  border-color: var(--cyan-dim);
+  color: var(--cyan);
+}
+.tv-icon { font-size: 30px; }
 
-  .link-btn .icon {
-    width: 22px; height: 22px;
-    flex-shrink: 0;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 15px;
-  }
+.chart-side {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 36%;
+  flex-shrink: 0;
+}
 
-  [data-color="gold"]   .link-btn:hover { border-color: var(--gold-dim);   color: var(--gold); }
-  [data-color="cyan"]   .link-btn:hover { border-color: var(--cyan-dim);   color: var(--cyan); }
-  [data-color="silver"] .link-btn:hover { border-color: var(--silver-dim); color: var(--silver); }
+.side-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 6px;
+  background: var(--bg3);
+  border: 1px solid var(--border2);
+  border-radius: 6px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: .02em;
+  transition: background .15s, color .15s;
+  line-height: 1.3;
+}
+.side-btn:hover {
+  background: rgba(128,128,200,.06);
+  color: var(--text);
+}
 
-  /* ─── MT5 ─── */
-  .mt5-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
-  }
+/* ─── APP LAUNCH ─── */
+.app-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
 
-  .mt5-btn {
-    padding: 14px 10px;
-    background: var(--bg3);
-    border: 1px solid var(--border2);
-    border-radius: 5px;
-    color: var(--text);
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 15px;
-    font-weight: 700;
-    letter-spacing: .06em;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: all .15s;
-    text-align: center;
-  }
-  .mt5-btn:hover {
-    background: rgba(128,128,200,.06);
-    color: var(--text);
-    border-color: var(--border2);
-  }
+.app-btn {
+  display: block;
+  padding: 18px 10px;
+  background: var(--bg3);
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  color: var(--text);
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  cursor: pointer;
+  transition: all .15s;
+  text-align: center;
+  text-decoration: none;
+}
+.app-btn:hover {
+  background: rgba(56,201,201,.06);
+  border-color: var(--cyan-dim);
+  color: var(--cyan);
+}
+.app-sub {
+  display: block;
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--muted);
+  margin-top: 5px;
+  letter-spacing: .04em;
+}
 
-  .mt5-broker {
-    display: block;
-    font-size: 11px;
-    font-weight: 400;
-    color: var(--muted);
-    margin-top: 3px;
-    letter-spacing: .04em;
-  }
-
-  /* ─── VIX ─── */
-  .vix-card {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: var(--bg3);
-    border: 1px solid var(--border2);
-    border-radius: 5px;
-    padding: 13px 14px;
-    text-decoration: none;
-    color: var(--text);
-    transition: background .15s;
-  }
-  .vix-card:hover { background: rgba(128,128,200,.06); }
-  .vix-label {
-    font-family: 'Noto Sans JP', sans-serif;
-    font-size: 14px;
-    font-weight: 700;
-    letter-spacing: .06em;
-    color: var(--text);
-  }
-  .vix-desc {
-    font-size: 12px;
-    color: var(--muted);
-    margin-top: 3px;
-  }
-  .vix-arrow { color: var(--muted); font-size: 18px; }
-
-  /* ─── RESPONSIVE ─── */
-  @media (min-width: 600px) {
-    .link-grid { grid-template-columns: repeat(3, 1fr); }
-    .mt5-grid  { grid-template-columns: repeat(4, 1fr); }
-  }
-  @media (max-width: 360px) {
-    .ohlc-val { font-size: 15px; }
-    #clock    { display: none; }
-  }
+/* ─── SMALL SCREEN ADJUSTMENTS ─── */
+@media (max-width: 360px) {
+  .ohlc-val { font-size: 15px; }
+  #clock { font-size: 11px; }
+}
 </style>
 </head>
 <body>
@@ -426,232 +413,233 @@
 <header>
   <div class="logo">FX COCKPIT <span>by azteca</span></div>
   <div class="header-right">
-    <div class="theme-switcher">
-      <button class="theme-btn active" data-theme="dark">Dark</button>
-      <button class="theme-btn"        data-theme="dim">Dim</button>
-      <button class="theme-btn"        data-theme="light">Light</button>
-    </div>
     <div id="clock">--:--:--</div>
+    <div class="theme-switcher">
+      <button class="theme-btn active" data-theme="dark">D</button>
+      <button class="theme-btn" data-theme="dim">D-</button>
+      <button class="theme-btn" data-theme="light">L</button>
+    </div>
   </div>
 </header>
 
 <div id="session-bar">
-  <div class="session-pill" id="sess-tokyo"><span class="dot"></span>TOKYO</div>
-  <div class="session-pill" id="sess-london"><span class="dot"></span>LONDON</div>
-  <div class="session-pill" id="sess-ny"><span class="dot"></span>NEW YORK</div>
-  <div class="session-pill" id="sess-sydney"><span class="dot"></span>SYDNEY</div>
+  <div class="session-pill" id="sess-tokyo"><span class="dot"></span>東京</div>
+  <div class="session-pill" id="sess-london"><span class="dot"></span>ロンドン</div>
+  <div class="session-pill" id="sess-ny"><span class="dot"></span>ニューヨーク</div>
 </div>
 
 <div class="tab-bar">
   <button class="tab-btn active" data-tab="gold">GOLD</button>
-  <button class="tab-btn" data-tab="usdjpy">USD/JPY</button>
+  <button class="tab-btn" data-tab="usd">USD</button>
+  <button class="tab-btn" data-tab="jpy">JPY</button>
   <button class="tab-btn" data-tab="silver">SILVER</button>
 </div>
 
 <!-- ═══ GOLD ═══ -->
-<div class="tab-panel active" id="panel-gold" data-color="gold">
+<div class="tab-panel active" id="panel-gold">
 
   <div class="ohlc-card">
-    <div class="ohlc-label">前日 OHLC — XAU/USD</div>
+    <div class="ohlc-title" id="gold-title">前日 OHLC — XAU/USD</div>
     <div class="ohlc-grid">
       <div class="ohlc-item">
-        <span class="ohlc-key">OPEN</span>
+        <span class="ohlc-key">始値</span>
         <span class="ohlc-val" id="gold-open">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">HIGH</span>
+        <span class="ohlc-key">高値</span>
         <span class="ohlc-val hi" id="gold-high">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">LOW</span>
+        <span class="ohlc-key">安値</span>
         <span class="ohlc-val lo" id="gold-low">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">CLOSE</span>
+        <span class="ohlc-key">終値</span>
         <span class="ohlc-val" id="gold-close">—</span>
       </div>
     </div>
-    <div class="ohlc-updated" id="gold-updated"></div>
   </div>
 
   <div class="sec-heading">チャート・分析</div>
-  <div class="link-grid">
-    <a class="link-btn" href="https://www.tradingview.com/chart/?symbol=XAUUSD" target="_blank" rel="noopener">
-      <span class="icon">📈</span>TradingView
+  <div class="chart-row">
+    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=XAUUSD" target="_blank" rel="noopener">
+      <span class="tv-icon">📈</span>
+      TradingView
     </a>
-    <a class="link-btn" href="https://www.wsj.com/market-data/quotes/index/DXY" target="_blank" rel="noopener">
-      <span class="icon">💵</span>DXY指数
-    </a>
-    <a class="link-btn" href="https://twitter.com/search?q=XAUUSD+OR+%E9%87%91%E4%BE%A1&src=typed_query&f=live" target="_blank" rel="noopener">
-      <span class="icon">𝕏</span>X リアルタイム
-    </a>
-    <a class="link-btn" href="https://finance.yahoo.com/quote/GC%3DF" target="_blank" rel="noopener">
-      <span class="icon">🔗</span>Yahoo Finance
-    </a>
-  </div>
-
-  <div class="sec-heading">市場センチメント</div>
-  <a class="vix-card" href="https://finance.yahoo.com/quote/%5EVIX/" target="_blank" rel="noopener">
-    <div>
-      <div class="vix-label">VIX — 恐怖指数</div>
-      <div class="vix-desc">市場ボラティリティ参照 → Yahoo Finance</div>
+    <div class="chart-side">
+      <a class="side-btn" href="https://jp.investing.com/economic-calendar/" target="_blank" rel="noopener">経済指標</a>
+      <a class="side-btn" href="https://jp.investing.com/currencies/xau-usd" target="_blank" rel="noopener">Investing.com</a>
+      <a class="side-btn" href="https://jp.tradingview.com/symbols/TVC-VIX/" target="_blank" rel="noopener">VIX</a>
     </div>
-    <span class="vix-arrow">↗</span>
-  </a>
-
-  <div class="sec-heading">MT5 起動</div>
-  <div class="mt5-grid">
-    <button class="mt5-btn" onclick="openMT5('exness','XAUUSD')">
-      XAU/USD
-      <span class="mt5-broker">Exness</span>
-    </button>
-    <button class="mt5-btn" onclick="openMT5('xm','XAUUSD')">
-      XAU/USD
-      <span class="mt5-broker">XM</span>
-    </button>
   </div>
 
-  <a class="link-btn" href="https://posi-kenmon.netlify.app" target="_blank" rel="noopener" style="margin-top:4px">
-    <span class="icon">🚦</span>ポジポジ検問所を開く
-  </a>
+  <div class="sec-heading">アプリ起動</div>
+  <div class="app-grid">
+    <a class="app-btn" href="metatrader5://">
+      MT5
+      <span class="app-sub">MetaTrader 5</span>
+    </a>
+    <a class="app-btn" href="metatrader4://">
+      MT4
+      <span class="app-sub">MetaTrader 4</span>
+    </a>
+  </div>
 
 </div>
 
-<!-- ═══ USD/JPY ═══ -->
-<div class="tab-panel" id="panel-usdjpy" data-color="cyan">
+<!-- ═══ USD ═══ -->
+<div class="tab-panel" id="panel-usd">
 
   <div class="ohlc-card">
-    <div class="ohlc-label">前日 OHLC — USD/JPY</div>
+    <div class="ohlc-title" id="usd-title">前日 OHLC — USD/JPY</div>
     <div class="ohlc-grid">
       <div class="ohlc-item">
-        <span class="ohlc-key">OPEN</span>
-        <span class="ohlc-val" id="usdjpy-open">—</span>
+        <span class="ohlc-key">始値</span>
+        <span class="ohlc-val" id="usd-open">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">HIGH</span>
-        <span class="ohlc-val hi" id="usdjpy-high">—</span>
+        <span class="ohlc-key">高値</span>
+        <span class="ohlc-val hi" id="usd-high">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">LOW</span>
-        <span class="ohlc-val lo" id="usdjpy-low">—</span>
+        <span class="ohlc-key">安値</span>
+        <span class="ohlc-val lo" id="usd-low">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">CLOSE</span>
-        <span class="ohlc-val" id="usdjpy-close">—</span>
+        <span class="ohlc-key">終値</span>
+        <span class="ohlc-val" id="usd-close">—</span>
       </div>
     </div>
-    <div class="ohlc-updated" id="usdjpy-updated"></div>
   </div>
 
   <div class="sec-heading">チャート・分析</div>
-  <div class="link-grid">
-    <a class="link-btn" href="https://www.tradingview.com/chart/?symbol=USDJPY" target="_blank" rel="noopener">
-      <span class="icon">📈</span>TradingView
+  <div class="chart-row">
+    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=USDJPY" target="_blank" rel="noopener">
+      <span class="tv-icon">📈</span>
+      TradingView
     </a>
-    <a class="link-btn" href="https://www.wsj.com/market-data/quotes/index/DXY" target="_blank" rel="noopener">
-      <span class="icon">💵</span>DXY指数
-    </a>
-    <a class="link-btn" href="https://twitter.com/search?q=USDJPY+OR+%E3%83%89%E3%83%AB%E5%86%86&src=typed_query&f=live" target="_blank" rel="noopener">
-      <span class="icon">𝕏</span>X リアルタイム
-    </a>
-    <a class="link-btn" href="https://finance.yahoo.com/quote/JPY%3DX" target="_blank" rel="noopener">
-      <span class="icon">🔗</span>Yahoo Finance
-    </a>
-  </div>
-
-  <div class="sec-heading">市場センチメント</div>
-  <a class="vix-card" href="https://finance.yahoo.com/quote/%5EVIX/" target="_blank" rel="noopener">
-    <div>
-      <div class="vix-label">VIX — 恐怖指数</div>
-      <div class="vix-desc">市場ボラティリティ参照 → Yahoo Finance</div>
+    <div class="chart-side">
+      <a class="side-btn" href="https://jp.investing.com/economic-calendar/" target="_blank" rel="noopener">経済指標</a>
+      <a class="side-btn" href="https://jp.investing.com/currencies/usd-jpy" target="_blank" rel="noopener">Investing.com</a>
+      <a class="side-btn" href="https://jp.tradingview.com/symbols/TVC-VIX/" target="_blank" rel="noopener">VIX</a>
     </div>
-    <span class="vix-arrow">↗</span>
-  </a>
-
-  <div class="sec-heading">MT5 起動</div>
-  <div class="mt5-grid">
-    <button class="mt5-btn" onclick="openMT5('exness','USDJPY')">
-      USD/JPY
-      <span class="mt5-broker">Exness</span>
-    </button>
-    <button class="mt5-btn" onclick="openMT5('xm','USDJPY')">
-      USD/JPY
-      <span class="mt5-broker">XM</span>
-    </button>
   </div>
 
-  <a class="link-btn" href="https://posi-kenmon.netlify.app" target="_blank" rel="noopener" style="margin-top:4px">
-    <span class="icon">🚦</span>ポジポジ検問所を開く
-  </a>
+  <div class="sec-heading">アプリ起動</div>
+  <div class="app-grid">
+    <a class="app-btn" href="metatrader5://">
+      MT5
+      <span class="app-sub">MetaTrader 5</span>
+    </a>
+    <a class="app-btn" href="metatrader4://">
+      MT4
+      <span class="app-sub">MetaTrader 4</span>
+    </a>
+  </div>
+
+</div>
+
+<!-- ═══ JPY ═══ -->
+<div class="tab-panel" id="panel-jpy">
+
+  <div class="ohlc-card">
+    <div class="ohlc-title" id="jpy-title">前日 OHLC — USD/JPY</div>
+    <div class="ohlc-grid">
+      <div class="ohlc-item">
+        <span class="ohlc-key">始値</span>
+        <span class="ohlc-val" id="jpy-open">—</span>
+      </div>
+      <div class="ohlc-item">
+        <span class="ohlc-key">高値</span>
+        <span class="ohlc-val hi" id="jpy-high">—</span>
+      </div>
+      <div class="ohlc-item">
+        <span class="ohlc-key">安値</span>
+        <span class="ohlc-val lo" id="jpy-low">—</span>
+      </div>
+      <div class="ohlc-item">
+        <span class="ohlc-key">終値</span>
+        <span class="ohlc-val" id="jpy-close">—</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sec-heading">チャート・分析</div>
+  <div class="chart-row">
+    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=USDJPY" target="_blank" rel="noopener">
+      <span class="tv-icon">📈</span>
+      TradingView
+    </a>
+    <div class="chart-side">
+      <a class="side-btn" href="https://jp.investing.com/economic-calendar/" target="_blank" rel="noopener">経済指標</a>
+      <a class="side-btn" href="https://jp.investing.com/currencies/usd-jpy" target="_blank" rel="noopener">Investing.com</a>
+      <a class="side-btn" href="https://jp.tradingview.com/symbols/TVC-VIX/" target="_blank" rel="noopener">VIX</a>
+    </div>
+  </div>
+
+  <div class="sec-heading">アプリ起動</div>
+  <div class="app-grid">
+    <a class="app-btn" href="metatrader5://">
+      MT5
+      <span class="app-sub">MetaTrader 5</span>
+    </a>
+    <a class="app-btn" href="metatrader4://">
+      MT4
+      <span class="app-sub">MetaTrader 4</span>
+    </a>
+  </div>
 
 </div>
 
 <!-- ═══ SILVER ═══ -->
-<div class="tab-panel" id="panel-silver" data-color="silver">
+<div class="tab-panel" id="panel-silver">
 
   <div class="ohlc-card">
-    <div class="ohlc-label">前日 OHLC — XAG/USD</div>
+    <div class="ohlc-title" id="silver-title">前日 OHLC — XAG/USD</div>
     <div class="ohlc-grid">
       <div class="ohlc-item">
-        <span class="ohlc-key">OPEN</span>
+        <span class="ohlc-key">始値</span>
         <span class="ohlc-val" id="silver-open">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">HIGH</span>
+        <span class="ohlc-key">高値</span>
         <span class="ohlc-val hi" id="silver-high">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">LOW</span>
+        <span class="ohlc-key">安値</span>
         <span class="ohlc-val lo" id="silver-low">—</span>
       </div>
       <div class="ohlc-item">
-        <span class="ohlc-key">CLOSE</span>
+        <span class="ohlc-key">終値</span>
         <span class="ohlc-val" id="silver-close">—</span>
       </div>
     </div>
-    <div class="ohlc-updated" id="silver-updated"></div>
   </div>
 
   <div class="sec-heading">チャート・分析</div>
-  <div class="link-grid">
-    <a class="link-btn" href="https://www.tradingview.com/chart/?symbol=XAGUSD" target="_blank" rel="noopener">
-      <span class="icon">📈</span>TradingView
+  <div class="chart-row">
+    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=XAGUSD" target="_blank" rel="noopener">
+      <span class="tv-icon">📈</span>
+      TradingView
     </a>
-    <a class="link-btn" href="https://www.wsj.com/market-data/quotes/index/DXY" target="_blank" rel="noopener">
-      <span class="icon">💵</span>DXY指数
-    </a>
-    <a class="link-btn" href="https://twitter.com/search?q=XAGUSD+OR+%E9%8A%80%E7%9B%B8%E5%A0%B4&src=typed_query&f=live" target="_blank" rel="noopener">
-      <span class="icon">𝕏</span>X リアルタイム
-    </a>
-    <a class="link-btn" href="https://finance.yahoo.com/quote/SI%3DF" target="_blank" rel="noopener">
-      <span class="icon">🔗</span>Yahoo Finance
-    </a>
-  </div>
-
-  <div class="sec-heading">市場センチメント</div>
-  <a class="vix-card" href="https://finance.yahoo.com/quote/%5EVIX/" target="_blank" rel="noopener">
-    <div>
-      <div class="vix-label">VIX — 恐怖指数</div>
-      <div class="vix-desc">市場ボラティリティ参照 → Yahoo Finance</div>
+    <div class="chart-side">
+      <a class="side-btn" href="https://jp.investing.com/economic-calendar/" target="_blank" rel="noopener">経済指標</a>
+      <a class="side-btn" href="https://jp.investing.com/currencies/xag-usd" target="_blank" rel="noopener">Investing.com</a>
+      <a class="side-btn" href="https://jp.tradingview.com/symbols/TVC-VIX/" target="_blank" rel="noopener">VIX</a>
     </div>
-    <span class="vix-arrow">↗</span>
-  </a>
-
-  <div class="sec-heading">MT5 起動</div>
-  <div class="mt5-grid">
-    <button class="mt5-btn" onclick="openMT5('exness','XAGUSD')">
-      XAG/USD
-      <span class="mt5-broker">Exness</span>
-    </button>
-    <button class="mt5-btn" onclick="openMT5('xm','XAGUSD')">
-      XAG/USD
-      <span class="mt5-broker">XM</span>
-    </button>
   </div>
 
-  <a class="link-btn" href="https://posi-kenmon.netlify.app" target="_blank" rel="noopener" style="margin-top:4px">
-    <span class="icon">🚦</span>ポジポジ検問所を開く
-  </a>
+  <div class="sec-heading">アプリ起動</div>
+  <div class="app-grid">
+    <a class="app-btn" href="metatrader5://">
+      MT5
+      <span class="app-sub">MetaTrader 5</span>
+    </a>
+    <a class="app-btn" href="metatrader4://">
+      MT4
+      <span class="app-sub">MetaTrader 4</span>
+    </a>
+  </div>
 
 </div>
 
@@ -679,40 +667,27 @@ document.querySelectorAll('.theme-btn').forEach(btn => {
 // ─── CLOCK ───
 function updateClock() {
   const now = new Date();
-  const h = String(now.getHours()).padStart(2,'0');
-  const m = String(now.getMinutes()).padStart(2,'0');
-  const s = String(now.getSeconds()).padStart(2,'0');
+  const h = String(now.getHours()).padStart(2, '0');
+  const m = String(now.getMinutes()).padStart(2, '0');
+  const s = String(now.getSeconds()).padStart(2, '0');
   document.getElementById('clock').textContent = `${h}:${m}:${s} JST`;
 }
 setInterval(updateClock, 1000);
 updateClock();
 
 // ─── SESSIONS (JST基準) ───
-const SESSIONS = {
-  tokyo:  { start: 8,  end: 15 },
-  london: { start: 16, end: 24 },
-  ny:     { start: 21, end: 30 },
-  sydney: { start: 7,  end: 16 },
-};
-
 function updateSessions() {
   const now = new Date();
-  const jstH = now.getHours() + now.getMinutes() / 60;
+  const h = now.getHours() + now.getMinutes() / 60;
 
-  function isActive(start, end) {
-    if (end <= 24) return jstH >= start && jstH < end;
-    return jstH >= start || jstH < (end - 24);
+  function active(start, end) {
+    if (end <= 24) return h >= start && h < end;
+    return h >= start || h < (end - 24);
   }
 
-  const map = {
-    'sess-tokyo':  isActive(SESSIONS.tokyo.start,  SESSIONS.tokyo.end),
-    'sess-london': isActive(SESSIONS.london.start, SESSIONS.london.end),
-    'sess-ny':     isActive(SESSIONS.ny.start,     SESSIONS.ny.end),
-    'sess-sydney': isActive(SESSIONS.sydney.start, SESSIONS.sydney.end),
-  };
-  for (const [id, active] of Object.entries(map)) {
-    document.getElementById(id).classList.toggle('active', active);
-  }
+  document.getElementById('sess-tokyo').classList.toggle('active',  active(8, 15));
+  document.getElementById('sess-london').classList.toggle('active', active(16, 25));
+  document.getElementById('sess-ny').classList.toggle('active',     active(21, 30));
 }
 setInterval(updateSessions, 10000);
 updateSessions();
@@ -735,43 +710,34 @@ async function loadOHLC() {
     if (!res.ok) return;
     const d = await res.json();
 
-    function set(prefix, sym, dp) {
-      const sym2 = sym.replace('/','');
-      const data = d[sym2] || d[sym] || null;
+    let dateLabel = '';
+    if (d.updated) {
+      const parts = d.updated.split('-');
+      if (parts.length === 3) {
+        dateLabel = `（${parseInt(parts[1])}/${parseInt(parts[2])}）`;
+      }
+    }
+
+    function set(prefix, sym, dp, pairLabel) {
+      const data = d[sym] || null;
       if (!data) return;
       document.getElementById(`${prefix}-open`).textContent  = Number(data.open).toFixed(dp);
       document.getElementById(`${prefix}-high`).textContent  = Number(data.high).toFixed(dp);
       document.getElementById(`${prefix}-low`).textContent   = Number(data.low).toFixed(dp);
       document.getElementById(`${prefix}-close`).textContent = Number(data.close).toFixed(dp);
-      if (d.updated) {
-        document.getElementById(`${prefix}-updated`).textContent = `更新: ${d.updated}`;
-      }
+      const titleEl = document.getElementById(`${prefix}-title`);
+      if (titleEl) titleEl.textContent = `前日${dateLabel}OHLC — ${pairLabel}`;
     }
 
-    set('gold',   'XAUUSD', 2);
-    set('usdjpy', 'USDJPY', 3);
-    set('silver', 'XAGUSD', 3);
-  } catch(e) {
+    set('gold',   'XAUUSD', 2, 'XAU/USD');
+    set('usd',    'USDJPY', 3, 'USD/JPY');
+    set('jpy',    'USDJPY', 3, 'USD/JPY');
+    set('silver', 'XAGUSD', 3, 'XAG/USD');
+  } catch (e) {
     console.warn('OHLC load failed:', e);
   }
 }
 loadOHLC();
-
-// ─── MT5 ───
-function openMT5(broker, symbol) {
-  const profiles = {
-    exness: { name: 'Exness', server: 'Exness-MT5Real13' },
-    xm:     { name: 'XM',     server: 'XMTrading-MT5 3' },
-  };
-  const p = profiles[broker];
-  if (!p) return;
-  const uri = `mt5://open?server=${encodeURIComponent(p.server)}&symbol=${symbol}`;
-  try {
-    window.location.href = uri;
-  } catch(e) {
-    alert(`MT5を起動してください\nブローカー: ${p.name}\nサーバー: ${p.server}\n銘柄: ${symbol}`);
-  }
-}
 </script>
 </body>
 </html>
