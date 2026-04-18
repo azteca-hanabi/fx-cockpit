@@ -245,47 +245,6 @@ header {
 }
 .tab-panel.active { display: flex; }
 
-/* ─── OHLC CARD ─── */
-.ohlc-card {
-  background: var(--bg3);
-  border: 1px solid var(--border2);
-  border-radius: 8px;
-  padding: 14px 16px;
-  transition: background .2s, border-color .2s;
-}
-
-.ohlc-title {
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--muted);
-  margin-bottom: 12px;
-  letter-spacing: .03em;
-}
-
-.ohlc-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 8px;
-}
-
-.ohlc-item { display: flex; flex-direction: column; gap: 4px; }
-
-.ohlc-key {
-  font-size: 11px;
-  font-weight: 500;
-  color: var(--muted);
-  letter-spacing: .04em;
-}
-
-.ohlc-val {
-  font-size: 18px;
-  font-weight: 700;
-  color: var(--text);
-  line-height: 1.2;
-}
-.ohlc-val.hi { color: var(--green); }
-.ohlc-val.lo { color: var(--red); }
-
 /* ─── SECTION HEADING ─── */
 .sec-heading {
   font-size: 12px;
@@ -407,7 +366,7 @@ header {
   letter-spacing: .03em;
 }
 
-#news-list {
+#news-list, #usdjpy-news-list {
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -436,9 +395,15 @@ header {
 }
 .news-title:hover { color: var(--gold); }
 
+/* ─── TRADINGVIEW WIDGET ─── */
+.tv-widget-wrap {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--border2);
+}
+
 /* ─── SMALL SCREEN ADJUSTMENTS ─── */
 @media (max-width: 360px) {
-  .ohlc-val { font-size: 15px; }
   #clock { font-size: 11px; }
 }
 </style>
@@ -471,27 +436,27 @@ header {
 <!-- ═══ GOLD ═══ -->
 <div class="tab-panel active" id="panel-gold">
 
-  <div class="ohlc-card">
-    <div class="ohlc-title" id="gold-title">前日 OHLC — XAU/USD</div>
-    <div class="ohlc-grid">
-      <div class="ohlc-item">
-        <span class="ohlc-key">始値</span>
-        <span class="ohlc-val" id="gold-open">—</span>
+  <!-- ⚠️ TradingViewウィジェット: 帰属表示（ロゴ・リンク）をCSSで隠したり削除したりしないこと -->
+  <div class="tv-widget-wrap">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <div class="tradingview-widget-copyright">
+        <a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">
+          <span class="blue-text">Track all markets on TradingView</span>
+        </a>
       </div>
-      <div class="ohlc-item">
-        <span class="ohlc-key">高値</span>
-        <span class="ohlc-val hi" id="gold-high">—</span>
-      </div>
-      <div class="ohlc-item">
-        <span class="ohlc-key">安値</span>
-        <span class="ohlc-val lo" id="gold-low">—</span>
-      </div>
-      <div class="ohlc-item">
-        <span class="ohlc-key">終値</span>
-        <span class="ohlc-val" id="gold-close">—</span>
-      </div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
+      {
+        "symbol": "OANDA:XAUUSD",
+        "width": "100%",
+        "colorTheme": "dark",
+        "isTransparent": true,
+        "locale": "ja"
+      }
+      </script>
     </div>
   </div>
+  <!-- ⚠️ TradingViewウィジェット終了: 上記帰属表示を削除・非表示にしないこと -->
 
   <div class="sec-heading">チャート・分析</div>
   <div class="chart-row">
@@ -500,7 +465,7 @@ header {
       TradingView
     </a>
     <div class="chart-side">
-      <a class="side-btn" href="https://fx.minkabu.jp/indicators" target="_blank" rel="noopener">経済指標</a>
+      <a class="side-btn" href="https://fx.minkabu.jp/indicators" target="_blank" rel="noopener">主な経済指標</a>
       <a class="side-btn" href="https://jp.tradingview.com/symbols/XAUUSD/news/" target="_blank" rel="noopener">ゴールドニュース</a>
       <a class="side-btn" href="https://edition.cnn.com/markets/fear-and-greed" target="_blank" rel="noopener">恐怖&amp;強欲指数</a>
     </div>
@@ -527,27 +492,27 @@ header {
 <!-- ═══ USD/JPY ═══ -->
 <div class="tab-panel" id="panel-usdjpy">
 
-  <div class="ohlc-card">
-    <div class="ohlc-title" id="usdjpy-title">前日 OHLC — USD/JPY</div>
-    <div class="ohlc-grid">
-      <div class="ohlc-item">
-        <span class="ohlc-key">始値</span>
-        <span class="ohlc-val" id="usdjpy-open">—</span>
+  <!-- ⚠️ TradingViewウィジェット: 帰属表示（ロゴ・リンク）をCSSで隠したり削除したりしないこと -->
+  <div class="tv-widget-wrap">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <div class="tradingview-widget-copyright">
+        <a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">
+          <span class="blue-text">Track all markets on TradingView</span>
+        </a>
       </div>
-      <div class="ohlc-item">
-        <span class="ohlc-key">高値</span>
-        <span class="ohlc-val hi" id="usdjpy-high">—</span>
-      </div>
-      <div class="ohlc-item">
-        <span class="ohlc-key">安値</span>
-        <span class="ohlc-val lo" id="usdjpy-low">—</span>
-      </div>
-      <div class="ohlc-item">
-        <span class="ohlc-key">終値</span>
-        <span class="ohlc-val" id="usdjpy-close">—</span>
-      </div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js" async>
+      {
+        "symbol": "OANDA:USDJPY",
+        "width": "100%",
+        "colorTheme": "dark",
+        "isTransparent": true,
+        "locale": "ja"
+      }
+      </script>
     </div>
   </div>
+  <!-- ⚠️ TradingViewウィジェット終了: 上記帰属表示を削除・非表示にしないこと -->
 
   <div class="sec-heading">チャート・分析</div>
   <div class="chart-row">
@@ -556,7 +521,7 @@ header {
       TradingView
     </a>
     <div class="chart-side">
-      <a class="side-btn" href="https://fx.minkabu.jp/indicators" target="_blank" rel="noopener">経済指標</a>
+      <a class="side-btn" href="https://fx.minkabu.jp/indicators" target="_blank" rel="noopener">主な経済指標</a>
       <a class="side-btn" href="https://jp.tradingview.com/symbols/USDJPY/news/" target="_blank" rel="noopener">ドル円関連ニュース</a>
       <a class="side-btn" href="https://edition.cnn.com/markets/fear-and-greed" target="_blank" rel="noopener">恐怖&amp;強欲指数</a>
     </div>
@@ -640,34 +605,12 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
   });
 });
 
-// ─── OHLC ───
+// OHLC表示は将来復活予定（Self-hosted Runner + MT5連携）
 async function loadOHLC() {
   try {
     const res = await fetch(`public/data/ohlc.json?t=${Date.now()}`);
     if (!res.ok) return;
-    const d = await res.json();
-
-    let dateLabel = '';
-    if (d.updated) {
-      const parts = d.updated.split('-');
-      if (parts.length === 3) {
-        dateLabel = `（${parseInt(parts[1])}/${parseInt(parts[2])}）`;
-      }
-    }
-
-    function set(prefix, sym, dp, pairLabel) {
-      const data = d[sym] || null;
-      if (!data) return;
-      document.getElementById(`${prefix}-open`).textContent  = Number(data.open).toFixed(dp);
-      document.getElementById(`${prefix}-high`).textContent  = Number(data.high).toFixed(dp);
-      document.getElementById(`${prefix}-low`).textContent   = Number(data.low).toFixed(dp);
-      document.getElementById(`${prefix}-close`).textContent = Number(data.close).toFixed(dp);
-      const titleEl = document.getElementById(`${prefix}-title`);
-      if (titleEl) titleEl.textContent = `前日${dateLabel}OHLC — ${pairLabel}`;
-    }
-
-    set('gold',   'XAUUSD', 2, 'XAU/USD');
-    set('usdjpy', 'USDJPY', 3, 'USD/JPY');
+    // 表示処理は削除済み（将来復活予定）
   } catch (e) {
     console.warn('OHLC load failed:', e);
   }
@@ -689,27 +632,53 @@ async function loadNews() {
     if (!res.ok) return;
     const d = await res.json();
 
+    // 更新時刻をJST表示
     let dateStr = '';
     if (d.updated) {
       const dt = new Date(d.updated);
-      dateStr = `更新: ${dt.getUTCFullYear()}/${dt.getUTCMonth()+1}/${dt.getUTCDate()} ${String(dt.getUTCHours()).padStart(2,'0')}:${String(dt.getUTCMinutes()).padStart(2,'0')} UTC`;
+      const jst = new Date(dt.getTime() + 9 * 60 * 60 * 1000);
+      const mm = String(jst.getUTCMonth() + 1).padStart(2, '0');
+      const dd = String(jst.getUTCDate()).padStart(2, '0');
+      const hh = String(jst.getUTCHours()).padStart(2, '0');
+      const mi = String(jst.getUTCMinutes()).padStart(2, '0');
+      dateStr = `更新: ${mm}/${dd} ${hh}:${mi} JST`;
     }
 
-    const noNews = '<p style="color:var(--muted);font-size:12px;padding:6px 0">ニュースはありません</p>';
-    const newsHtml = (!d.items || d.items.length === 0) ? noNews :
-      d.items.map(item =>
+    const now = Date.now();
+    const limit72h = 72 * 60 * 60 * 1000;
+
+    function filterItems(items) {
+      if (!items || items.length === 0) return [];
+      return items
+        .filter(item => {
+          if (!item.isoDate) return true;
+          return (now - new Date(item.isoDate).getTime()) <= limit72h;
+        })
+        .slice(0, 10);
+    }
+
+    function renderItems(items) {
+      if (items.length === 0) {
+        return '<p style="color:var(--muted);font-size:12px;padding:6px 0">ニュースはありません</p>';
+      }
+      return items.map(item =>
         `<div class="news-item">` +
           `<div class="news-source">${escHtml(item.source)}</div>` +
           `<a class="news-title" href="${escHtml(item.link)}" target="_blank" rel="noopener">${escHtml(item.title)}</a>` +
         `</div>`
       ).join('');
+    }
 
-    [['news-updated', 'news-list'], ['usdjpy-news-updated', 'usdjpy-news-list']].forEach(([updId, listId]) => {
-      const updEl = document.getElementById(updId);
-      if (updEl) updEl.textContent = dateStr;
-      const listEl = document.getElementById(listId);
-      if (listEl) listEl.innerHTML = newsHtml;
-    });
+    // GOLD（gold_items優先、旧形式items fallback）
+    const goldItems = filterItems(d.gold_items || d.items || []);
+    document.getElementById('news-updated').textContent = dateStr;
+    document.getElementById('news-list').innerHTML = renderItems(goldItems);
+
+    // USD/JPY（usdjpy_items優先、旧形式items fallback）
+    const usdjpyItems = filterItems(d.usdjpy_items || d.items || []);
+    document.getElementById('usdjpy-news-updated').textContent = dateStr;
+    document.getElementById('usdjpy-news-list').innerHTML = renderItems(usdjpyItems);
+
   } catch (e) {
     console.warn('News load failed:', e);
   }
