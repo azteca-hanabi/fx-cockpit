@@ -434,7 +434,8 @@ header {
 
   <div class="sec-heading">チャート・分析</div>
   <div class="chart-row">
-    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=XAUUSD" target="_blank" rel="noopener">
+    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=XAUUSD" rel="noopener"
+       data-tv-symbol="XAUUSD" data-tv-web="https://jp.tradingview.com/chart/?symbol=XAUUSD">
       <span class="tv-icon">📈</span>
       TradingView
     </a>
@@ -472,7 +473,8 @@ header {
 
   <div class="sec-heading">チャート・分析</div>
   <div class="chart-row">
-    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=USDJPY" target="_blank" rel="noopener">
+    <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=USDJPY" rel="noopener"
+       data-tv-symbol="USDJPY" data-tv-web="https://jp.tradingview.com/chart/?symbol=USDJPY">
       <span class="tv-icon">📈</span>
       TradingView
     </a>
@@ -502,6 +504,37 @@ header {
 </div>
 
 <script>
+// ─── TRADINGVIEW APP LAUNCH WITH WEB FALLBACK ───
+document.querySelectorAll('[data-tv-symbol]').forEach(btn => {
+  btn.addEventListener('click', function (e) {
+    e.preventDefault();
+    const webUrl = this.dataset.tvWeb;
+    const symbol = this.dataset.tvSymbol;
+    let appOpened = false;
+
+    // アプリが起動するとページが非表示になる
+    const onHide = () => {
+      if (document.hidden) {
+        appOpened = true;
+        clearTimeout(timer);
+        document.removeEventListener('visibilitychange', onHide);
+      }
+    };
+    document.addEventListener('visibilitychange', onHide);
+
+    // 1500ms後もページが表示中ならアプリ未インストール → WEB版へ
+    const timer = setTimeout(() => {
+      document.removeEventListener('visibilitychange', onHide);
+      if (!appOpened) {
+        window.open(webUrl, '_blank', 'noopener,noreferrer');
+      }
+    }, 1500);
+
+    // TradingViewアプリ起動を試みる
+    window.location.href = `tradingview://chart?symbol=${symbol}`;
+  });
+});
+
 // ─── TRADINGVIEW WIDGETS ───
 function createTVWidget(wrapId, symbol) {
   const wrap = document.getElementById(wrapId);
