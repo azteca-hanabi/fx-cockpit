@@ -400,16 +400,20 @@ header {
   border-radius: 8px;
   overflow: hidden;
   border: 1px solid var(--border2);
+  background: var(--bg2);
 }
 .tradingview-widget-copyright {
   padding: 2px 8px 4px;
-  background: var(--bg3);
+  background: transparent;
   font-size: 11px;
   line-height: 1.4;
 }
 .tradingview-widget-copyright .blue-text {
   color: var(--muted) !important;
   text-decoration: underline;
+}
+[data-theme="dim"] .tradingview-widget-copyright .blue-text {
+  color: #ffffff !important;
 }
 
 /* ─── SMALL SCREEN ADJUSTMENTS ─── */
@@ -538,7 +542,7 @@ function createTVWidget(wrapId, symbol) {
   const s = document.createElement('script');
   s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js';
   s.async = true;
-  s.textContent = JSON.stringify({ symbol, width: '100%', colorTheme: theme, isTransparent: false, locale: 'ja' });
+  s.textContent = JSON.stringify({ symbol, width: '100%', colorTheme: theme, isTransparent: true, locale: 'ja' });
   wrap.querySelector('.tradingview-widget-container').appendChild(s);
 }
 
