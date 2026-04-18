@@ -1,126 +1,105 @@
 {
-  "updated": "2026-04-18T00:22:47Z",
+  "updated": "2026-04-18T23:53:35Z",
   "gold_items": [
+    {
+      "source": "Investing.com 一般",
+      "title": "ゴールドマン・サックス、財政・インフレ見通しを理由にEUR/HUF予想を引き下げ",
+      "link": "https://jp.investing.com/news/forex-news/article-93CH-1496150",
+      "published": "2026-04-18 10:13:02",
+      "isoDate": "2026-04-18T10:13:02Z"
+    },
     {
       "source": "Investing.com 経済",
       "title": "ゴールドマン・サックス、世界的な上昇にもかかわらず英国株に「深い」バリュエーション割引を指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1496081",
       "published": "2026-04-18 00:09:03",
       "isoDate": "2026-04-18T00:09:03Z"
-    },
-    {
-      "source": "Investing.com 一般",
-      "title": "NY為替：米イランの早期合意期待で原油安、円は反発",
-      "link": "https://jp.investing.com/news/forex-news/article-1496012",
-      "published": "2026-04-17 22:15:05",
-      "isoDate": "2026-04-17T22:15:05Z"
-    },
-    {
-      "source": "Investing.com 一般",
-      "title": "NY原油：大幅安、中東情勢改善への期待高まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1495989",
-      "published": "2026-04-17 21:45:05",
-      "isoDate": "2026-04-17T21:45:05Z"
-    },
-    {
-      "source": "Investing.com 一般",
-      "title": "NY金：反発、原油安を意識した買いが入る",
-      "link": "https://jp.investing.com/news/forex-news/article-1495974",
-      "published": "2026-04-17 21:30:05",
-      "isoDate": "2026-04-17T21:30:05Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "BCA:石油ショックがインフレに持続的影響を及ぼす可能性は低い",
+      "link": "https://jp.investing.com/news/economy-news/article-1496163",
+      "published": "2026-04-18 22:37:32",
+      "isoDate": "2026-04-18T22:37:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "豪州が日本のステルス・フリゲート艦取得で200億豪ドルの画期的契約を締結",
+      "link": "https://jp.investing.com/news/economy-news/article-1496149",
+      "published": "2026-04-18 09:56:24",
+      "isoDate": "2026-04-18T09:56:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIは労働市場にどのような影響を与えるのか",
+      "link": "https://jp.investing.com/news/economy-news/article-1496145",
+      "published": "2026-04-18 09:26:40",
+      "isoDate": "2026-04-18T09:26:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "世界的エネルギー危機が需要を押し上げ、中国のクリーンテック輸出が急増",
+      "link": "https://jp.investing.com/news/economy-news/article-1496133",
+      "published": "2026-04-18 07:04:13",
+      "isoDate": "2026-04-18T07:04:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：中東情勢の行方、国内外決算発表本格化、全国CPI",
+      "link": "https://jp.investing.com/news/forex-news/article-1496131",
+      "published": "2026-04-18 07:00:05",
+      "isoDate": "2026-04-18T07:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：中東情勢の改善期待先取りでやや過熱感も、国内外決算発表本格化が注目点に",
+      "link": "https://jp.investing.com/news/forex-news/article-1496128",
+      "published": "2026-04-18 06:00:04",
+      "isoDate": "2026-04-18T06:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：中東情勢改善への方向性高まるが、期待感先取りで過熱感も",
+      "link": "https://jp.investing.com/news/forex-news/article-1496126",
+      "published": "2026-04-18 06:00:03",
+      "isoDate": "2026-04-18T06:00:03Z"
+    },
+    {
+      "source": "Investing.com 一般",
+      "title": "豪ドル週間見通し：伸び悩みか、中東紛争の早期終結について懐疑的な見方も",
+      "link": "https://jp.investing.com/news/forex-news/article-1496122",
+      "published": "2026-04-18 05:15:03",
+      "isoDate": "2026-04-18T05:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、水曜日までに合意なければイラン爆撃再開を警告",
+      "link": "https://jp.investing.com/news/economy-news/article-1496125",
+      "published": "2026-04-18 05:12:16",
+      "isoDate": "2026-04-18T05:12:16Z"
+    },
+    {
+      "source": "Investing.com 一般",
+      "title": "為替週間見通し：ドルは下げ渋りか、戦闘終結に向けた合意形成は保証されず",
+      "link": "https://jp.investing.com/news/forex-news/article-1496120",
+      "published": "2026-04-18 05:00:04",
+      "isoDate": "2026-04-18T05:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Anthropic CEO、新型AIモデルを巡る緊張緩和でトランプ政権高官と会談",
+      "link": "https://jp.investing.com/news/company-news/article-1496092",
+      "published": "2026-04-18 00:41:44",
+      "isoDate": "2026-04-18T00:41:44Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "17日の米国市場ダイジェスト：米国株式市場は続伸、早期の戦争終結期待",
       "link": "https://jp.investing.com/news/forex-news/article-1496061",
       "published": "2026-04-17 23:30:06",
       "isoDate": "2026-04-17T23:30:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は続伸、早期の戦争終結期待",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1496048",
-      "published": "2026-04-17 23:15:06",
-      "isoDate": "2026-04-17T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：米イランの早期合意期待で原油安、円は反発",
-      "link": "https://jp.investing.com/news/forex-news/article-1496012",
-      "published": "2026-04-17 22:15:05",
-      "isoDate": "2026-04-17T22:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金：反発、原油安を意識した買いが入る",
-      "link": "https://jp.investing.com/news/forex-news/article-1495974",
-      "published": "2026-04-17 21:30:05",
-      "isoDate": "2026-04-17T21:30:05Z"
-    },
-    {
-      "source": "Investing.com 一般",
-      "title": "NY株式：NYダウは868.71ドル高、早期の戦争終結期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1495973",
-      "published": "2026-04-17 21:30:05",
-      "isoDate": "2026-04-17T21:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "4月17日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1495957",
-      "published": "2026-04-17 21:15:04",
-      "isoDate": "2026-04-17T21:15:04Z"
-    },
-    {
-      "source": "Investing.com 一般",
-      "title": "[通貨オプション]R/R、円コール買い強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1495815",
-      "published": "2026-04-17 19:00:05",
-      "isoDate": "2026-04-17T19:00:05Z"
-    },
-    {
-      "source": "Investing.com 一般",
-      "title": "NY外為：ドル安値から反発、米イランの和平合意への過剰に楽観的な見方緩和",
-      "link": "https://jp.investing.com/news/forex-news/article-1495796",
-      "published": "2026-04-17 18:00:05",
-      "isoDate": "2026-04-17T18:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国のAVロボタクシー市場、2030年に190億ドル到達へ",
-      "link": "https://jp.investing.com/news/technology-news/article-1495692",
-      "published": "2026-04-17 15:04:20",
-      "isoDate": "2026-04-17T15:04:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル・円157円台、トランプ大統領がホルムズ海峡開放確認。米の封鎖は継続",
-      "link": "https://jp.investing.com/news/forex-news/article-1495657",
-      "published": "2026-04-17 14:45:05",
-      "isoDate": "2026-04-17T14:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ホルムズ海峡が再開、米イラン和平交渉が進展",
-      "link": "https://jp.investing.com/news/economy-news/article-1495376",
-      "published": "2026-04-17 12:42:12",
-      "isoDate": "2026-04-17T12:42:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウォール街、戦争を横目に史上最高値を更新　この上昇相場に乗る方法とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1495231",
-      "published": "2026-04-17 08:50:53",
-      "isoDate": "2026-04-17T08:50:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ氏、イラン戦争は「間もなく」終結すべきと発言、ネットフリックス急落―市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1495029",
-      "published": "2026-04-17 08:15:16",
-      "isoDate": "2026-04-17T08:15:16Z"
     }
   ]
 }
