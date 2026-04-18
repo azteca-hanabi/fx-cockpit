@@ -555,8 +555,10 @@ function createTVWidget(wrapId, symbol) {
     </div>`;
   const s = document.createElement('script');
   s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js';
-  s.async = true;
-  s.textContent = JSON.stringify({ symbol, width: '100%', colorTheme: theme, isTransparent: true, locale: 'ja' });
+  // async=false にしないと動的生成時に document.currentScript が null になり
+  // TradingView が設定JSONを読めなくなる（Chrome既知の挙動）
+  s.async = false;
+  s.innerHTML = JSON.stringify({ symbol, width: '100%', colorTheme: theme, isTransparent: true, locale: 'ja' });
   wrap.querySelector('.tradingview-widget-container').appendChild(s);
 }
 
@@ -587,6 +589,11 @@ document.querySelectorAll('.theme-btn').forEach(btn => {
 });
 
 initTVWidgets();
+
+// bfcache（戻るボタン等）から復帰した場合も再初期化
+window.addEventListener('pageshow', event => {
+  if (event.persisted) initTVWidgets();
+});
 
 // ─── CLOCK ───
 function updateClock() {
