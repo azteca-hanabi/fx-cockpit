@@ -1,6 +1,34 @@
 {
-  "updated": "2026-04-19T15:28:36Z",
+  "updated": "2026-04-19T15:51:07Z",
   "gold_items": [
+    {
+      "source": "Investing.com 経済全般",
+      "title": "バンス副大統領がパキスタンで米国チームを率いる、トランプ大統領はイランに交渉決裂なら攻撃と警告",
+      "link": "https://jp.investing.com/news/economy-news/article-1496203",
+      "published": "2026-04-19 13:32:19",
+      "isoDate": "2026-04-19T13:32:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "IEA事務局長、ホルムズ海峡閉鎖続く中でイラク・トルコパイプライン建設を要請",
+      "link": "https://jp.investing.com/news/commodities-news/article-1496195",
+      "published": "2026-04-19 08:36:31",
+      "isoDate": "2026-04-19T08:36:31Z"
+    },
+    {
+      "source": "Investing.com 経済全般",
+      "title": "アジアの原油在庫は中東紛争を乗り切れるか",
+      "link": "https://jp.investing.com/news/economy-news/article-1496193",
+      "published": "2026-04-19 07:59:13",
+      "isoDate": "2026-04-19T07:59:13Z"
+    },
+    {
+      "source": "Investing.com 経済全般",
+      "title": "原油価格上昇はEVバッテリー株にとって本当に強気材料か",
+      "link": "https://jp.investing.com/news/economy-news/article-1496172",
+      "published": "2026-04-19 01:28:07",
+      "isoDate": "2026-04-19T01:28:07Z"
+    },
     {
       "source": "Investing.com 一般",
       "title": "中東紛争1カ月半のドル円【フィスコ・コラム】",
@@ -14,6 +42,62 @@
       "link": "https://jp.investing.com/news/forex-news/article-1496122",
       "published": "2026-04-18 05:15:03",
       "isoDate": "2026-04-18T05:15:03Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡再開、専門家とアナリストの見解",
+      "link": "https://jp.investing.com/news/commodities-news/article-1495851",
+      "published": "2026-04-17 19:57:57",
+      "isoDate": "2026-04-17T19:57:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の石油・ガス掘削リグ数が2週連続で減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1495835",
+      "published": "2026-04-17 19:20:25",
+      "isoDate": "2026-04-17T19:20:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ビットコイン対金、イラン情勢後も安全資産としての議論は決着せず",
+      "link": "https://jp.investing.com/news/commodities-news/article-1495617",
+      "published": "2026-04-17 14:27:09",
+      "isoDate": "2026-04-17T14:27:09Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の一時再開発表で欧州天然ガス価格が急落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1495565",
+      "published": "2026-04-17 14:10:28",
+      "isoDate": "2026-04-17T14:10:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銀と鉱山株が上昇、イラン合意期待で米ドル下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1495495",
+      "published": "2026-04-17 13:44:34",
+      "isoDate": "2026-04-17T13:44:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ハンガリーへのロシア産石油供給、来週再開の可能性と次期首相",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1495227",
+      "published": "2026-04-17 11:27:23",
+      "isoDate": "2026-04-17T11:27:23Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は小幅下落も、イラン和平期待で週間ベースではプラス圏",
+      "link": "https://jp.investing.com/news/commodities-news/article-1494843",
+      "published": "2026-04-17 01:23:35",
+      "isoDate": "2026-04-17T01:23:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イスラエル・レバノン停戦で中東和平期待高まり原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1494787",
+      "published": "2026-04-16 23:54:54",
+      "isoDate": "2026-04-16T23:54:54Z"
     }
   ],
   "usdjpy_items": [
@@ -137,6 +221,69 @@
       "link": "https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz",
       "published": "Sat, 18 Apr 2026 05:04:12 +0000",
       "isoDate": "2026-04-18T05:04:12Z"
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "Robinhoodが暗号資産ウォレットを展開：暗号資産と株式に対する代替先となるか",
+      "link": "https://jp.investing.com/analysis/article-200203808",
+      "published": "Apr 18, 2022 10:59 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "暗号資産は米ドルの役割の変化から恩恵を受ける可能性",
+      "link": "https://jp.investing.com/analysis/article-200203734",
+      "published": "Apr 05, 2022 01:07 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "暗号資産のパイオニア、コインシェアーズの成長で買収候補",
+      "link": "https://jp.investing.com/analysis/article-200203658",
+      "published": "Mar 22, 2022 10:38 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "暗号資産が「まだ」急上昇しない3つの理由",
+      "link": "https://jp.investing.com/analysis/article-200203570",
+      "published": "Mar 07, 2022 13:44 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "バイナンスの成長とともに、取引所は暗号資産以外にもその力を発揮",
+      "link": "https://jp.investing.com/analysis/article-200203509",
+      "published": "Feb 24, 2022 13:23 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "ウクライナにおける地政学的リスクが暗号資産に与える影響",
+      "link": "https://jp.investing.com/analysis/article-200203489",
+      "published": "Feb 21, 2022 14:14 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "暗号資産の強気なセンチメントが戻る中、注目すべき4つの主要な投資リスク",
+      "link": "https://jp.investing.com/analysis/article-200203474",
+      "published": "Feb 17, 2022 14:30 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "暗号資産の下落は一服。ビットコイン、イーサリアムの新高値をつけるか",
+      "link": "https://jp.investing.com/analysis/article-200203448",
+      "published": "Feb 14, 2022 12:59 GMT",
+      "isoDate": ""
+    },
+    {
+      "source": "Investing.com 暗号資産",
+      "title": "Dogecoin：おふざけから始まった暗号資産は、今や冗談の粋を超える時価総額200億ドル",
+      "link": "https://jp.investing.com/analysis/article-200203417",
+      "published": "Feb 09, 2022 13:23 GMT",
+      "isoDate": ""
     }
   ]
 }
