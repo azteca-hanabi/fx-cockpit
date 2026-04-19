@@ -2,7 +2,7 @@ name: Update News
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 毎日 JST 07:00 (UTC 22:00前日)
+    - cron: '0 22 * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,6 @@ jobs:
           import feedparser, json, os, calendar
           from datetime import datetime, timezone
 
-          # GOLD用ソース（pre_filtered=True: キーワードフィルタ不要）
           GOLD_SOURCES = [
               ('Investing.com 商品先物', 'https://jp.investing.com/rss/news_11.rss', True),
               ('Investing.com 経済全般', 'https://jp.investing.com/rss/news_14.rss', False),
@@ -30,11 +29,16 @@ jobs:
               ('NHK経済',                'https://www.nhk.or.jp/rss/news/cat4.xml',  False),
           ]
 
-          # USD/JPY用ソース
           USDJPY_SOURCES = [
               ('Investing.com 外為', 'https://jp.investing.com/rss/news_285.rss', True),
               ('Investing.com 一般', 'https://jp.investing.com/rss/news_1.rss',   False),
               ('NHK経済',            'https://www.nhk.or.jp/rss/news/cat4.xml',   False),
+          ]
+
+          BTC_SOURCES = [
+              ('Investing.com 暗号資産', 'https://jp.investing.com/rss/302.rss',                                   False),
+              ('CoinDesk Japan',         'https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml', False),
+              ('Investing.com 一般',     'https://jp.investing.com/rss/news_1.rss',                        False),
           ]
 
           GOLD_EXCLUSIONS = ['ゴールドマン', 'ゴールデン', 'Goldman']
@@ -53,12 +57,6 @@ jobs:
               '為替介入', 'ドル', '円相場', '通貨',
               'トランプ', 'Trump', '関税', '地政学', '停戦', '紛争',
               '安全資産', '避難通貨', 'リスクオフ', 'リスクオン', '貿易摩擦', 'FOMC',
-          ]
-
-          BTC_SOURCES = [
-              ('Investing.com 暗号資産', 'https://jp.investing.com/rss/302.rss',                                False),
-              ('CoinDesk Japan',         'https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml', False),
-              ('Investing.com 一般',     'https://jp.investing.com/rss/news_1.rss',                        False),
           ]
 
           BTC_KEYWORDS = [
@@ -93,13 +91,11 @@ jobs:
                           if not link or link in seen:
                               continue
                           iso = get_iso_date(entry)
-                          # 72時間以内フィルタ（isoDate不明の場合は通過）
                           if iso:
                               age = now - datetime.fromisoformat(iso.replace('Z', '+00:00')).timestamp()
                               if age > LIMIT_72H:
                                   continue
                           text = title + ' ' + entry.get('summary', '')
-                          # 除外ワードチェック
                           if exclusions and any(excl in text for excl in exclusions):
                               continue
                           if pre_filtered or any(kw in text for kw in keywords):
@@ -113,7 +109,6 @@ jobs:
                               })
                   except Exception as e:
                       print(f'SKIP {source_name}: {e}')
-              # 新しい順にソート
               items.sort(key=lambda x: x['isoDate'] or '', reverse=True)
               return items[:30]
 
