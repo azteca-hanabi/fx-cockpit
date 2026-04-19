@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T16:04:59Z",
+  "updated": "2026-04-19T22:40:52Z",
   "gold_items": [
     {
       "source": "Investing.com 経済全般",
@@ -103,6 +103,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Sidus Spaceが1株4.35ドルで5850万ドルの株式公募を実施",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1496213",
+      "published": "2026-04-19 21:02:07",
+      "isoDate": "2026-04-19T21:02:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "バンス副大統領がパキスタンで米国チームを率いる、トランプ大統領はイランに交渉決裂なら攻撃と警告",
       "link": "https://jp.investing.com/news/economy-news/article-1496203",
       "published": "2026-04-19 13:32:19",
@@ -121,13 +128,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1496195",
       "published": "2026-04-19 08:36:31",
       "isoDate": "2026-04-19T08:36:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週のウォール街アナリスト注目銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1496189",
-      "published": "2026-04-19 07:29:58",
-      "isoDate": "2026-04-19T07:29:58Z"
     },
     {
       "source": "Investing.com 外為",
@@ -184,13 +184,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1496122",
       "published": "2026-04-18 05:15:03",
       "isoDate": "2026-04-18T05:15:03Z"
-    },
-    {
-      "source": "Investing.com 一般",
-      "title": "為替週間見通し：ドルは下げ渋りか、戦闘終結に向けた合意形成は保証されず",
-      "link": "https://jp.investing.com/news/forex-news/article-1496120",
-      "published": "2026-04-18 05:00:04",
-      "isoDate": "2026-04-18T05:00:04Z"
     }
   ],
   "btc_items": [
