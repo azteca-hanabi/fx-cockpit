@@ -23,23 +23,20 @@ jobs:
           from datetime import datetime, timezone
 
           GOLD_SOURCES = [
-              ('NHK経済',          'https://www.nhk.or.jp/rss/news/cat4.xml',              False),
-              ('THE GOLD ONLINE',  'https://news.yahoo.co.jp/rss/media/gonline/all.xml',   True),
-              ('ザイFX！',          'https://zai.diamond.jp/list/feed/rss',                False),
+              ('NHK経済',         'https://www.nhk.or.jp/rss/news/cat4.xml',            False),
+              ('THE GOLD ONLINE', 'https://news.yahoo.co.jp/rss/media/gonline/all.xml', False),
           ]
 
           USDJPY_SOURCES = [
               ('Investing.com 外為', 'https://jp.investing.com/rss/news_285.rss', True),
               ('NHK経済',            'https://www.nhk.or.jp/rss/news/cat4.xml',   False),
-              ('ザイFX！',            'https://zai.diamond.jp/list/feed/rss',      False),
           ]
 
           BTC_SOURCES = [
               ('Investing.com 暗号資産', 'https://jp.investing.com/rss/302.rss', False),
-              ('CoinPost',               'https://coinpost.jp/feed',              True),
           ]
 
-          GOLD_EXCLUSIONS = ['ゴールドマン', 'ゴールデン', 'Goldman']
+          GOLD_EXCLUSIONS = ['ゴールドマン', 'ゴールデン', 'Goldman', '年金', '相続', 'マンション', '不動産', '保険', '節税']
 
           GOLD_KEYWORDS = [
               'XAU', 'ゴールド', '金価格', '金相場', '原油', 'WTI',
@@ -67,9 +64,11 @@ jobs:
           LIMIT_72H = 72 * 3600
 
           def get_iso_date(entry):
-              if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                  ts = calendar.timegm(entry.published_parsed)
-                  return datetime.fromtimestamp(ts, timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+              for attr in ('published_parsed', 'updated_parsed'):
+                  parsed = getattr(entry, attr, None)
+                  if parsed:
+                      ts = calendar.timegm(parsed)
+                      return datetime.fromtimestamp(ts, timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
               return ''
 
           def fetch_items(sources, keywords, exclusions=None):
