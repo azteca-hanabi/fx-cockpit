@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20T22:30:27Z",
-  "last_checked": "2026-04-20T22:30:27Z",
+  "updated": "2026-04-20T23:00:33Z",
+  "last_checked": "2026-04-20T23:00:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -39,6 +39,13 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1ワコールHD、ダイキン工業、日本化学工業など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1497762",
+      "published": "2026-04-20 22:30:04",
+      "isoDate": "2026-04-20T22:30:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "20日の米国市場ダイジェスト：米国株式市場は小幅反落、イラン和平合意への期待後退",
@@ -80,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1497632",
       "published": "2026-04-20 20:38:44",
       "isoDate": "2026-04-20T20:38:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "4月20日のNY為替・原油概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1497513",
-      "published": "2026-04-20 19:15:04",
-      "isoDate": "2026-04-20T19:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -166,13 +166,6 @@
       "link": "https://coinpost.jp/?p=703135",
       "published": "Mon, 20 Apr 2026 07:40:59 +0900",
       "isoDate": "2026-04-19T22:40:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン和平交渉期待で底堅く、中東情勢と米金融政策が焦点に｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=702961",
-      "published": "Sun, 19 Apr 2026 11:30:20 +0900",
-      "isoDate": "2026-04-19T02:30:20Z"
     },
     {
       "source": "Investing.com 暗号資産",
