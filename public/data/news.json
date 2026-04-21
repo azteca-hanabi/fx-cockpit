@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-21T01:00:28Z",
-  "last_checked": "2026-04-21T01:00:28Z",
+  "updated": "2026-04-21T01:30:24Z",
+  "last_checked": "2026-04-21T01:30:24Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米イラン協議に注目集まる中、停戦期限前に原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1497828",
+      "published": "2026-04-21 00:47:49",
+      "isoDate": "2026-04-21T00:47:49Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米天然ガス価格が上昇、中東の新たな緊張を投資家が注視",
@@ -34,6 +41,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ブラックベリー株、エヌビディアとのAI協業拡大で急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1497812",
+      "published": "2026-04-21 00:14:18",
+      "isoDate": "2026-04-21T00:14:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "停戦交渉を見極めたいとの思惑から全般は様子見姿勢の強い展開か",
       "link": "https://jp.investing.com/news/stock-market-news/article-1497789",
       "published": "2026-04-20 23:30:06",
@@ -45,13 +59,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1497783",
       "published": "2026-04-20 23:15:06",
       "isoDate": "2026-04-20T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1ワコールHD、ダイキン工業、日本化学工業など",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1497762",
-      "published": "2026-04-20 22:30:04",
-      "isoDate": "2026-04-20T22:30:04Z"
     },
     {
       "source": "Investing.com 外為",
