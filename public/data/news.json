@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21T08:00:32Z",
-  "last_checked": "2026-04-21T08:00:32Z",
+  "updated": "2026-04-21T08:30:27Z",
+  "last_checked": "2026-04-21T08:30:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,13 +62,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は伸び悩み、節目を意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1497903",
-      "published": "2026-04-21 05:15:15",
-      "isoDate": "2026-04-21T05:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アップルCEO交代計画でアジアサプライヤー株は明暗",
       "link": "https://jp.investing.com/news/stock-market-news/article-1497893",
       "published": "2026-04-21 04:47:32",
@@ -108,6 +101,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1497672",
       "published": "2026-04-20 21:02:02",
       "isoDate": "2026-04-20T21:02:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "4月に45%超の上昇、この上昇相場は本物であり、これらのAI銘柄は非常に注目に値する",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1497191",
+      "published": "2026-04-20 13:42:47",
+      "isoDate": "2026-04-20T13:42:47Z"
     },
     {
       "source": "Investing.com 外為",
