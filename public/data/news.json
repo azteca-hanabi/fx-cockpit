@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21T00:00:35Z",
-  "last_checked": "2026-04-21T00:00:35Z",
+  "updated": "2026-04-21T00:30:25Z",
+  "last_checked": "2026-04-21T00:30:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -55,13 +55,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY原油：大幅反発で87.42ドル、米国とイランの再協議開催については予断を許さない状況",
-      "link": "https://jp.investing.com/news/forex-news/article-1497778",
-      "published": "2026-04-20 23:00:06",
-      "isoDate": "2026-04-20T23:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "前日に動いた銘柄 part1ワコールHD、ダイキン工業、日本化学工業など",
       "link": "https://jp.investing.com/news/stock-market-news/article-1497762",
       "published": "2026-04-20 22:30:04",
@@ -101,6 +94,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1497191",
       "published": "2026-04-20 13:42:47",
       "isoDate": "2026-04-20T13:42:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "モルガン・スタンレー、インテルの目標株価を引き上げるも他の半導体株を優先",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1496941",
+      "published": "2026-04-20 12:05:30",
+      "isoDate": "2026-04-20T12:05:30Z"
     },
     {
       "source": "Investing.com 外為",
