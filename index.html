@@ -400,6 +400,58 @@ header {
   text-decoration: underline;
 }
 
+
+/* ─── CARD EMPHASIS（C案: ボーダー明るく + 背景明るく） ─── */
+[data-theme="dark"] {
+  --bg3:     #1a1a2e;
+  --border2: #3a3a58;
+}
+
+/* ─── MINI CHARTS ─── */
+.mini-chart-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.mini-chart-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  background: var(--bg3);
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  gap: 8px;
+}
+
+.mini-chart-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 80px;
+}
+
+.mini-chart-symbol {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: .04em;
+}
+
+.mini-chart-name {
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: .02em;
+}
+
+.mini-chart-widget {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
 /* ─── SMALL SCREEN ADJUSTMENTS ─── */
 @media (max-width: 360px) {
   #clock { font-size: 11px; }
@@ -437,6 +489,25 @@ header {
   <!-- ⚠️ TradingViewウィジェット: 帰属表示（ロゴ・リンク）をCSSで隠したり削除したりしないこと -->
   <div class="tv-widget-wrap" id="tv-gold-wrap"></div>
   <!-- ⚠️ TradingViewウィジェット終了: 上記帰属表示を削除・非表示にしないこと -->
+
+
+  <div class="sec-heading">関連チャート</div>
+  <div class="mini-chart-list">
+    <div class="mini-chart-card">
+      <div class="mini-chart-info">
+        <span class="mini-chart-symbol">DXY</span>
+        <span class="mini-chart-name">ドルインデックス</span>
+      </div>
+      <div class="mini-chart-widget" id="mc-dxy"></div>
+    </div>
+    <div class="mini-chart-card">
+      <div class="mini-chart-info">
+        <span class="mini-chart-symbol">WTI</span>
+        <span class="mini-chart-name">原油</span>
+      </div>
+      <div class="mini-chart-widget" id="mc-wti"></div>
+    </div>
+  </div>
 
   <div class="sec-heading">チャート・分析</div>
   <div class="chart-row">
@@ -477,6 +548,25 @@ header {
   <div class="tv-widget-wrap" id="tv-usdjpy-wrap"></div>
   <!-- ⚠️ TradingViewウィジェット終了: 上記帰属表示を削除・非表示にしないこと -->
 
+
+  <div class="sec-heading">関連チャート</div>
+  <div class="mini-chart-list">
+    <div class="mini-chart-card">
+      <div class="mini-chart-info">
+        <span class="mini-chart-symbol">DXY</span>
+        <span class="mini-chart-name">ドルインデックス</span>
+      </div>
+      <div class="mini-chart-widget" id="mc-dxy-usdjpy"></div>
+    </div>
+    <div class="mini-chart-card">
+      <div class="mini-chart-info">
+        <span class="mini-chart-symbol">US02Y</span>
+        <span class="mini-chart-name">米2年債利回り</span>
+      </div>
+      <div class="mini-chart-widget" id="mc-us02y"></div>
+    </div>
+  </div>
+
   <div class="sec-heading">チャート・分析</div>
   <div class="chart-row">
     <a class="tv-btn" href="https://jp.tradingview.com/chart/?symbol=USDJPY" rel="noopener"
@@ -515,6 +605,32 @@ header {
   <!-- ⚠️ TradingViewウィジェット: 帰属表示（ロゴ・リンク）をCSSで隠したり削除したりしないこと -->
   <div class="tv-widget-wrap" id="tv-btc-wrap"></div>
   <!-- ⚠️ TradingViewウィジェット終了: 上記帰属表示を削除・非表示にしないこと -->
+
+
+  <div class="sec-heading">関連チャート</div>
+  <div class="mini-chart-list">
+    <div class="mini-chart-card">
+      <div class="mini-chart-info">
+        <span class="mini-chart-symbol">BTC.D</span>
+        <span class="mini-chart-name">BTCドミナンス</span>
+      </div>
+      <div class="mini-chart-widget" id="mc-btcd"></div>
+    </div>
+    <div class="mini-chart-card">
+      <div class="mini-chart-info">
+        <span class="mini-chart-symbol">ETH</span>
+        <span class="mini-chart-name">イーサリアム</span>
+      </div>
+      <div class="mini-chart-widget" id="mc-eth"></div>
+    </div>
+    <div class="mini-chart-card">
+      <div class="mini-chart-info">
+        <span class="mini-chart-symbol">XRP</span>
+        <span class="mini-chart-name">リップル</span>
+      </div>
+      <div class="mini-chart-widget" id="mc-xrp"></div>
+    </div>
+  </div>
 
   <div class="sec-heading">チャート・分析</div>
   <div class="chart-row">
@@ -649,14 +765,61 @@ document.querySelectorAll('.theme-btn').forEach(btn => {
       b.classList.toggle('active', b.dataset.theme === t);
     });
     initTVWidgets();
+    initMiniWidgets();
   });
 });
 
 initTVWidgets();
 
+// ─── MINI CHART WIDGETS ───
+function createMiniWidget(wrapId, symbol) {
+  const wrap = document.getElementById(wrapId);
+  if (!wrap) return;
+  const theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+  wrap.innerHTML = '';
+  const container = document.createElement('div');
+  container.className = 'tradingview-widget-container';
+  const widget = document.createElement('div');
+  widget.className = 'tradingview-widget-container__widget';
+  container.appendChild(widget);
+  wrap.appendChild(container);
+  const s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';
+  s.async = true;
+  s.innerHTML = JSON.stringify({
+    symbol:      symbol,
+    width:       '100%',
+    height:      90,
+    locale:      'ja',
+    colorTheme:  theme,
+    trendLineColor: theme === 'dark' ? 'rgba(100,100,150,1)' : 'rgba(100,100,150,1)',
+    underLineColor: theme === 'dark' ? 'rgba(100,100,150,0.15)' : 'rgba(100,100,150,0.1)',
+    underLineBottomColor: 'rgba(0,0,0,0)',
+    isTransparent: true,
+    autosize:    false,
+    largeChartUrl: '',
+    noTimeScale:   true,
+  });
+  container.appendChild(s);
+}
+
+function initMiniWidgets() {
+  createMiniWidget('mc-dxy',        'TVC:DXY');
+  createMiniWidget('mc-wti',        'TVC:USOIL');
+  createMiniWidget('mc-dxy-usdjpy', 'TVC:DXY');
+  createMiniWidget('mc-us02y',      'TVC:US02Y');
+  createMiniWidget('mc-btcd',       'CRYPTOCAP:BTC.D');
+  createMiniWidget('mc-eth',        'COINBASE:ETHUSD');
+  createMiniWidget('mc-xrp',        'BITSTAMP:XRPUSD');
+}
+
+
+initMiniWidgets();
+
 // bfcache（戻るボタン等）から復帰した場合も再初期化
 window.addEventListener('pageshow', event => {
-  if (event.persisted) initTVWidgets();
+  if (event.persisted) { initTVWidgets(); initMiniWidgets(); }
 });
 
 // ─── CLOCK ───
@@ -814,3 +977,4 @@ if ('serviceWorker' in navigator) {
 </script>
 </body>
 </html>
+
