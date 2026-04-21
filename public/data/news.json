@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21T12:00:34Z",
-  "last_checked": "2026-04-21T12:00:34Z",
+  "updated": "2026-04-21T12:30:28Z",
+  "last_checked": "2026-04-21T12:30:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,24 +69,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は変わらず、様子見ムードで",
-      "link": "https://jp.investing.com/news/forex-news/article-1498371",
-      "published": "2026-04-21 11:15:10",
-      "isoDate": "2026-04-21T11:15:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Upbound GroupがAmazonと提携し集荷・返品サービスを開始",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1498332",
       "published": "2026-04-21 11:03:22",
       "isoDate": "2026-04-21T11:03:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は高値圏、ドル買い継続",
-      "link": "https://jp.investing.com/news/forex-news/article-1498236",
-      "published": "2026-04-21 10:30:09",
-      "isoDate": "2026-04-21T10:30:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,10 +104,24 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "ブラックベリー株、エヌビディアとのAI協業拡大で急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1497812",
+      "published": "2026-04-21 00:14:18",
+      "isoDate": "2026-04-21T00:14:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "時間外取引の値動き:アマゾン、マーベル・テクノロジー・グループ、アップルなど",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1497672",
       "published": "2026-04-20 21:02:02",
       "isoDate": "2026-04-20T21:02:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "フラッシュセール — InvestingProを2026年最安値で今すぐ手に入れよう",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1496554",
+      "published": "2026-04-20 09:36:10",
+      "isoDate": "2026-04-20T09:36:10Z"
     }
   ],
   "btc_items": [
