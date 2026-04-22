@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T04:04:26Z",
-  "last_checked": "2026-04-22T04:04:26Z",
+  "updated": "2026-04-22T04:30:26Z",
+  "last_checked": "2026-04-22T04:30:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国・イラン停戦延長にもかかわらずアジア株は下落、日経平均は最高値更新",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1499679",
+      "published": "2026-04-22 04:12:39",
+      "isoDate": "2026-04-22T04:12:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "エヌビディア、韓国の電力企業とデータセンター基盤で協議か=報道",
       "link": "https://jp.investing.com/news/stock-market-news/article-1499675",
       "published": "2026-04-22 03:39:29",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1499566",
       "published": "2026-04-21 23:18:20",
       "isoDate": "2026-04-21T23:18:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金：大幅続落で4719.60ドル、原油高を嫌気",
-      "link": "https://jp.investing.com/news/forex-news/article-1499564",
-      "published": "2026-04-21 23:15:06",
-      "isoDate": "2026-04-21T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
