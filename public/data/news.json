@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T02:30:32Z",
-  "last_checked": "2026-04-22T02:30:32Z",
+  "updated": "2026-04-22T03:00:34Z",
+  "last_checked": "2026-04-22T03:00:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,7 +83,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領がイラン停戦を延長、米国株先物が上昇",
+      "title": "トランプ大統領がイラン停戦延長、米国株先物が上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1499610",
       "published": "2026-04-22 00:46:37",
       "isoDate": "2026-04-22T00:46:37Z"
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "コア・サイエンティフィック、社債発行で5300億円調達計画　ビットコイン依存脱却へ",
+      "link": "https://coinpost.jp/?p=703997",
+      "published": "Wed, 22 Apr 2026 11:30:50 +0900",
+      "isoDate": "2026-04-22T02:30:50Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "量子コンピュータ、ビットコインよりPoS銘柄に「追加リスク」か　コインベース諮問委員会が提言",
       "link": "https://coinpost.jp/?p=703989",
       "published": "Wed, 22 Apr 2026 10:40:56 +0900",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=703679",
       "published": "Tue, 21 Apr 2026 14:05:54 +0900",
       "isoDate": "2026-04-21T05:05:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SECアトキンス委員長就任1周年「ACT戦略」を推進　予測市場を注視",
-      "link": "https://coinpost.jp/?p=703581",
-      "published": "Tue, 21 Apr 2026 13:00:54 +0900",
-      "isoDate": "2026-04-21T04:00:54Z"
     },
     {
       "source": "Investing.com 暗号資産",
