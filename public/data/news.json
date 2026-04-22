@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T12:00:34Z",
-  "last_checked": "2026-04-22T12:00:34Z",
+  "updated": "2026-04-22T12:30:27Z",
+  "last_checked": "2026-04-22T12:30:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ユナイテッド航空とボーイングが上昇、キャピタル・ワンは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1500220",
+      "published": "2026-04-22 11:58:52",
+      "isoDate": "2026-04-22T11:58:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ボーイング、航空機納入増で予想上回る決算、株価急騰",
       "link": "https://jp.investing.com/news/earnings/article-1500198",
       "published": "2026-04-22 11:43:28",
@@ -111,20 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AT&T、収益と加入者増加で予想を上回る",
-      "link": "https://jp.investing.com/news/earnings/article-1500053",
-      "published": "2026-04-22 10:43:13",
-      "isoDate": "2026-04-22T10:43:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は底堅い、原油相場にらみ",
-      "link": "https://jp.investing.com/news/forex-news/article-1500033",
-      "published": "2026-04-22 10:30:09",
-      "isoDate": "2026-04-22T10:30:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Vertiv株、第1四半期予想上回るも5%超下落",
       "link": "https://jp.investing.com/news/earnings/article-93CH-1500005",
       "published": "2026-04-22 10:15:17",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1499675",
       "published": "2026-04-22 03:39:29",
       "isoDate": "2026-04-22T03:39:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX、Cursorと協業し600億ドルでAIスタートアップ買収のオプション保有",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1499566",
+      "published": "2026-04-21 23:18:20",
+      "isoDate": "2026-04-21T23:18:20Z"
     }
   ],
   "btc_items": [
