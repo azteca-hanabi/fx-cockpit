@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-22T00:00:32Z",
-  "last_checked": "2026-04-22T00:00:32Z",
+  "updated": "2026-04-22T00:30:29Z",
+  "last_checked": "2026-04-22T00:30:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "BHP、第3四半期の鉄鉱石生産が3%増加、年間見通しは維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1499585",
+      "published": "2026-04-22 00:04:58",
+      "isoDate": "2026-04-22T00:04:58Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国の天然ガス価格、イラン和平協議を見極める中で小幅上昇",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=703517",
       "published": "Tue, 21 Apr 2026 11:20:43 +0900",
       "isoDate": "2026-04-21T02:20:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クレディセゾンとコインチェックが業務提携、3300万人のカード会員に仮想通貨アクセスを提供",
-      "link": "https://coinpost.jp/?p=703527",
-      "published": "Tue, 21 Apr 2026 10:50:30 +0900",
-      "isoDate": "2026-04-21T01:50:30Z"
     },
     {
       "source": "Investing.com 暗号資産",
