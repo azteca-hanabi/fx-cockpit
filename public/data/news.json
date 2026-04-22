@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T12:30:27Z",
-  "last_checked": "2026-04-22T12:30:27Z",
+  "updated": "2026-04-22T13:00:34Z",
+  "last_checked": "2026-04-22T13:00:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,52 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ユナイテッド航空とボーイングが上昇、キャピタル・ワンは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1500220",
-      "published": "2026-04-22 11:58:52",
-      "isoDate": "2026-04-22T11:58:52Z"
+      "title": "アルファベット株、新型AIチップとパートナーシップ発表で1.7%上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1500301",
+      "published": "2026-04-22 12:22:09",
+      "isoDate": "2026-04-22T12:22:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ボーイング、航空機納入増で予想上回る決算、株価急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1500198",
-      "published": "2026-04-22 11:43:28",
-      "isoDate": "2026-04-22T11:43:28Z"
+      "title": "トランプ大統領がイラン停戦延長を発表、TSX先物が上昇",
+      "link": "https://jp.investing.com/news/economy-news/article-1500295",
+      "published": "2026-04-22 12:18:13",
+      "isoDate": "2026-04-22T12:18:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "FCCがAST SpaceMobileの衛星システムを承認、直接携帯電話サービス提供へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1500175",
-      "published": "2026-04-22 11:33:15",
-      "isoDate": "2026-04-22T11:33:15Z"
+      "title": "グーグル・クラウド、シンキング・マシーンズ・ラボとのAIインフラ契約を拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1500280",
+      "published": "2026-04-22 12:09:10",
+      "isoDate": "2026-04-22T12:09:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "CrowdStrike、クラウド検知機能をGoogle Cloudに拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1500275",
+      "published": "2026-04-22 12:07:21",
+      "isoDate": "2026-04-22T12:07:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Oracle Financial SoftwareがGoogle Cloudとの提携を拡大しAIデータベース機能を強化",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1500241",
+      "published": "2026-04-22 12:03:23",
+      "isoDate": "2026-04-22T12:03:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NetAppとGoogle Cloud、統合ストレージサービスでパートナーシップを拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1500233",
+      "published": "2026-04-22 12:02:36",
+      "isoDate": "2026-04-22T12:02:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SalesforceとGoogle Cloud、AIエージェント統合パートナーシップを拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1500231",
+      "published": "2026-04-22 12:01:21",
+      "isoDate": "2026-04-22T12:01:21Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円はやや失速、原油相場は軟化",
-      "link": "https://jp.investing.com/news/forex-news/article-1500132",
-      "published": "2026-04-22 11:15:09",
-      "isoDate": "2026-04-22T11:15:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米農務省、Palantirと3億ドルの農業サービス契約を締結",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1500083",
       "published": "2026-04-22 11:01:19",
@@ -118,31 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Vertiv株、第1四半期予想上回るも5%超下落",
-      "link": "https://jp.investing.com/news/earnings/article-93CH-1500005",
-      "published": "2026-04-22 10:15:17",
-      "isoDate": "2026-04-22T10:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "主力銘柄が指数を支えるも全体感としては弱い【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1499839",
-      "published": "2026-04-22 08:15:13",
-      "isoDate": "2026-04-22T08:15:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "エヌビディア、韓国の電力企業とデータセンター基盤で協議か=報道",
       "link": "https://jp.investing.com/news/stock-market-news/article-1499675",
       "published": "2026-04-22 03:39:29",
       "isoDate": "2026-04-22T03:39:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX、Cursorと協業し600億ドルでAIスタートアップ買収のオプション保有",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1499566",
-      "published": "2026-04-21 23:18:20",
-      "isoDate": "2026-04-21T23:18:20Z"
     }
   ],
   "btc_items": [
