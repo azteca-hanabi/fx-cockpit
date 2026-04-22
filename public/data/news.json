@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T08:00:34Z",
-  "last_checked": "2026-04-22T08:00:34Z",
+  "updated": "2026-04-22T08:30:28Z",
+  "last_checked": "2026-04-22T08:30:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "主力銘柄が指数を支えるも全体感としては弱い【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1499839",
+      "published": "2026-04-22 08:15:13",
+      "isoDate": "2026-04-22T08:15:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均は続伸、売り先行もソフトバンクGが指数を押し上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1499770",
       "published": "2026-04-22 07:15:11",
@@ -87,20 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1499761",
       "published": "2026-04-22 07:00:12",
       "isoDate": "2026-04-22T07:00:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は軟化、原油相場の弱含みで",
-      "link": "https://jp.investing.com/news/forex-news/article-1499729",
-      "published": "2026-04-22 06:15:13",
-      "isoDate": "2026-04-22T06:15:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SK Hynix、AI能力強化に向け新チップ工場に130億ドル投資へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1499704",
-      "published": "2026-04-22 05:21:20",
-      "isoDate": "2026-04-22T05:21:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,9 +136,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1499566",
       "published": "2026-04-21 23:18:20",
       "isoDate": "2026-04-21T23:18:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは293.18ドル安、イラン戦争激化リスクや原油高を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1499391",
+      "published": "2026-04-21 21:00:04",
+      "isoDate": "2026-04-21T21:00:04Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "申告分離課税の対象銘柄は「限定的になる可能性」　税理士・国会議員が語る制度の課題とステーブルコイン課税の論点｜BCCC Collaborative Day",
+      "link": "https://coinpost.jp/?p=703773",
+      "published": "Wed, 22 Apr 2026 17:19:03 +0900",
+      "isoDate": "2026-04-22T08:19:03Z"
+    },
     {
       "source": "CoinPost",
       "title": "新作ドキュメンタリー映画「サトシを探して」、21世紀最大の金融ミステリーの真相は？",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=703886",
       "published": "Wed, 22 Apr 2026 05:00:24 +0900",
       "isoDate": "2026-04-21T20:00:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "マイナウォレットと三井住友カード、北九州でマイナカード活用の仮想通貨決済実験を実施",
-      "link": "https://coinpost.jp/?p=703679",
-      "published": "Tue, 21 Apr 2026 14:05:54 +0900",
-      "isoDate": "2026-04-21T05:05:54Z"
     },
     {
       "source": "Investing.com 暗号資産",
