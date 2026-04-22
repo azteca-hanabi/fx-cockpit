@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T17:00:34Z",
-  "last_checked": "2026-04-22T17:00:34Z",
+  "updated": "2026-04-22T17:30:27Z",
+  "last_checked": "2026-04-22T17:30:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -118,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SalesforceとGoogle Cloud、AIエージェント統合パートナーシップを拡大",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1500231",
-      "published": "2026-04-22 12:01:21",
-      "isoDate": "2026-04-22T12:01:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米農務省、Palantirと3億ドルの農業サービス契約を締結",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1500083",
       "published": "2026-04-22 11:01:19",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1499675",
       "published": "2026-04-22 03:39:29",
       "isoDate": "2026-04-22T03:39:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX、Cursorと協業し600億ドルでAIスタートアップ買収のオプション保有",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1499566",
+      "published": "2026-04-21 23:18:20",
+      "isoDate": "2026-04-21T23:18:20Z"
     }
   ],
   "btc_items": [
