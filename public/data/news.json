@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T19:30:28Z",
-  "last_checked": "2026-04-22T19:30:28Z",
+  "updated": "2026-04-22T20:00:34Z",
+  "last_checked": "2026-04-22T20:00:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "TSMCの延期がエーエスエムエルの最先端EUV展開に打撃、株価3%下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1501108",
+      "published": "2026-04-22 19:11:41",
+      "isoDate": "2026-04-22T19:11:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ArmのCEOがソフトバンクの新役職に就任、強固なパートナーシップを示す",
       "link": "https://jp.investing.com/news/stock-market-news/article-1501041",
       "published": "2026-04-22 17:51:04",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1499675",
       "published": "2026-04-22 03:39:29",
       "isoDate": "2026-04-22T03:39:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX、Cursorと協業し600億ドルでAIスタートアップ買収のオプション保有",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1499566",
-      "published": "2026-04-21 23:18:20",
-      "isoDate": "2026-04-21T23:18:20Z"
     }
   ],
   "btc_items": [
