@@ -958,6 +958,37 @@ async function loadNews() {
 }
 loadNews();
 
+
+// ─── SWIPE でタブ切替 ───
+(function () {
+  const THRESHOLD = 50;
+  const tabs = ['gold', 'usdjpy', 'btc'];
+  let startX = 0, startY = 0;
+
+  document.addEventListener('touchstart', e => {
+    startX = e.touches[0].clientX;
+    startY = e.touches[0].clientY;
+  }, { passive: true });
+
+  document.addEventListener('touchend', e => {
+    const dx = e.changedTouches[0].clientX - startX;
+    const dy = e.changedTouches[0].clientY - startY;
+    if (Math.abs(dx) < THRESHOLD || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+
+    const active = document.querySelector('.tab-btn.active');
+    if (!active) return;
+    const cur = tabs.indexOf(active.dataset.tab);
+    const next = dx < 0 ? Math.min(cur + 1, tabs.length - 1) : Math.max(cur - 1, 0);
+    if (next === cur) return;
+
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    const btn = document.querySelector(`.tab-btn[data-tab="${tabs[next]}"]`);
+    btn.classList.add('active');
+    document.getElementById(`panel-${tabs[next]}`).classList.add('active');
+  }, { passive: true });
+})();
+
 // ─── SERVICE WORKER ───
 if ('serviceWorker' in navigator) {
   // controllerchangeはiOSを含む全環境で最も確実なSW切替検知
