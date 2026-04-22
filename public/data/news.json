@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T04:30:26Z",
-  "last_checked": "2026-04-22T04:30:26Z",
+  "updated": "2026-04-22T05:00:28Z",
+  "last_checked": "2026-04-22T05:00:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～売り先行もプラス圏に浮上",
+      "link": "https://jp.investing.com/news/forex-news/article-1499681",
+      "published": "2026-04-22 04:30:14",
+      "isoDate": "2026-04-22T04:30:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国・イラン停戦延長にもかかわらずアジア株は下落、日経平均は最高値更新",
       "link": "https://jp.investing.com/news/stock-market-news/article-1499679",
       "published": "2026-04-22 04:12:39",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1499566",
       "published": "2026-04-21 23:18:20",
       "isoDate": "2026-04-21T23:18:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは293.18ドル安、イラン戦争激化リスクや原油高を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1499391",
-      "published": "2026-04-21 21:00:04",
-      "isoDate": "2026-04-21T21:00:04Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "新作ドキュメンタリー映画「サトシを探して」、21世紀最大の金融ミステリーの真相は？",
+      "link": "https://coinpost.jp/?p=704068",
+      "published": "Wed, 22 Apr 2026 13:45:02 +0900",
+      "isoDate": "2026-04-22T04:45:02Z"
+    },
     {
       "source": "CoinPost",
       "title": "コア・サイエンティフィック、社債発行で5300億円調達計画　ビットコイン依存脱却へ",
