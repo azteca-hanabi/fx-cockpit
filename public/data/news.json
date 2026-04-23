@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T06:30:36Z",
-  "last_checked": "2026-04-23T06:30:36Z",
+  "updated": "2026-04-23T07:00:33Z",
+  "last_checked": "2026-04-23T07:00:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イラン情勢の不透明感と金利見通しでドル高、アジア通貨は軟調",
+      "link": "https://jp.investing.com/news/forex-news/article-1501625",
+      "published": "2026-04-23 06:12:34",
+      "isoDate": "2026-04-23T06:12:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は変わらず、様子見ムードで",
+      "link": "https://jp.investing.com/news/forex-news/article-1501614",
+      "published": "2026-04-23 06:00:13",
+      "isoDate": "2026-04-23T06:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "三菱重工---大幅反発、ボーイングが決算を好感して上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1501601",
+      "published": "2026-04-23 05:45:13",
+      "isoDate": "2026-04-23T05:45:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は小動き、株安を嫌気も",
       "link": "https://jp.investing.com/news/forex-news/article-1501584",
       "published": "2026-04-23 05:15:14",
@@ -94,27 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1501573",
       "published": "2026-04-23 05:00:14",
       "isoDate": "2026-04-23T05:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "EU自動車販売、3月は11%増 テスラとBYDが大幅増を記録-ACEA",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501565",
-      "published": "2026-04-23 04:26:13",
-      "isoDate": "2026-04-23T04:26:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イラン交渉と米金利の不透明感でドル上昇、金価格はさらに下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1501548",
-      "published": "2026-04-23 03:14:46",
-      "isoDate": "2026-04-23T03:14:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ＩＮＰＥＸ---大幅反発、エネルギー輸送停滞長期化懸念で原油相場が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501530",
-      "published": "2026-04-23 01:45:12",
-      "isoDate": "2026-04-23T01:45:12Z"
     },
     {
       "source": "Investing.com 外為",
