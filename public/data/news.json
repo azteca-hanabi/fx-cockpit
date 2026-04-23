@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T12:30:26Z",
-  "last_checked": "2026-04-23T12:30:26Z",
+  "updated": "2026-04-23T13:00:33Z",
+  "last_checked": "2026-04-23T13:00:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "テスラ、ハネウェルが時間外取引で下落、コムキャストとアメリカン航空グループは上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1502289",
+      "published": "2026-04-23 12:19:33",
+      "isoDate": "2026-04-23T12:19:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIファイナンス負担、キャッシュフロー強化で管理可能に:JPモルガン",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1502262",
+      "published": "2026-04-23 12:05:54",
+      "isoDate": "2026-04-23T12:05:54Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Oklo、エヌビディアおよびロスアラモス研究所と核燃料研究で提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1502229",
+      "published": "2026-04-23 12:03:19",
+      "isoDate": "2026-04-23T12:03:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Super Micro、Oracle Financial Softwareとの14億ドル契約喪失報道で10%急落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1502178",
       "published": "2026-04-23 11:31:28",
@@ -118,31 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "牧野フライス、ソニーフィナンシャルグループ、INPEXなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501698",
-      "published": "2026-04-23 07:30:13",
-      "isoDate": "2026-04-23T07:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "BEセミコンダクター、AI需要急増で第1四半期利益が64%近く増加",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501586",
-      "published": "2026-04-23 05:14:39",
-      "isoDate": "2026-04-23T05:14:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株見通し：底堅いか、中東の不透明感も回復に期待",
       "link": "https://jp.investing.com/news/forex-news/article-1501573",
       "published": "2026-04-23 05:00:14",
       "isoDate": "2026-04-23T05:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米イラン緊張が停戦延長にもかかわらず続き、ウォール街先物が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501504",
-      "published": "2026-04-23 00:49:44",
-      "isoDate": "2026-04-23T00:49:44Z"
     }
   ],
   "btc_items": [
