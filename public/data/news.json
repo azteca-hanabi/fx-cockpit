@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T05:30:32Z",
-  "last_checked": "2026-04-23T05:30:32Z",
+  "updated": "2026-04-23T06:00:29Z",
+  "last_checked": "2026-04-23T06:00:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は小動き、株安を嫌気も",
+      "link": "https://jp.investing.com/news/forex-news/article-1501584",
+      "published": "2026-04-23 05:15:14",
+      "isoDate": "2026-04-23T05:15:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "BEセミコンダクター、AI需要急増で第1四半期利益が64%近く増加",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1501586",
+      "published": "2026-04-23 05:14:39",
+      "isoDate": "2026-04-23T05:14:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：底堅いか、中東の不透明感も回復に期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1501573",
+      "published": "2026-04-23 05:00:14",
+      "isoDate": "2026-04-23T05:00:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "EU自動車販売、3月は11%増 テスラとBYDが大幅増を記録-ACEA",
       "link": "https://jp.investing.com/news/stock-market-news/article-1501565",
       "published": "2026-04-23 04:26:13",
       "isoDate": "2026-04-23T04:26:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅に4日ぶり反落、ファーストリテが1銘柄で約177円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501557",
-      "published": "2026-04-23 03:45:17",
-      "isoDate": "2026-04-23T03:45:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イラン緊張続き、アジア株下落―日経平均とKOSPIは最高値から後退",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501550",
-      "published": "2026-04-23 03:17:53",
-      "isoDate": "2026-04-23T03:17:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,86 +143,9 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1501274",
       "published": "2026-04-22 20:43:02",
       "isoDate": "2026-04-22T20:43:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラ、四半期利益と売上高が予想を上回り、時間外取引で株価4%近く上昇",
-      "link": "https://jp.investing.com/news/earnings/article-1501208",
-      "published": "2026-04-22 20:16:22",
-      "isoDate": "2026-04-22T20:16:22Z"
     }
   ],
   "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米軍がビットコインのノードを運営、監視・防衛目的で活用",
-      "link": "https://coinpost.jp/?p=704388",
-      "published": "Thu, 23 Apr 2026 13:20:20 +0900",
-      "isoDate": "2026-04-23T04:20:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リミックスポイントが総額5億円の仮想通貨追加購入を決議、20BTCのビットコインを買い増し",
-      "link": "https://coinpost.jp/?p=704414",
-      "published": "Thu, 23 Apr 2026 13:10:11 +0900",
-      "isoDate": "2026-04-23T04:10:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、仮想通貨の金商法移行を説明　ステーブルコイン活用の決済高度化プロジェクト3件も進行中｜BCCC Collaborative Day",
-      "link": "https://coinpost.jp/?p=704010",
-      "published": "Thu, 23 Apr 2026 12:21:14 +0900",
-      "isoDate": "2026-04-23T03:21:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ氏一族関連のアメリカン・ビットコイン、カナダ拠点で1.1万台のBTC採掘機器を稼働開始",
-      "link": "https://coinpost.jp/?p=704413",
-      "published": "Thu, 23 Apr 2026 11:34:07 +0900",
-      "isoDate": "2026-04-23T02:34:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ANAP、4月で3度目のビットコイン購入　保有量で世界35位入り目指す",
-      "link": "https://coinpost.jp/?p=704323",
-      "published": "Thu, 23 Apr 2026 10:05:02 +0900",
-      "isoDate": "2026-04-23T01:05:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーロン・マスク率いるテスラ、1444億円相当ビットコイン保有継続　1Q決算を発表",
-      "link": "https://coinpost.jp/?p=704299",
-      "published": "Thu, 23 Apr 2026 07:40:53 +0900",
-      "isoDate": "2026-04-22T22:40:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "GSR、米国初のアクティブ型仮想通貨ETF「BESO」を上場",
-      "link": "https://coinpost.jp/?p=704303",
-      "published": "Thu, 23 Apr 2026 06:00:32 +0900",
-      "isoDate": "2026-04-22T21:00:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、上院採決が5月以降にずれ込む見通し＝報道",
-      "link": "https://coinpost.jp/?p=704302",
-      "published": "Thu, 23 Apr 2026 05:45:23 +0900",
-      "isoDate": "2026-04-22T20:45:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシアが仮想通貨規制法案を審議入り、国内決済禁止・対外取引容認",
-      "link": "https://coinpost.jp/?p=704288",
-      "published": "Thu, 23 Apr 2026 05:00:57 +0900",
-      "isoDate": "2026-04-22T20:00:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイビットが仮想通貨ウォレット狙うmacOSマルウェア攻撃を公表　Claude Code検索が標的",
-      "link": "https://coinpost.jp/?p=704248",
-      "published": "Wed, 22 Apr 2026 18:19:58 +0900",
-      "isoDate": "2026-04-22T09:19:58Z"
-    },
     {
       "source": "Investing.com 暗号資産",
       "title": "Robinhoodが暗号資産ウォレットを展開：暗号資産と株式に対する代替先となるか",
