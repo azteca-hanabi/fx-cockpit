@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T22:30:25Z",
-  "last_checked": "2026-04-23T22:30:25Z",
+  "updated": "2026-04-23T23:00:30Z",
+  "last_checked": "2026-04-23T23:00:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1カカクコム、カーリット、オプトランなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1503465",
+      "published": "2026-04-23 22:30:05",
+      "isoDate": "2026-04-23T22:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "23日の米国市場ダイジェスト：米国株式市場は反落、イラン和平合意への期待後退",
       "link": "https://jp.investing.com/news/forex-news/article-1503432",
       "published": "2026-04-23 22:00:05",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1501874",
       "published": "2026-04-23 09:15:50",
       "isoDate": "2026-04-23T09:15:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国・イラン協議は不透明、原油は100ドル超え、テスラが決算発表――市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1501749",
-      "published": "2026-04-23 08:14:07",
-      "isoDate": "2026-04-23T08:14:07Z"
     }
   ],
   "btc_items": [
