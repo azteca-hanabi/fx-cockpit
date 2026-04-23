@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T09:00:32Z",
-  "last_checked": "2026-04-23T09:00:32Z",
+  "updated": "2026-04-23T09:30:29Z",
+  "last_checked": "2026-04-23T09:30:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "短期的な過熱感や達成感から大台乗せ後は利益確定が優勢に【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1501745",
-      "published": "2026-04-23 08:15:16",
-      "isoDate": "2026-04-23T08:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米イラン協議の不透明感、原油100ドル超え、テスラ決算発表──市場を動かす要因",
       "link": "https://jp.investing.com/news/economy-news/article-1501749",
       "published": "2026-04-23 08:14:07",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1501486",
       "published": "2026-04-23 00:15:02",
       "isoDate": "2026-04-23T00:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックス第1四半期利益が400%超急増、好調なAI需要で予想上回る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1501467",
+      "published": "2026-04-22 23:52:08",
+      "isoDate": "2026-04-22T23:52:08Z"
     },
     {
       "source": "Investing.com 外為",
