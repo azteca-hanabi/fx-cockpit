@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T18:30:24Z",
-  "last_checked": "2026-04-23T18:30:24Z",
+  "updated": "2026-04-23T19:00:45Z",
+  "last_checked": "2026-04-23T19:00:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "OpenAI、コーディングと研究機能を改善したGPT-5.5をリリース",
+      "link": "https://jp.investing.com/news/economy-news/article-1503118",
+      "published": "2026-04-23 18:12:53",
+      "isoDate": "2026-04-23T18:12:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "【市場反応】米新規失業保険申請件数は予想以上に増加、ドル軟調",
       "link": "https://jp.investing.com/news/forex-news/article-1502466",
       "published": "2026-04-23 13:15:04",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1502178",
       "published": "2026-04-23 11:31:28",
       "isoDate": "2026-04-23T11:31:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ServiceNowとIBMの決算がAI懸念を再燃させ、ソフトウェア株が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1502138",
-      "published": "2026-04-23 11:18:47",
-      "isoDate": "2026-04-23T11:18:47Z"
     },
     {
       "source": "Investing.com 外為",
