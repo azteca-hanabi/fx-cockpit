@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T04:00:50Z",
-  "last_checked": "2026-04-23T04:00:50Z",
+  "updated": "2026-04-23T04:30:36Z",
+  "last_checked": "2026-04-23T04:30:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は大幅に4日ぶり反落、ファーストリテが1銘柄で約177円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1501557",
+      "published": "2026-04-23 03:45:17",
+      "isoDate": "2026-04-23T03:45:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロソフト、豪州でのAI拡大に180億ドルを投資",
       "link": "https://jp.investing.com/news/stock-market-news/article-1501554",
       "published": "2026-04-23 03:36:20",
@@ -92,13 +99,6 @@
       "source": "Investing.com 外為",
       "title": "東京為替：ドル・円はもみ合い、原油高を警戒",
       "link": "https://jp.investing.com/news/forex-news/article-1501545",
-      "published": "2026-04-23 03:15:13",
-      "isoDate": "2026-04-23T03:15:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は反落、初めて6万円台到達も伸び悩む",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501544",
       "published": "2026-04-23 03:15:13",
       "isoDate": "2026-04-23T03:15:13Z"
     },
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米軍がビットコインのノードを運営、監視・防衛目的で活用",
+      "link": "https://coinpost.jp/?p=704388",
+      "published": "Thu, 23 Apr 2026 13:20:20 +0900",
+      "isoDate": "2026-04-23T04:20:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リミックスポイントが総額5億円の仮想通貨追加購入を決議、20BTCのビットコインを買い増し",
+      "link": "https://coinpost.jp/?p=704414",
+      "published": "Thu, 23 Apr 2026 13:10:11 +0900",
+      "isoDate": "2026-04-23T04:10:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "金融庁、仮想通貨の金商法移行を説明　ステーブルコイン活用の決済高度化プロジェクト3件も進行中｜BCCC Collaborative Day",
@@ -208,20 +222,6 @@
       "link": "https://coinpost.jp/?p=703773",
       "published": "Wed, 22 Apr 2026 17:19:03 +0900",
       "isoDate": "2026-04-22T08:19:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "新作ドキュメンタリー映画「サトシを探して」、21世紀最大の金融ミステリーの真相は？",
-      "link": "https://coinpost.jp/?p=704068",
-      "published": "Wed, 22 Apr 2026 13:45:02 +0900",
-      "isoDate": "2026-04-22T04:45:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コア・サイエンティフィック、社債発行で5300億円調達計画　ビットコイン依存脱却へ",
-      "link": "https://coinpost.jp/?p=703997",
-      "published": "Wed, 22 Apr 2026 11:30:50 +0900",
-      "isoDate": "2026-04-22T02:30:50Z"
     },
     {
       "source": "Investing.com 暗号資産",
