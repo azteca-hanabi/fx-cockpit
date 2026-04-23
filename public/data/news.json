@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T09:30:29Z",
-  "last_checked": "2026-04-23T09:30:29Z",
+  "updated": "2026-04-23T10:00:29Z",
+  "last_checked": "2026-04-23T10:00:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均テクニカル： 4日ぶり反落、25日線乖離縮小で過熱感調整中",
+      "link": "https://jp.investing.com/news/forex-news/article-1501892",
+      "published": "2026-04-23 09:30:12",
+      "isoDate": "2026-04-23T09:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米イラン協議の不透明感、原油100ドル超え、テスラ決算発表──市場を動かす要因",
       "link": "https://jp.investing.com/news/economy-news/article-1501749",
       "published": "2026-04-23 08:14:07",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1501698",
       "published": "2026-04-23 07:30:13",
       "isoDate": "2026-04-23T07:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン価格、ホルムズ海峡の緊張が停戦の安堵感を相殺し78,000ドル超で安定",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1501666",
-      "published": "2026-04-23 06:56:04",
-      "isoDate": "2026-04-23T06:56:04Z"
     },
     {
       "source": "Investing.com 外為",
