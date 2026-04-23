@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T07:00:33Z",
-  "last_checked": "2026-04-23T07:00:33Z",
+  "updated": "2026-04-23T07:30:30Z",
+  "last_checked": "2026-04-23T07:30:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イラン情勢の不透明感と金利見通しでドル高、アジア通貨は軟調",
-      "link": "https://jp.investing.com/news/forex-news/article-1501625",
-      "published": "2026-04-23 06:12:34",
-      "isoDate": "2026-04-23T06:12:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は変わらず、様子見ムードで",
-      "link": "https://jp.investing.com/news/forex-news/article-1501614",
-      "published": "2026-04-23 06:00:13",
-      "isoDate": "2026-04-23T06:00:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "三菱重工---大幅反発、ボーイングが決算を好感して上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1501601",
-      "published": "2026-04-23 05:45:13",
-      "isoDate": "2026-04-23T05:45:13Z"
+      "title": "東京為替：ドル・円は動意薄、様子見ムードで",
+      "link": "https://jp.investing.com/news/forex-news/article-1501654",
+      "published": "2026-04-23 06:45:17",
+      "isoDate": "2026-04-23T06:45:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +101,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1501573",
       "published": "2026-04-23 05:00:14",
       "isoDate": "2026-04-23T05:00:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ＩＮＰＥＸ---大幅反発、エネルギー輸送停滞長期化懸念で原油相場が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1501530",
+      "published": "2026-04-23 01:45:12",
+      "isoDate": "2026-04-23T01:45:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1501274",
       "published": "2026-04-22 20:43:02",
       "isoDate": "2026-04-22T20:43:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ、四半期利益と売上高が予想を上回り、時間外取引で株価4%近く上昇",
+      "link": "https://jp.investing.com/news/earnings/article-1501208",
+      "published": "2026-04-22 20:16:22",
+      "isoDate": "2026-04-22T20:16:22Z"
     }
   ],
   "btc_items": [
