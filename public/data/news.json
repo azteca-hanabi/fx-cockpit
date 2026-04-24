@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T09:00:42Z",
-  "last_checked": "2026-04-24T09:00:42Z",
+  "updated": "2026-04-24T09:30:25Z",
+  "last_checked": "2026-04-24T09:30:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -111,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は反発、終日プラス圏で推移もやや上値の重い値動き",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1503688",
-      "published": "2026-04-24 07:00:14",
-      "isoDate": "2026-04-24T07:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "金価格が下落、米イラン情勢の不透明感でドル高進み週間で大幅安",
       "link": "https://jp.investing.com/news/commodities-news/article-1503671",
       "published": "2026-04-24 06:44:55",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1503296",
       "published": "2026-04-23 20:33:02",
       "isoDate": "2026-04-23T20:33:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル第1四半期決算、AI・データセンター事業好調でウォール街予想を上回る",
+      "link": "https://jp.investing.com/news/earnings/article-1503201",
+      "published": "2026-04-23 20:08:35",
+      "isoDate": "2026-04-23T20:08:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -215,13 +215,6 @@
       "link": "https://coinpost.jp/?p=704679",
       "published": "Fri, 24 Apr 2026 07:10:35 +0900",
       "isoDate": "2026-04-23T22:10:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「8万ドル復帰が次の方向性を決める」、ETF投資家と短期クジラの売り圧が焦点に＝アナリスト分析",
-      "link": "https://coinpost.jp/?p=704670",
-      "published": "Fri, 24 Apr 2026 07:00:30 +0900",
-      "isoDate": "2026-04-23T22:00:30Z"
     },
     {
       "source": "Investing.com 暗号資産",
