@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-24T18:30:25Z",
-  "last_checked": "2026-04-24T18:30:25Z",
+  "updated": "2026-04-24T19:00:34Z",
+  "last_checked": "2026-04-24T19:00:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の掘削業者、3週間ぶりに石油・ガスリグを増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1504771",
+      "published": "2026-04-24 18:34:53",
+      "isoDate": "2026-04-24T18:34:53Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国とEUが重要鉱物に関する協定に署名、供給源の多様化を目指す",
@@ -57,16 +64,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1501801",
       "published": "2026-04-23 08:40:37",
       "isoDate": "2026-04-23T08:40:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イラン交渉と米金利の不透明感でドル上昇、金価格はさらに下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1501548",
-      "published": "2026-04-23 03:14:46",
-      "isoDate": "2026-04-23T03:14:46Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "今週の注目銘柄",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1504751",
+      "published": "2026-04-24 17:59:11",
+      "isoDate": "2026-04-24T17:59:11Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NY外為：ドル安値更新、米イラン第2回目協議報道受け",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1504212",
       "published": "2026-04-24 12:32:01",
       "isoDate": "2026-04-24T12:32:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UBS、米国株に「魅力的」な見方を維持、強気相場の推進力は健在と判断",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504181",
-      "published": "2026-04-24 12:09:19",
-      "isoDate": "2026-04-24T12:09:19Z"
     },
     {
       "source": "Investing.com 外為",
