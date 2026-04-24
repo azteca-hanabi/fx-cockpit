@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T14:30:29Z",
-  "last_checked": "2026-04-24T14:30:29Z",
+  "updated": "2026-04-24T15:00:29Z",
+  "last_checked": "2026-04-24T15:00:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "司法省、パウエルFRB議長への刑事捜査を終結へ",
+      "link": "https://jp.investing.com/news/politics-news/article-1504516",
+      "published": "2026-04-24 14:24:24",
+      "isoDate": "2026-04-24T14:24:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Amazonのエージェント型AI向けCPUが注目、MetaがGravitonを採用",
       "link": "https://jp.investing.com/news/stock-market-news/article-1504408",
       "published": "2026-04-24 13:43:32",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1504071",
       "published": "2026-04-24 11:25:45",
       "isoDate": "2026-04-24T11:25:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "時間外取引の値動き:INTC、AMD、ARM、MXL、NEM、APPF、FIX、EW",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1503296",
-      "published": "2026-04-23 20:33:02",
-      "isoDate": "2026-04-23T20:33:02Z"
     }
   ],
   "btc_items": [
