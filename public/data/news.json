@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T22:30:24Z",
-  "last_checked": "2026-04-24T22:30:24Z",
+  "updated": "2026-04-24T23:00:28Z",
+  "last_checked": "2026-04-24T23:00:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1ソケッツ、高純度化、ラサ工業など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1504976",
+      "published": "2026-04-24 22:30:05",
+      "isoDate": "2026-04-24T22:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY債券：米長期債相場は下げ渋り、原油先物の値下がりを意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1504964",
+      "published": "2026-04-24 22:00:04",
+      "isoDate": "2026-04-24T22:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY原油：弱含み、イランとの再協議の可能性残る",
+      "link": "https://jp.investing.com/news/forex-news/article-1504965",
+      "published": "2026-04-24 22:00:04",
+      "isoDate": "2026-04-24T22:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは79.61ドル安、イラン再協議期待やハイテクが支援",
       "link": "https://jp.investing.com/news/forex-news/article-1504951",
       "published": "2026-04-24 21:30:04",
@@ -80,20 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1504952",
       "published": "2026-04-24 21:30:04",
       "isoDate": "2026-04-24T21:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "[通貨オプション]OP売り、週末要因やリスク警戒感が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1504828",
-      "published": "2026-04-24 20:00:05",
-      "isoDate": "2026-04-24T20:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "4月24日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1504803",
-      "published": "2026-04-24 19:30:05",
-      "isoDate": "2026-04-24T19:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,16 +136,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1504079",
       "published": "2026-04-24 11:28:19",
       "isoDate": "2026-04-24T11:28:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インテルが時間外取引で急騰、Courseraは急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504071",
-      "published": "2026-04-24 11:25:45",
-      "isoDate": "2026-04-24T11:25:45Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、25日にTRUMPコイン保有者向け昼食会で講演予定",
+      "link": "https://coinpost.jp/?p=705098",
+      "published": "Sat, 25 Apr 2026 07:35:58 +0900",
+      "isoDate": "2026-04-24T22:35:58Z"
+    },
     {
       "source": "CoinPost",
       "title": "米財務省、イラン関連の仮想通貨ウォレットを制裁",
