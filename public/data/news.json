@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T05:00:29Z",
-  "last_checked": "2026-04-24T05:00:29Z",
+  "updated": "2026-04-24T05:30:26Z",
+  "last_checked": "2026-04-24T05:30:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は176円高でスタート、日東紡やヤクルト本社などが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1503578",
-      "published": "2026-04-24 04:15:13",
-      "isoDate": "2026-04-24T04:15:13Z"
+      "title": "東京為替：ドル・円は小高い、ドル買い継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1503582",
+      "published": "2026-04-24 04:30:14",
+      "isoDate": "2026-04-24T04:30:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米司法省、東南アジアの仮想通貨詐欺拠点を一斉摘発　約1120億円相当を拘束",
+      "link": "https://coinpost.jp/?p=704932",
+      "published": "Fri, 24 Apr 2026 14:16:24 +0900",
+      "isoDate": "2026-04-24T05:16:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米財務省、カンボジア上院議員に制裁　仮想通貨詐欺拠点にインフラ提供か",
+      "link": "https://coinpost.jp/?p=704763",
+      "published": "Fri, 24 Apr 2026 14:00:44 +0900",
+      "isoDate": "2026-04-24T05:00:44Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "メタプラネットが80億円社債を発行、調達資金は全額ビットコイン購入に充当",
       "link": "https://coinpost.jp/?p=704910",
       "published": "Fri, 24 Apr 2026 13:30:25 +0900",
@@ -194,13 +208,6 @@
       "link": "https://coinpost.jp/?p=704671",
       "published": "Fri, 24 Apr 2026 06:35:08 +0900",
       "isoDate": "2026-04-23T21:35:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、7.8万ドル奪還も8万ドルに厚い壁　現物需要とデリバティブに温度差",
-      "link": "https://coinpost.jp/?p=704468",
-      "published": "Thu, 23 Apr 2026 14:30:31 +0900",
-      "isoDate": "2026-04-23T05:30:31Z"
     },
     {
       "source": "Investing.com 暗号資産",
