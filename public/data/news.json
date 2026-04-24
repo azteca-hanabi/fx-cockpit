@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T00:30:25Z",
-  "last_checked": "2026-04-24T00:30:25Z",
+  "updated": "2026-04-24T01:00:54Z",
+  "last_checked": "2026-04-24T01:00:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "強弱材料 4/24",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1503512",
+      "published": "2026-04-24 00:15:08",
+      "isoDate": "2026-04-24T00:15:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～半導体やAI関連株の押し目狙い～",
+      "link": "https://jp.investing.com/news/forex-news/article-1503511",
+      "published": "2026-04-24 00:15:08",
+      "isoDate": "2026-04-24T00:15:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "半導体やAI関連株の押し目狙い",
       "link": "https://jp.investing.com/news/stock-market-news/article-1503498",
       "published": "2026-04-23 23:30:08",
@@ -94,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1503497",
       "published": "2026-04-23 23:30:07",
       "isoDate": "2026-04-23T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は反落、イラン和平合意への期待後退",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1503495",
-      "published": "2026-04-23 23:15:06",
-      "isoDate": "2026-04-23T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Super Micro、Oracle Financial Softwareとの14億ドル契約喪失報道で10%急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1502178",
-      "published": "2026-04-23 11:31:28",
-      "isoDate": "2026-04-23T11:31:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【最終チャンス】本日終了！2026年最安値でInvestingProを手に入れる",
       "link": "https://jp.investing.com/news/stock-market-news/article-1501874",
       "published": "2026-04-23 09:15:50",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン財務戦略企業サツマに清算圧力、パンテラがBTC売却と資本返還を要求",
+      "link": "https://coinpost.jp/?p=704709",
+      "published": "Fri, 24 Apr 2026 09:50:20 +0900",
+      "isoDate": "2026-04-24T00:50:20Z"
+    },
     {
       "source": "CoinPost",
       "title": "テザー社、米当局による550億円規模のUSDT凍結に協力　過去最大額の可能性",
