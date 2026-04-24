@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T03:30:25Z",
-  "last_checked": "2026-04-24T03:30:25Z",
+  "updated": "2026-04-24T04:00:36Z",
+  "last_checked": "2026-04-24T04:00:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アジア株下落、ハイテク株安と原油高が重し、日本CPIに注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1503568",
+      "published": "2026-04-24 03:20:47",
+      "isoDate": "2026-04-24T03:20:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "イビデン---大幅反発、インテルがガイダンス好感で時間外大幅高",
       "link": "https://jp.investing.com/news/stock-market-news/article-1503548",
       "published": "2026-04-24 02:00:12",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1503432",
       "published": "2026-04-23 22:00:05",
       "isoDate": "2026-04-23T22:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは179.71ドル安、イラン和平合意への期待後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1503415",
-      "published": "2026-04-23 21:45:05",
-      "isoDate": "2026-04-23T21:45:05Z"
     },
     {
       "source": "Investing.com 外為",
