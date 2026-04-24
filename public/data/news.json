@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T16:00:31Z",
-  "last_checked": "2026-04-24T16:00:31Z",
+  "updated": "2026-04-24T16:30:25Z",
+  "last_checked": "2026-04-24T16:30:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,17 +69,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY外為：ドル安値更新、米イラン第2回目協議報道受け",
+      "link": "https://jp.investing.com/news/forex-news/article-1504683",
+      "published": "2026-04-24 16:15:05",
+      "isoDate": "2026-04-24T16:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "グーグルとアンソロピックが関係深化、400億ドル契約でインフラ構築へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1504674",
+      "published": "2026-04-24 16:05:00",
+      "isoDate": "2026-04-24T16:05:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "大規模なレイオフ発表はより大きな何かの兆候か",
       "link": "https://jp.investing.com/news/stock-market-news/article-1504601",
       "published": "2026-04-24 15:09:36",
       "isoDate": "2026-04-24T15:09:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米4月ミシガン大消費者信頼感指数は予想外に上方修正も過去最低、ドル軟調",
-      "link": "https://jp.investing.com/news/forex-news/article-1504573",
-      "published": "2026-04-24 15:00:04",
-      "isoDate": "2026-04-24T15:00:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1504212",
       "published": "2026-04-24 12:32:01",
       "isoDate": "2026-04-24T12:32:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "メタがAWSグラビトンを大規模AI拡張に採用、アマゾン株上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504161",
-      "published": "2026-04-24 12:09:28",
-      "isoDate": "2026-04-24T12:09:28Z"
     },
     {
       "source": "Investing.com 外為",
