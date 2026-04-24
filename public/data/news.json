@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T08:00:46Z",
-  "last_checked": "2026-04-24T08:00:46Z",
+  "updated": "2026-04-24T08:30:29Z",
+  "last_checked": "2026-04-24T08:30:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経VI：上昇、週末のイラン情勢など警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1503743",
+      "published": "2026-04-24 07:45:17",
+      "isoDate": "2026-04-24T07:45:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は反発、アドバンテストやソフトバンクGが2銘柄で約473円分押し上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1503731",
       "published": "2026-04-24 07:30:15",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1503620",
       "published": "2026-04-24 06:00:13",
       "isoDate": "2026-04-24T06:00:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イビデン---大幅反発、インテルがガイダンス好感で時間外大幅高",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1503548",
-      "published": "2026-04-24 02:00:12",
-      "isoDate": "2026-04-24T02:00:12Z"
     },
     {
       "source": "Investing.com 外為",
