@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T04:00:36Z",
-  "last_checked": "2026-04-24T04:00:36Z",
+  "updated": "2026-04-24T04:30:26Z",
+  "last_checked": "2026-04-24T04:30:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～プラス圏で推移も上値の重い展開",
+      "link": "https://jp.investing.com/news/forex-news/article-1503573",
+      "published": "2026-04-24 03:45:12",
+      "isoDate": "2026-04-24T03:45:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アジア株下落、ハイテク株安と原油高が重し、日本CPIに注目",
       "link": "https://jp.investing.com/news/stock-market-news/article-1503568",
       "published": "2026-04-24 03:20:47",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1503548",
       "published": "2026-04-24 02:00:12",
       "isoDate": "2026-04-24T02:00:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は267円高でスタート、イビデンや太陽誘電などが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1503526",
-      "published": "2026-04-24 01:00:11",
-      "isoDate": "2026-04-24T01:00:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "リミックスポイント、前日に続き2.5億円相当ビットコインを追加購入　BTC保有量でANAPを逆転",
+      "link": "https://coinpost.jp/?p=704909",
+      "published": "Fri, 24 Apr 2026 13:10:20 +0900",
+      "isoDate": "2026-04-24T04:10:20Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ウズベキスタン、仮想通貨マイニングの特区を創設へ　2035年まで免税措置",
       "link": "https://coinpost.jp/?p=704700",
       "published": "Fri, 24 Apr 2026 10:40:32 +0900",
@@ -187,13 +194,6 @@
       "link": "https://coinpost.jp/?p=704468",
       "published": "Thu, 23 Apr 2026 14:30:31 +0900",
       "isoDate": "2026-04-23T05:30:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米軍がビットコインのノードを運営、監視・防衛目的で活用",
-      "link": "https://coinpost.jp/?p=704388",
-      "published": "Thu, 23 Apr 2026 13:20:20 +0900",
-      "isoDate": "2026-04-23T04:20:20Z"
     },
     {
       "source": "Investing.com 暗号資産",
