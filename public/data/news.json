@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T21:00:43Z",
-  "last_checked": "2026-04-24T21:00:43Z",
+  "updated": "2026-04-24T21:30:27Z",
+  "last_checked": "2026-04-24T21:30:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -139,69 +139,6 @@
     }
   ],
   "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米ビットコイン現物ETF、5営業日で約1万9000BTC取得　新規供給量の9倍＝ビットウィーズ",
-      "link": "https://coinpost.jp/?p=705015",
-      "published": "Fri, 24 Apr 2026 16:57:28 +0900",
-      "isoDate": "2026-04-24T07:57:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ビットコインとJPYCは表裏一体」メタプラネットCEO×JPYC代表が語る日本発ビットコイン経済圏の全貌",
-      "link": "https://coinpost.jp/?p=701879",
-      "published": "Fri, 24 Apr 2026 15:44:36 +0900",
-      "isoDate": "2026-04-24T06:44:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの価格下落も「確信型買い手」の保有量が69%急増＝アークインベストQ1報告",
-      "link": "https://coinpost.jp/?p=704947",
-      "published": "Fri, 24 Apr 2026 15:06:05 +0900",
-      "isoDate": "2026-04-24T06:06:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米司法省、東南アジアの仮想通貨詐欺拠点を一斉摘発　約1120億円相当を拘束",
-      "link": "https://coinpost.jp/?p=704932",
-      "published": "Fri, 24 Apr 2026 14:16:24 +0900",
-      "isoDate": "2026-04-24T05:16:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、カンボジア上院議員に制裁　仮想通貨詐欺拠点にインフラ提供か",
-      "link": "https://coinpost.jp/?p=704763",
-      "published": "Fri, 24 Apr 2026 14:00:44 +0900",
-      "isoDate": "2026-04-24T05:00:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットが80億円社債を発行、調達資金は全額ビットコイン購入に充当",
-      "link": "https://coinpost.jp/?p=704910",
-      "published": "Fri, 24 Apr 2026 13:30:25 +0900",
-      "isoDate": "2026-04-24T04:30:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リミックスポイント、前日に続き2.5億円相当ビットコインを追加購入　BTC保有量でANAPを逆転",
-      "link": "https://coinpost.jp/?p=704909",
-      "published": "Fri, 24 Apr 2026 13:10:20 +0900",
-      "isoDate": "2026-04-24T04:10:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ウズベキスタン、仮想通貨マイニングの特区を創設へ　2035年まで免税措置",
-      "link": "https://coinpost.jp/?p=704700",
-      "published": "Fri, 24 Apr 2026 10:40:32 +0900",
-      "isoDate": "2026-04-24T01:40:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン財務戦略企業サツマに清算圧力、パンテラがBTC売却と資本返還を要求",
-      "link": "https://coinpost.jp/?p=704709",
-      "published": "Fri, 24 Apr 2026 09:50:20 +0900",
-      "isoDate": "2026-04-24T00:50:20Z"
-    },
     {
       "source": "Investing.com 暗号資産",
       "title": "Robinhoodが暗号資産ウォレットを展開：暗号資産と株式に対する代替先となるか",
