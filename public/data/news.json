@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-24T00:00:48Z",
-  "last_checked": "2026-04-24T00:00:48Z",
+  "updated": "2026-04-24T00:30:25Z",
+  "last_checked": "2026-04-24T00:30:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -104,13 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1カカクコム、カーリット、オプトランなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1503465",
-      "published": "2026-04-23 22:30:05",
-      "isoDate": "2026-04-23T22:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "23日の米国市場ダイジェスト：米国株式市場は反落、イラン和平合意への期待後退",
       "link": "https://jp.investing.com/news/forex-news/article-1503432",
       "published": "2026-04-23 22:00:05",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/earnings/article-1503201",
       "published": "2026-04-23 20:08:35",
       "isoDate": "2026-04-23T20:08:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Super Micro、Oracle Financial Softwareとの14億ドル契約喪失報道で10%急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1502178",
+      "published": "2026-04-23 11:31:28",
+      "isoDate": "2026-04-23T11:31:28Z"
     },
     {
       "source": "Investing.com 外為",
@@ -201,13 +201,6 @@
       "link": "https://coinpost.jp/?p=704413",
       "published": "Thu, 23 Apr 2026 11:34:07 +0900",
       "isoDate": "2026-04-23T02:34:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ANAP、4月で3度目のビットコイン購入　保有量で世界35位入り目指す",
-      "link": "https://coinpost.jp/?p=704323",
-      "published": "Thu, 23 Apr 2026 10:05:02 +0900",
-      "isoDate": "2026-04-23T01:05:02Z"
     },
     {
       "source": "Investing.com 暗号資産",
