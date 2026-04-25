@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T13:00:29Z",
-  "last_checked": "2026-04-25T13:00:29Z",
+  "updated": "2026-04-25T13:30:23Z",
+  "last_checked": "2026-04-25T13:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,13 +83,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "新興市場見通し：防衛関連株の人気継続へ、初値好調の直近ＩＰＯ銘柄にも注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1505056",
-      "published": "2026-04-25 06:00:04",
-      "isoDate": "2026-04-25T06:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米軍が東太平洋で船舶を攻撃、戦術を巡る論争が拡大",
       "link": "https://jp.investing.com/news/economy-news/article-1505046",
       "published": "2026-04-25 05:14:31",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
       "published": "2026-04-24 15:41:00",
       "isoDate": "2026-04-24T15:41:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "大規模なレイオフ発表はより大きな何かの兆候か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1504601",
+      "published": "2026-04-24 15:09:36",
+      "isoDate": "2026-04-24T15:09:36Z"
     },
     {
       "source": "Investing.com 外為",
