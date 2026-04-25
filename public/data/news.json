@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T21:00:27Z",
-  "last_checked": "2026-04-25T21:00:27Z",
+  "updated": "2026-04-25T21:30:23Z",
+  "last_checked": "2026-04-25T21:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AI半導体需要の高まりでメモリ株を買うべきとアナリストが推奨",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505094",
+      "published": "2026-04-25 20:38:03",
+      "isoDate": "2026-04-25T20:38:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "トランプ大統領の開示書類、3月に5100万ドル超の債券投資を示す",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505088",
       "published": "2026-04-25 18:30:46",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505057",
       "published": "2026-04-25 06:00:05",
       "isoDate": "2026-04-25T06:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIチップ急増で台湾と韓国が英国を抜き世界市場ランキングで躍進",
-      "link": "https://jp.investing.com/news/economy-news/article-1505037",
-      "published": "2026-04-25 02:48:19",
-      "isoDate": "2026-04-25T02:48:19Z"
     },
     {
       "source": "Investing.com 外為",
