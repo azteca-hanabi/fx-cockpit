@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T04:30:24Z",
-  "last_checked": "2026-04-25T04:30:24Z",
+  "updated": "2026-04-25T05:00:31Z",
+  "last_checked": "2026-04-25T05:00:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -141,6 +141,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ポーランド最大級仮想通貨取引所Zondacrypto、CEOがイスラエルへ出国　顧客資産1億ドル超の紛失疑惑",
+      "link": "https://coinpost.jp/?p=705156",
+      "published": "Sat, 25 Apr 2026 13:55:28 +0900",
+      "isoDate": "2026-04-25T04:55:28Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "米司法省、パウエル議長への捜査を終結　次期議長候補ウォーシュ氏の承認へ道",
       "link": "https://coinpost.jp/?p=705097",
       "published": "Sat, 25 Apr 2026 09:25:41 +0900",
@@ -180,13 +187,6 @@
       "link": "https://coinpost.jp/?p=701879",
       "published": "Fri, 24 Apr 2026 15:44:36 +0900",
       "isoDate": "2026-04-24T06:44:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの価格下落も「確信型買い手」の保有量が69%急増＝アークインベストQ1報告",
-      "link": "https://coinpost.jp/?p=704947",
-      "published": "Fri, 24 Apr 2026 15:06:05 +0900",
-      "isoDate": "2026-04-24T06:06:05Z"
     },
     {
       "source": "Investing.com 暗号資産",
