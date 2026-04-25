@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T23:00:27Z",
-  "last_checked": "2026-04-25T23:00:27Z",
+  "updated": "2026-04-25T23:30:21Z",
+  "last_checked": "2026-04-25T23:30:21Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "パキスタン特使派遣の失敗でトランプ大統領がイラン戦略を再考",
+      "link": "https://jp.investing.com/news/economy-news/article-1505107",
+      "published": "2026-04-25 22:49:37",
+      "isoDate": "2026-04-25T22:49:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AI半導体需要の高まりでメモリ株を買うべきとアナリストが推奨",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505094",
       "published": "2026-04-25 20:38:03",
@@ -80,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505088",
       "published": "2026-04-25 18:30:46",
       "isoDate": "2026-04-25T18:30:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "税還付と高騰するエネルギーコスト、米国消費者への影響は",
-      "link": "https://jp.investing.com/news/economy-news/article-1505087",
-      "published": "2026-04-25 17:41:56",
-      "isoDate": "2026-04-25T17:41:56Z"
     },
     {
       "source": "Investing.com 外為",
