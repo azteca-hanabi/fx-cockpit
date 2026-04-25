@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T17:00:32Z",
-  "last_checked": "2026-04-25T17:00:32Z",
+  "updated": "2026-04-25T17:30:24Z",
+  "last_checked": "2026-04-25T17:30:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックス、米国株式市場指数をアウトパフォームする可能性が高い株式市場を指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505085",
+      "published": "2026-04-25 15:49:04",
+      "isoDate": "2026-04-25T15:49:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：イラン情勢の行方、各国中銀イベント、29日ハイパースケーラー決算",
       "link": "https://jp.investing.com/news/forex-news/article-1505062",
       "published": "2026-04-25 07:30:04",
@@ -80,13 +87,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505057",
       "published": "2026-04-25 06:00:05",
       "isoDate": "2026-04-25T06:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米軍が東太平洋で船舶を攻撃、戦術を巡る論争が拡大",
-      "link": "https://jp.investing.com/news/economy-news/article-1505046",
-      "published": "2026-04-25 05:14:31",
-      "isoDate": "2026-04-25T05:14:31Z"
     },
     {
       "source": "Investing.com 外為",
