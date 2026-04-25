@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T05:30:26Z",
-  "last_checked": "2026-04-25T05:30:26Z",
+  "updated": "2026-04-25T06:00:28Z",
+  "last_checked": "2026-04-25T06:00:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "為替週間見通し：ドル上昇は一服か、為替介入を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1505048",
+      "published": "2026-04-25 05:30:04",
+      "isoDate": "2026-04-25T05:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "国内外の注目経済指標：日米欧の政策金利は据え置きとなる見込み。",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505047",
+      "published": "2026-04-25 05:30:03",
+      "isoDate": "2026-04-25T05:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米軍が東太平洋で船舶を攻撃、戦術を巡る論争が拡大",
+      "link": "https://jp.investing.com/news/economy-news/article-1505046",
+      "published": "2026-04-25 05:14:31",
+      "isoDate": "2026-04-25T05:14:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "テヘランの指導部分裂が米イラン戦争和平交渉を複雑化",
       "link": "https://jp.investing.com/news/economy-news/article-1505040",
       "published": "2026-04-25 03:20:06",
@@ -108,27 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1504951",
       "published": "2026-04-24 21:30:04",
       "isoDate": "2026-04-24T21:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週の注目銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504751",
-      "published": "2026-04-24 17:59:11",
-      "isoDate": "2026-04-24T17:59:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
-      "published": "2026-04-24 15:41:00",
-      "isoDate": "2026-04-24T15:41:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "大規模なレイオフ発表はより大きな何かの兆候か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504601",
-      "published": "2026-04-24 15:09:36",
-      "isoDate": "2026-04-24T15:09:36Z"
     },
     {
       "source": "Investing.com 外為",
