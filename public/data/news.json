@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T07:30:23Z",
-  "last_checked": "2026-04-25T07:30:23Z",
+  "updated": "2026-04-25T08:00:30Z",
+  "last_checked": "2026-04-25T08:00:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：イラン情勢の行方、各国中銀イベント、29日ハイパースケーラー決算",
+      "link": "https://jp.investing.com/news/forex-news/article-1505062",
+      "published": "2026-04-25 07:30:04",
+      "isoDate": "2026-04-25T07:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "国内株式市場見通し：来週はイベント盛り沢山だが、29日に集中するハイパースケーラーの決算が最注目",
       "link": "https://jp.investing.com/news/forex-news/article-1505057",
       "published": "2026-04-25 06:00:05",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1504951",
       "published": "2026-04-24 21:30:04",
       "isoDate": "2026-04-24T21:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
-      "published": "2026-04-24 15:41:00",
-      "isoDate": "2026-04-24T15:41:00Z"
     },
     {
       "source": "Investing.com 外為",
