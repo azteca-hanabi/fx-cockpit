@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T00:00:35Z",
-  "last_checked": "2026-04-26T00:00:35Z",
+  "updated": "2026-04-26T00:30:33Z",
+  "last_checked": "2026-04-26T00:30:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -141,6 +141,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "今週の主要仮想通貨材料まとめ、ETH長期価格目標の大幅下方修正やXRPLの量子耐性移行計画など",
+      "link": "https://coinpost.jp/?p=704727",
+      "published": "Sun, 26 Apr 2026 09:30:05 +0900",
+      "isoDate": "2026-04-26T00:30:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース｜特定暗号資産の申告分離課税巡る議論やトークン化ポケカ市場の活況に高い関心",
+      "link": "https://coinpost.jp/?p=704761",
+      "published": "Sun, 26 Apr 2026 09:25:31 +0900",
+      "isoDate": "2026-04-26T00:25:31Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ポーランド最大級仮想通貨取引所Zondacrypto、CEOがイスラエルへ出国　巨額顧客資産の紛失疑惑",
       "link": "https://coinpost.jp/?p=705156",
       "published": "Sat, 25 Apr 2026 13:55:28 +0900",
@@ -180,13 +194,6 @@
       "link": "https://coinpost.jp/?p=705015",
       "published": "Fri, 24 Apr 2026 16:57:28 +0900",
       "isoDate": "2026-04-24T07:57:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ビットコインとJPYCは表裏一体」メタプラネットCEO×JPYC代表が語る日本発ビットコイン経済圏の全貌",
-      "link": "https://coinpost.jp/?p=701879",
-      "published": "Fri, 24 Apr 2026 15:44:36 +0900",
-      "isoDate": "2026-04-24T06:44:36Z"
     },
     {
       "source": "Investing.com 暗号資産",
