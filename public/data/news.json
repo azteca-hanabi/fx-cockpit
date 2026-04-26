@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T23:30:21Z",
-  "last_checked": "2026-04-25T23:30:21Z",
+  "updated": "2026-04-26T00:00:35Z",
+  "last_checked": "2026-04-26T00:00:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -90,6 +90,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "税還付と高騰するエネルギーコスト、米国消費者への影響は",
+      "link": "https://jp.investing.com/news/economy-news/article-1505087",
+      "published": "2026-04-25 17:41:56",
+      "isoDate": "2026-04-25T17:41:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックス、米国株式市場指数をアウトパフォームする可能性が高い株式市場を指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505085",
       "published": "2026-04-25 15:49:04",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1505008",
       "published": "2026-04-25 00:01:25",
       "isoDate": "2026-04-25T00:01:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "原油100ドル時代、テスラセミの魅力はどれほど高まるか",
-      "link": "https://jp.investing.com/news/company-news/article-1504996",
-      "published": "2026-04-24 23:17:41",
-      "isoDate": "2026-04-24T23:17:41Z"
     },
     {
       "source": "Investing.com 外為",
