@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T05:00:27Z",
-  "last_checked": "2026-04-26T05:00:27Z",
+  "updated": "2026-04-26T05:30:23Z",
+  "last_checked": "2026-04-26T05:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "台湾、空域封鎖を乗り越え外交使節団が任務遂行",
+      "link": "https://jp.investing.com/news/economy-news/article-1505127",
+      "published": "2026-04-26 04:44:21",
+      "isoDate": "2026-04-26T04:44:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ホルムズ海峡の膠着深まる、米国の封鎖で海運が停止",
       "link": "https://jp.investing.com/news/economy-news/article-1505125",
       "published": "2026-04-26 04:30:28",
@@ -83,14 +90,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン、機関投資家向けデリバティブが新たな節目に達する中で堅調推移",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1505119",
-      "published": "2026-04-26 02:43:28",
-      "isoDate": "2026-04-26T02:43:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、記者晩餐会の銃撃犯を拘束と発表、負傷者なし",
+      "title": "トランプ大統領、記者夕食会での銃撃犯を拘束と発表、検事が起訴内容を明らかに",
       "link": "https://jp.investing.com/news/economy-news/article-1505116",
       "published": "2026-04-26 01:06:51",
       "isoDate": "2026-04-26T01:06:51Z"
@@ -132,10 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AMDとArm株が急騰、CPUとGPUの比率変化がAI市場を再構築",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504079",
-      "published": "2026-04-24 11:28:19",
-      "isoDate": "2026-04-24T11:28:19Z"
+      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
+      "published": "2026-04-24 15:41:00",
+      "isoDate": "2026-04-24T15:41:00Z"
     }
   ],
   "btc_items": [
