@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T06:30:22Z",
-  "last_checked": "2026-04-26T06:30:22Z",
+  "updated": "2026-04-26T07:00:27Z",
+  "last_checked": "2026-04-26T07:00:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AIは雇用削減ではなく生産性向上を促進とアナリスト",
+      "link": "https://jp.investing.com/news/economy-news/article-1505132",
+      "published": "2026-04-26 06:15:09",
+      "isoDate": "2026-04-26T06:15:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "2026年ワールドカップの革新はナイキとAdidasに必要な反発をもたらすか",
       "link": "https://jp.investing.com/news/economy-news/article-1505129",
       "published": "2026-04-26 05:36:18",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505062",
       "published": "2026-04-25 07:30:04",
       "isoDate": "2026-04-25T07:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
-      "published": "2026-04-24 15:41:00",
-      "isoDate": "2026-04-24T15:41:00Z"
     }
   ],
   "btc_items": [
