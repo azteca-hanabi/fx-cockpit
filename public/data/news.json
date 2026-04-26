@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T03:00:33Z",
-  "last_checked": "2026-04-26T03:00:33Z",
+  "updated": "2026-04-26T03:30:22Z",
+  "last_checked": "2026-04-26T03:30:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,7 +69,14 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ホワイトハウス記者晩餐会での銃撃事件後、トランプ大統領が無事避難",
+      "title": "ビットコイン、機関投資家向けデリバティブが新たな節目に達する中で堅調推移",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1505119",
+      "published": "2026-04-26 02:43:28",
+      "isoDate": "2026-04-26T02:43:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、記者晩餐会の銃撃犯を拘束と発表、負傷者なし",
       "link": "https://jp.investing.com/news/economy-news/article-1505116",
       "published": "2026-04-26 01:06:51",
       "isoDate": "2026-04-26T01:06:51Z"
@@ -97,13 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "税還付と高騰するエネルギーコスト、米国消費者への影響は",
-      "link": "https://jp.investing.com/news/economy-news/article-1505087",
-      "published": "2026-04-25 17:41:56",
-      "isoDate": "2026-04-25T17:41:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックス、米国株式市場指数をアウトパフォームする可能性が高い株式市場を指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505085",
       "published": "2026-04-25 15:49:04",
@@ -125,10 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIチップ急増で台湾と韓国が英国を抜き世界市場ランキングで躍進",
-      "link": "https://jp.investing.com/news/economy-news/article-1505037",
-      "published": "2026-04-25 02:48:19",
-      "isoDate": "2026-04-25T02:48:19Z"
+      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
+      "published": "2026-04-24 15:41:00",
+      "isoDate": "2026-04-24T15:41:00Z"
     },
     {
       "source": "Investing.com 外為",
