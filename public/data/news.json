@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T09:30:23Z",
-  "last_checked": "2026-04-26T09:30:23Z",
+  "updated": "2026-04-26T10:00:27Z",
+  "last_checked": "2026-04-26T10:00:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アナリストのAI関連5大注目銘柄:パロアルトとRedditに新規買い推奨、アドバンスト・マイクロ・デバイセズは格上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505146",
+      "published": "2026-04-26 09:05:02",
+      "isoDate": "2026-04-26T09:05:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "イラン、内部不安深まる中で武装組織メンバーとされる男を処刑",
       "link": "https://jp.investing.com/news/economy-news/article-1505133",
       "published": "2026-04-26 06:45:07",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505088",
       "published": "2026-04-25 18:30:46",
       "isoDate": "2026-04-25T18:30:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
-      "published": "2026-04-24 15:41:00",
-      "isoDate": "2026-04-24T15:41:00Z"
     }
   ],
   "btc_items": [
