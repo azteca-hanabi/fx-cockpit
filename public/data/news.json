@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T07:00:27Z",
-  "last_checked": "2026-04-26T07:00:27Z",
+  "updated": "2026-04-26T07:30:23Z",
+  "last_checked": "2026-04-26T07:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イラン、内部不安深まる中で武装組織メンバーとされる男を処刑",
+      "link": "https://jp.investing.com/news/economy-news/article-1505133",
+      "published": "2026-04-26 06:45:07",
+      "isoDate": "2026-04-26T06:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIは雇用削減ではなく生産性向上を促進とアナリスト",
       "link": "https://jp.investing.com/news/economy-news/article-1505132",
       "published": "2026-04-26 06:15:09",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505088",
       "published": "2026-04-25 18:30:46",
       "isoDate": "2026-04-25T18:30:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：イラン情勢の行方、各国中銀イベント、29日ハイパースケーラー決算",
-      "link": "https://jp.investing.com/news/forex-news/article-1505062",
-      "published": "2026-04-25 07:30:04",
-      "isoDate": "2026-04-25T07:30:04Z"
     }
   ],
   "btc_items": [
