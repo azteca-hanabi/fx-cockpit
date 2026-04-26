@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T04:00:28Z",
-  "last_checked": "2026-04-26T04:00:28Z",
+  "updated": "2026-04-26T04:30:23Z",
+  "last_checked": "2026-04-26T04:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今週のウォール街アナリストレポート",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505124",
+      "published": "2026-04-26 03:52:21",
+      "isoDate": "2026-04-26T03:52:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ビットコイン、機関投資家向けデリバティブが新たな節目に達する中で堅調推移",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1505119",
       "published": "2026-04-26 02:43:28",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505057",
       "published": "2026-04-25 06:00:05",
       "isoDate": "2026-04-25T06:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
-      "published": "2026-04-24 15:41:00",
-      "isoDate": "2026-04-24T15:41:00Z"
     },
     {
       "source": "Investing.com 外為",
