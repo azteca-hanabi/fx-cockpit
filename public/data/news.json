@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T11:30:22Z",
-  "last_checked": "2026-04-26T11:30:22Z",
+  "updated": "2026-04-26T12:00:25Z",
+  "last_checked": "2026-04-26T12:00:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イラン戦争3カ月目、サプライチェーンの現状確認",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505160",
+      "published": "2026-04-26 11:29:33",
+      "isoDate": "2026-04-26T11:29:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "韓国のハイテク企業が2027年までにNvidiaを抜き世界最高益企業へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505154",
       "published": "2026-04-26 10:35:13",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1505127",
       "published": "2026-04-26 04:44:21",
       "isoDate": "2026-04-26T04:44:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週のウォール街アナリストレポート",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505124",
-      "published": "2026-04-26 03:52:21",
-      "isoDate": "2026-04-26T03:52:21Z"
     },
     {
       "source": "Investing.com 外為",
