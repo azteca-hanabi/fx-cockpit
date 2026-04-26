@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T15:00:28Z",
-  "last_checked": "2026-04-26T15:00:28Z",
+  "updated": "2026-04-26T15:30:24Z",
+  "last_checked": "2026-04-26T15:30:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エネルギー価格上昇は金融引き締めを意味するのか",
-      "link": "https://jp.investing.com/news/economy-news/article-1505163",
-      "published": "2026-04-26 12:43:47",
-      "isoDate": "2026-04-26T12:43:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "インフレはどの程度の脅威なのか",
       "link": "https://jp.investing.com/news/economy-news/article-1505162",
       "published": "2026-04-26 11:58:51",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1505116",
       "published": "2026-04-26 01:06:51",
       "isoDate": "2026-04-26T01:06:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "パキスタン特使派遣の失敗でトランプ大統領がイラン戦略を再考",
+      "link": "https://jp.investing.com/news/economy-news/article-1505107",
+      "published": "2026-04-25 22:49:37",
+      "isoDate": "2026-04-25T22:49:37Z"
     },
     {
       "source": "Investing.com 外為",
