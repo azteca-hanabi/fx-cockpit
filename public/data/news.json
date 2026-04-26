@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T01:00:29Z",
-  "last_checked": "2026-04-26T01:00:29Z",
+  "updated": "2026-04-26T01:30:25Z",
+  "last_checked": "2026-04-26T01:30:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "トランプ大統領、警備警報でホワイトハウス記者団夕食会から退出",
+      "link": "https://jp.investing.com/news/economy-news/article-1505116",
+      "published": "2026-04-26 01:06:51",
+      "isoDate": "2026-04-26T01:06:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "パキスタン特使派遣の失敗でトランプ大統領がイラン戦略を再考",
       "link": "https://jp.investing.com/news/economy-news/article-1505107",
       "published": "2026-04-25 22:49:37",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1505037",
       "published": "2026-04-25 02:48:19",
       "isoDate": "2026-04-25T02:48:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaが5兆ドルの巨体で急騰、AI市場がCPUへ軸足を移す中インテルの躍進に便乗",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1504642",
-      "published": "2026-04-24 15:41:00",
-      "isoDate": "2026-04-24T15:41:00Z"
     },
     {
       "source": "Investing.com 外為",
