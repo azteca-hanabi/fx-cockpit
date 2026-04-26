@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T04:30:23Z",
-  "last_checked": "2026-04-26T04:30:23Z",
+  "updated": "2026-04-26T05:00:27Z",
+  "last_checked": "2026-04-26T05:00:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ホルムズ海峡の膠着深まる、米国の封鎖で海運が停止",
+      "link": "https://jp.investing.com/news/economy-news/article-1505125",
+      "published": "2026-04-26 04:30:28",
+      "isoDate": "2026-04-26T04:30:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "今週のウォール街アナリストレポート",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505124",
       "published": "2026-04-26 03:52:21",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505088",
       "published": "2026-04-25 18:30:46",
       "isoDate": "2026-04-25T18:30:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、米国株式市場指数をアウトパフォームする可能性が高い株式市場を指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505085",
-      "published": "2026-04-25 15:49:04",
-      "isoDate": "2026-04-25T15:49:04Z"
     },
     {
       "source": "Investing.com 外為",
