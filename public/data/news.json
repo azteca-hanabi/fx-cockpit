@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T06:00:28Z",
-  "last_checked": "2026-04-26T06:00:28Z",
+  "updated": "2026-04-26T06:30:22Z",
+  "last_checked": "2026-04-26T06:30:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "2026年ワールドカップの革新はナイキとAdidasに必要な反発をもたらすか",
+      "link": "https://jp.investing.com/news/economy-news/article-1505129",
+      "published": "2026-04-26 05:36:18",
+      "isoDate": "2026-04-26T05:36:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "台湾、空域封鎖を乗り越え外交使節団が任務遂行",
       "link": "https://jp.investing.com/news/economy-news/article-1505127",
       "published": "2026-04-26 04:44:21",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505062",
       "published": "2026-04-25 07:30:04",
       "isoDate": "2026-04-25T07:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：来週はイベント盛り沢山だが、29日に集中するハイパースケーラーの決算が最注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1505057",
-      "published": "2026-04-25 06:00:05",
-      "isoDate": "2026-04-25T06:00:05Z"
     },
     {
       "source": "Investing.com 外為",
