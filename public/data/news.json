@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T02:30:26Z",
-  "last_checked": "2026-04-26T02:30:26Z",
+  "updated": "2026-04-26T03:00:33Z",
+  "last_checked": "2026-04-26T03:00:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,7 +69,7 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、ホワイトハウス記者会夕食会から警備警報で退出",
+      "title": "ホワイトハウス記者晩餐会での銃撃事件後、トランプ大統領が無事避難",
       "link": "https://jp.investing.com/news/economy-news/article-1505116",
       "published": "2026-04-26 01:06:51",
       "isoDate": "2026-04-26T01:06:51Z"
@@ -141,6 +141,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米・イラン停戦延長でビットコイン底堅く、今後の鍵は和平交渉とFOMC｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=704976",
+      "published": "Sun, 26 Apr 2026 11:30:40 +0900",
+      "isoDate": "2026-04-26T02:30:40Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "今週の主要仮想通貨材料まとめ、ETH長期価格目標の大幅下方修正やXRPLの量子耐性移行計画など",
       "link": "https://coinpost.jp/?p=704727",
       "published": "Sun, 26 Apr 2026 09:30:05 +0900",
@@ -187,13 +194,6 @@
       "link": "https://coinpost.jp/?p=705101",
       "published": "Sat, 25 Apr 2026 05:55:27 +0900",
       "isoDate": "2026-04-24T20:55:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ビットコイン現物ETF、5営業日で約1万9000BTC取得　新規供給量の9倍＝ビットウィーズ",
-      "link": "https://coinpost.jp/?p=705015",
-      "published": "Fri, 24 Apr 2026 16:57:28 +0900",
-      "isoDate": "2026-04-24T07:57:28Z"
     },
     {
       "source": "Investing.com 暗号資産",
