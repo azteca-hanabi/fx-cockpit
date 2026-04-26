@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T13:00:28Z",
-  "last_checked": "2026-04-26T13:00:28Z",
+  "updated": "2026-04-26T13:30:24Z",
+  "last_checked": "2026-04-26T13:30:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "新FRB議長就任で市場は常に混乱するのか",
+      "link": "https://jp.investing.com/news/economy-news/article-1505165",
+      "published": "2026-04-26 13:01:09",
+      "isoDate": "2026-04-26T13:01:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エネルギー価格上昇は金融引き締めを意味するのか",
+      "link": "https://jp.investing.com/news/economy-news/article-1505163",
+      "published": "2026-04-26 12:43:47",
+      "isoDate": "2026-04-26T12:43:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "インフレはどの程度の脅威なのか",
       "link": "https://jp.investing.com/news/economy-news/article-1505162",
       "published": "2026-04-26 11:58:51",
@@ -111,24 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "台湾、空域封鎖を乗り越え外交使節団が任務遂行",
-      "link": "https://jp.investing.com/news/economy-news/article-1505127",
-      "published": "2026-04-26 04:44:21",
-      "isoDate": "2026-04-26T04:44:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "WHCD銃撃犯はトランプ政権を標的にした可能性、米司法長官代行が表明",
+      "title": "銃撃犯はトランプ政権を標的にした可能性、米司法長官代行が見解",
       "link": "https://jp.investing.com/news/economy-news/article-1505116",
       "published": "2026-04-26 01:06:51",
       "isoDate": "2026-04-26T01:06:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "パキスタン特使派遣の失敗でトランプ大統領がイラン戦略を再考",
-      "link": "https://jp.investing.com/news/economy-news/article-1505107",
-      "published": "2026-04-25 22:49:37",
-      "isoDate": "2026-04-25T22:49:37Z"
     },
     {
       "source": "Investing.com 外為",
