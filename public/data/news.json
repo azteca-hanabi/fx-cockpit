@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T10:00:27Z",
-  "last_checked": "2026-04-26T10:00:27Z",
+  "updated": "2026-04-26T10:30:22Z",
+  "last_checked": "2026-04-26T10:30:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AI熱狂が市場を最高値に押し上げ、バブル論争を加速",
+      "link": "https://jp.investing.com/news/economy-news/article-1505150",
+      "published": "2026-04-26 09:57:48",
+      "isoDate": "2026-04-26T09:57:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アナリストのAI関連5大注目銘柄:パロアルトとRedditに新規買い推奨、アドバンスト・マイクロ・デバイセズは格上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505146",
       "published": "2026-04-26 09:05:02",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1505127",
       "published": "2026-04-26 04:44:21",
       "isoDate": "2026-04-26T04:44:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ホルムズ海峡の膠着深まる、米国の封鎖で海運が停止",
-      "link": "https://jp.investing.com/news/economy-news/article-1505125",
-      "published": "2026-04-26 04:30:28",
-      "isoDate": "2026-04-26T04:30:28Z"
     },
     {
       "source": "Investing.com 外為",
