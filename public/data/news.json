@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T14:30:28Z",
-  "last_checked": "2026-04-27T14:30:28Z",
+  "updated": "2026-04-27T15:00:38Z",
+  "last_checked": "2026-04-27T15:00:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループが発注キャンセル、POETテクノロジーズが受注を失う",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1506173",
+      "published": "2026-04-27 13:19:13",
+      "isoDate": "2026-04-27T13:19:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "OpenAIとの提携が非独占的に移行し、マイクロソフト株が2%下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1506160",
       "published": "2026-04-27 13:09:48",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505885",
       "published": "2026-04-27 10:54:10",
       "isoDate": "2026-04-27T10:54:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラがマスク氏の業績報酬として3億390万株を登録",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1505616",
-      "published": "2026-04-27 10:07:07",
-      "isoDate": "2026-04-27T10:07:07Z"
     }
   ],
   "btc_items": [
