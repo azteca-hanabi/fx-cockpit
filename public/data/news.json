@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T06:00:52Z",
-  "last_checked": "2026-04-27T06:00:52Z",
+  "updated": "2026-04-27T06:30:26Z",
+  "last_checked": "2026-04-27T06:30:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,15 +62,22 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は1125円高、半導体関連株の一角が一段高",
-      "link": "https://jp.investing.com/news/forex-news/article-1505297",
-      "published": "2026-04-27 05:00:13",
-      "isoDate": "2026-04-27T05:00:13Z"
+      "title": "東京為替：ドル・円は下げ渋り、原油相場は底堅い",
+      "link": "https://jp.investing.com/news/forex-news/article-1505341",
+      "published": "2026-04-27 06:00:14",
+      "isoDate": "2026-04-27T06:00:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：伸び悩みか、金融政策を見極め",
-      "link": "https://jp.investing.com/news/forex-news/article-1505296",
+      "title": "日経平均VIは上昇、原油価格高止まりなど警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1505329",
+      "published": "2026-04-27 05:45:12",
+      "isoDate": "2026-04-27T05:45:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1125円高、半導体関連株の一角が一段高",
+      "link": "https://jp.investing.com/news/forex-news/article-1505297",
       "published": "2026-04-27 05:00:13",
       "isoDate": "2026-04-27T05:00:13Z"
     },
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505278",
       "published": "2026-04-27 04:00:15",
       "isoDate": "2026-04-27T04:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～半導体関連や値がさ株に買い向かい再度6万円到達",
-      "link": "https://jp.investing.com/news/forex-news/article-1505273",
-      "published": "2026-04-27 03:30:13",
-      "isoDate": "2026-04-27T03:30:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,6 +132,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン上昇は先物主導、現物需要は依然低迷＝CryptoQuant",
+      "link": "https://coinpost.jp/?p=705296",
+      "published": "Mon, 27 Apr 2026 15:12:16 +0900",
+      "isoDate": "2026-04-27T06:12:16Z"
+    },
     {
       "source": "CoinPost",
       "title": "国内初、仮想通貨取引所残高から引き落とし可能なクレカ誕生　ビットバンクとエポスカードが連携",
@@ -187,13 +194,6 @@
       "link": "https://coinpost.jp/?p=705097",
       "published": "Sat, 25 Apr 2026 09:25:41 +0900",
       "isoDate": "2026-04-25T00:25:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "量子コンピューターで15ビットの暗号解読に成功、研究者が1BTCの報酬獲得",
-      "link": "https://coinpost.jp/?p=705114",
-      "published": "Sat, 25 Apr 2026 08:20:36 +0900",
-      "isoDate": "2026-04-24T23:20:36Z"
     },
     {
       "source": "Investing.com 暗号資産",
