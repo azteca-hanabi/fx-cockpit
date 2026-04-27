@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T10:30:32Z",
-  "last_checked": "2026-04-27T10:30:32Z",
+  "updated": "2026-04-27T11:00:34Z",
+  "last_checked": "2026-04-27T11:00:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円はやや値を戻す、クロス円は堅調",
+      "link": "https://jp.investing.com/news/forex-news/article-1505637",
+      "published": "2026-04-27 10:15:10",
+      "isoDate": "2026-04-27T10:15:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラがマスク氏の業績報酬として3億390万株を登録",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1505616",
+      "published": "2026-04-27 10:07:07",
+      "isoDate": "2026-04-27T10:07:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Pony AIがエヌビディアと共同で新型自動運転コンピュートプラットフォームを発表",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1505579",
       "published": "2026-04-27 09:55:07",
@@ -122,20 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505297",
       "published": "2026-04-27 05:00:13",
       "isoDate": "2026-04-27T05:00:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、イラン再協議期待やハイテクが支援",
-      "link": "https://jp.investing.com/news/forex-news/article-1505186",
-      "published": "2026-04-26 22:15:02",
-      "isoDate": "2026-04-26T22:15:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国のハイテク企業が2027年までにNvidiaを抜き世界最高益企業へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505154",
-      "published": "2026-04-26 10:35:13",
-      "isoDate": "2026-04-26T10:35:13Z"
     }
   ],
   "btc_items": [
