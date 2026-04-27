@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T23:30:23Z",
-  "last_checked": "2026-04-26T23:30:23Z",
+  "updated": "2026-04-27T00:00:33Z",
+  "last_checked": "2026-04-27T00:00:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,6 +62,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "終値ベースで6万円の大台乗せか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505192",
+      "published": "2026-04-26 23:30:04",
+      "isoDate": "2026-04-26T23:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "今日の為替市場ポイント：中東紛争長期化への懸念強まる",
       "link": "https://jp.investing.com/news/forex-news/article-1505189",
       "published": "2026-04-26 23:00:04",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505186",
       "published": "2026-04-26 22:15:02",
       "isoDate": "2026-04-26T22:15:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "新FRB議長就任で市場は常に混乱するのか",
-      "link": "https://jp.investing.com/news/economy-news/article-1505165",
-      "published": "2026-04-26 13:01:09",
-      "isoDate": "2026-04-26T13:01:09Z"
     },
     {
       "source": "Investing.com 外為",
