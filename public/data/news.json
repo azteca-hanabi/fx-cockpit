@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T05:00:30Z",
-  "last_checked": "2026-04-27T05:00:30Z",
+  "updated": "2026-04-27T05:30:24Z",
+  "last_checked": "2026-04-27T05:30:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,6 +62,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は1125円高、半導体関連株の一角が一段高",
+      "link": "https://jp.investing.com/news/forex-news/article-1505297",
+      "published": "2026-04-27 05:00:13",
+      "isoDate": "2026-04-27T05:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "後場の日経平均は792円高でスタート、アドバンテやフジクラなどが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505285",
       "published": "2026-04-27 04:30:13",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1505273",
       "published": "2026-04-27 03:30:13",
       "isoDate": "2026-04-27T03:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は軟調、原油相場の失速で",
-      "link": "https://jp.investing.com/news/forex-news/article-1505270",
-      "published": "2026-04-27 03:30:11",
-      "isoDate": "2026-04-27T03:30:11Z"
     },
     {
       "source": "Investing.com 外為",
