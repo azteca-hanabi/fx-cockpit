@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T13:30:28Z",
-  "last_checked": "2026-04-27T13:30:28Z",
+  "updated": "2026-04-27T14:00:33Z",
+  "last_checked": "2026-04-27T14:00:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,6 +83,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループからの受注喪失でPOET Technologies株が急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1506101",
+      "published": "2026-04-27 13:02:08",
+      "isoDate": "2026-04-27T13:02:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ノースランド・キャピタルが11年ぶりにアドバンスト・マイクロ・デバイセズを格下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1506061",
       "published": "2026-04-27 12:37:35",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1505616",
       "published": "2026-04-27 10:07:07",
       "isoDate": "2026-04-27T10:07:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Pony AIがエヌビディアと共同で新型自動運転コンピュートプラットフォームを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1505579",
-      "published": "2026-04-27 09:55:07",
-      "isoDate": "2026-04-27T09:55:07Z"
     }
   ],
   "btc_items": [
