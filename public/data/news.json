@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-27T18:00:40Z",
-  "last_checked": "2026-04-27T18:00:40Z",
+  "updated": "2026-04-27T18:30:27Z",
+  "last_checked": "2026-04-27T18:30:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アナリスト、金価格は2026年末に1オンス4,500ドル以下と予想",
+      "link": "https://jp.investing.com/news/commodities-news/article-1506626",
+      "published": "2026-04-27 18:18:14",
+      "isoDate": "2026-04-27T18:18:14Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中東紛争長期化なら原油価格は150ドル超える可能性とアナリストが警告",
@@ -57,13 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1505033",
       "published": "2026-04-25 02:04:14",
       "isoDate": "2026-04-25T02:04:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国の掘削業者、3週間ぶりに石油・ガスリグを増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1504771",
-      "published": "2026-04-24 18:34:53",
-      "isoDate": "2026-04-24T18:34:53Z"
     }
   ],
   "usdjpy_items": [
