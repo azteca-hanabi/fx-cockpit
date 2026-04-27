@@ -1,7 +1,21 @@
 {
-  "updated": "2026-04-27T19:00:34Z",
-  "last_checked": "2026-04-27T19:00:34Z",
+  "updated": "2026-04-27T19:30:27Z",
+  "last_checked": "2026-04-27T19:30:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆先物が1カ月ぶり高値、原油価格上昇で",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1506641",
+      "published": "2026-04-27 18:57:10",
+      "isoDate": "2026-04-27T18:57:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油急騰でCBOTコーン先物が10カ月ぶり高値を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1506635",
+      "published": "2026-04-27 18:47:51",
+      "isoDate": "2026-04-27T18:47:51Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "アナリスト、金価格は2026年末に1オンス4,500ドル以下と予想",
@@ -50,20 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1505201",
       "published": "2026-04-26 23:56:33",
       "isoDate": "2026-04-26T23:56:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の混乱が石油よりもLNG市場に深刻な理由",
-      "link": "https://jp.investing.com/news/commodities-news/article-1505141",
-      "published": "2026-04-26 07:53:27",
-      "isoDate": "2026-04-26T07:53:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡紛争が続く中、米国のエネルギー輸出が過去最高を記録",
-      "link": "https://jp.investing.com/news/commodities-news/article-1505033",
-      "published": "2026-04-25 02:04:14",
-      "isoDate": "2026-04-25T02:04:14Z"
     }
   ],
   "usdjpy_items": [
