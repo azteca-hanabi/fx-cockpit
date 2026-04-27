@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-27T00:00:33Z",
-  "last_checked": "2026-04-27T00:00:33Z",
+  "updated": "2026-04-27T00:30:32Z",
+  "last_checked": "2026-04-27T00:30:32Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米イラン和平協議が停滞、ホルムズ海峡混乱続き原油価格2%超上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1505201",
+      "published": "2026-04-26 23:56:33",
+      "isoDate": "2026-04-26T23:56:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡の混乱が石油よりもLNG市場に深刻な理由",
@@ -62,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "強弱材料 4/27",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505203",
+      "published": "2026-04-27 00:00:06",
+      "isoDate": "2026-04-27T00:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～半導体やAI関連株への資金集中は継続～",
+      "link": "https://jp.investing.com/news/forex-news/article-1505202",
+      "published": "2026-04-27 00:00:06",
+      "isoDate": "2026-04-27T00:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体やAI関連株への資金集中は継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505197",
+      "published": "2026-04-26 23:45:05",
+      "isoDate": "2026-04-26T23:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "終値ベースで6万円の大台乗せか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505192",
       "published": "2026-04-26 23:30:04",
@@ -71,13 +99,6 @@
       "source": "Investing.com 外為",
       "title": "今日の為替市場ポイント：中東紛争長期化への懸念強まる",
       "link": "https://jp.investing.com/news/forex-news/article-1505189",
-      "published": "2026-04-26 23:00:04",
-      "isoDate": "2026-04-26T23:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NYの視点：【今週の注目イベント】米イラン再協議の行方、FOMC、ECB、日銀、BOEは据え置き決定へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505188",
       "published": "2026-04-26 23:00:04",
       "isoDate": "2026-04-26T23:00:04Z"
     },
@@ -115,20 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505146",
       "published": "2026-04-26 09:05:02",
       "isoDate": "2026-04-26T09:05:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イラン、内部不安深まる中で武装組織メンバーとされる男を処刑",
-      "link": "https://jp.investing.com/news/economy-news/article-1505133",
-      "published": "2026-04-26 06:45:07",
-      "isoDate": "2026-04-26T06:45:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI半導体需要の高まりでメモリ株を買うべきとアナリストが推奨",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505094",
-      "published": "2026-04-25 20:38:03",
-      "isoDate": "2026-04-25T20:38:03Z"
     }
   ],
   "btc_items": [
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=705098",
       "published": "Sat, 25 Apr 2026 07:35:58 +0900",
       "isoDate": "2026-04-24T22:35:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、イラン関連の仮想通貨ウォレットを制裁",
-      "link": "https://coinpost.jp/?p=705101",
-      "published": "Sat, 25 Apr 2026 05:55:27 +0900",
-      "isoDate": "2026-04-24T20:55:27Z"
     },
     {
       "source": "Investing.com 暗号資産",
