@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T20:30:28Z",
-  "last_checked": "2026-04-27T20:30:28Z",
+  "updated": "2026-04-27T21:00:44Z",
+  "last_checked": "2026-04-27T21:00:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "エヌビディア、元インテル幹部を最高会計責任者に任命",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1506731",
+      "published": "2026-04-27 20:14:08",
+      "isoDate": "2026-04-27T20:14:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Oracleがニューメキシコ州のデータセンター計画を燃料電池技術で更新",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1506709",
+      "published": "2026-04-27 20:06:08",
+      "isoDate": "2026-04-27T20:06:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "4月27日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1506657",
+      "published": "2026-04-27 19:15:04",
+      "isoDate": "2026-04-27T19:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロソフトとOpenAIが提携を再構築：独占契約終了で双方が柔軟性を追求",
       "link": "https://jp.investing.com/news/stock-market-news/article-1506160",
       "published": "2026-04-27 13:09:48",
@@ -87,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1506101",
       "published": "2026-04-27 13:02:08",
       "isoDate": "2026-04-27T13:02:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "POETテクノロジーズ、マーベル・テクノロジー・グループ傘下企業からの発注を失う",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1506098",
-      "published": "2026-04-27 12:59:07",
-      "isoDate": "2026-04-27T12:59:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,20 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505885",
       "published": "2026-04-27 10:54:10",
       "isoDate": "2026-04-27T10:54:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラがマスク氏の業績報酬として3億390万株を登録",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1505616",
-      "published": "2026-04-27 10:07:07",
-      "isoDate": "2026-04-27T10:07:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Pony AIがエヌビディアと共同で新型自動運転コンピュートプラットフォームを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1505579",
-      "published": "2026-04-27 09:55:07",
-      "isoDate": "2026-04-27T09:55:07Z"
     }
   ],
   "btc_items": [
