@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T13:00:32Z",
-  "last_checked": "2026-04-27T13:00:32Z",
+  "updated": "2026-04-27T13:30:28Z",
+  "last_checked": "2026-04-27T13:30:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "OpenAIとの提携が非独占的に移行し、マイクロソフト株が2%下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1506160",
+      "published": "2026-04-27 13:09:48",
+      "isoDate": "2026-04-27T13:09:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NAND価格急騰でサンディスク株に上昇期待、アナリストが強気姿勢",
+      "link": "https://jp.investing.com/news/analyst-ratings/article-1506130",
+      "published": "2026-04-27 13:05:51",
+      "isoDate": "2026-04-27T13:05:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ノースランド・キャピタルが11年ぶりにアドバンスト・マイクロ・デバイセズを格下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1506061",
+      "published": "2026-04-27 12:37:35",
+      "isoDate": "2026-04-27T12:37:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米イラン緊張と決算ラッシュを控えTSX先物が下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505977",
       "published": "2026-04-27 12:10:09",
@@ -87,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505986",
       "published": "2026-04-27 12:04:04",
       "isoDate": "2026-04-27T12:04:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Strategy、145万株を売却し3,273ビットコインを2億5,500万ドルで取得",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-432SI-1505926",
-      "published": "2026-04-27 12:02:10",
-      "isoDate": "2026-04-27T12:02:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベライゾンとクアルコムがプレマーケットで上昇、GEバーノバは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505879",
-      "published": "2026-04-27 11:39:42",
-      "isoDate": "2026-04-27T11:39:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1505579",
       "published": "2026-04-27 09:55:07",
       "isoDate": "2026-04-27T09:55:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の市場で注目すべき5つのポイント",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505525",
-      "published": "2026-04-27 09:14:11",
-      "isoDate": "2026-04-27T09:14:11Z"
     }
   ],
   "btc_items": [
