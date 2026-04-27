@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T11:00:34Z",
-  "last_checked": "2026-04-27T11:00:34Z",
+  "updated": "2026-04-27T11:30:24Z",
+  "last_checked": "2026-04-27T11:30:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,10 +69,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円はやや値を戻す、クロス円は堅調",
-      "link": "https://jp.investing.com/news/forex-news/article-1505637",
-      "published": "2026-04-27 10:15:10",
-      "isoDate": "2026-04-27T10:15:10Z"
+      "title": "3月30日の安値が今年の株式市場の底値だとヤーデニ氏",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505727",
+      "published": "2026-04-27 10:55:31",
+      "isoDate": "2026-04-27T10:55:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "4月のAIが選んだ10銘柄が30%超上昇、高確信度銘柄を含む",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505725",
+      "published": "2026-04-27 10:54:10",
+      "isoDate": "2026-04-27T10:54:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1505579",
       "published": "2026-04-27 09:55:07",
       "isoDate": "2026-04-27T09:55:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル：大幅続伸、25日線乖離率は節目の8％超え",
-      "link": "https://jp.investing.com/news/forex-news/article-1505551",
-      "published": "2026-04-27 09:30:10",
-      "isoDate": "2026-04-27T09:30:10Z"
     },
     {
       "source": "Investing.com 外為",
