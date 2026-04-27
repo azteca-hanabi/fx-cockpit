@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-27T06:30:26Z",
-  "last_checked": "2026-04-27T06:30:26Z",
+  "updated": "2026-04-27T07:00:32Z",
+  "last_checked": "2026-04-27T07:00:32Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は安定、イラン情勢と米連邦準備制度理事会への期待でドルが方向感欠く",
+      "link": "https://jp.investing.com/news/commodities-news/article-1505370",
+      "published": "2026-04-27 06:24:46",
+      "isoDate": "2026-04-27T06:24:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米イラン和平協議が停滞、ホルムズ海峡混乱続き原油価格2%超上昇",
@@ -50,22 +57,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1504067",
       "published": "2026-04-24 11:24:45",
       "isoDate": "2026-04-24T11:24:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が下落、米イラン情勢の不透明感でドル高進み週間で大幅安",
-      "link": "https://jp.investing.com/news/commodities-news/article-1503671",
-      "published": "2026-04-24 06:44:55",
-      "isoDate": "2026-04-24T06:44:55Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は下げ渋り、原油相場は底堅い",
-      "link": "https://jp.investing.com/news/forex-news/article-1505341",
-      "published": "2026-04-27 06:00:14",
-      "isoDate": "2026-04-27T06:00:14Z"
+      "title": "日経平均は853円高、内外主要企業の決算に関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1505339",
+      "published": "2026-04-27 06:00:13",
+      "isoDate": "2026-04-27T06:00:13Z"
     },
     {
       "source": "Investing.com 外為",
