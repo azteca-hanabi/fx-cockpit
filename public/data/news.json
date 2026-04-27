@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T01:30:23Z",
-  "last_checked": "2026-04-27T01:30:23Z",
+  "updated": "2026-04-27T02:00:37Z",
+  "last_checked": "2026-04-27T02:00:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,22 +62,22 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "個別銘柄戦略: ファナックやNRIに注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1505211",
-      "published": "2026-04-27 00:45:06",
-      "isoDate": "2026-04-27T00:45:06Z"
+      "title": "原油高騰とイラン和平交渉停滞でウォール街先物は横ばい",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505217",
+      "published": "2026-04-27 01:09:46",
+      "isoDate": "2026-04-27T01:09:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は164円高でスタート、キオクシアHDやファーストリテなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1505215",
+      "published": "2026-04-27 01:00:07",
+      "isoDate": "2026-04-27T01:00:07Z"
     },
     {
       "source": "Investing.com 外為",
       "title": "強弱材料 4/27",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505203",
-      "published": "2026-04-27 00:00:06",
-      "isoDate": "2026-04-27T00:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～半導体やAI関連株への資金集中は継続～",
-      "link": "https://jp.investing.com/news/forex-news/article-1505202",
       "published": "2026-04-27 00:00:06",
       "isoDate": "2026-04-27T00:00:06Z"
     },
