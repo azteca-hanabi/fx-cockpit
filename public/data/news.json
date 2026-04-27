@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T01:00:48Z",
-  "last_checked": "2026-04-27T01:00:48Z",
+  "updated": "2026-04-27T01:30:23Z",
+  "last_checked": "2026-04-27T01:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -57,16 +57,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1503671",
       "published": "2026-04-24 06:44:55",
       "isoDate": "2026-04-24T06:44:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイラン戦争の早期終結を急がない姿勢、原油価格は1%超上昇でブレント106ドル突破",
-      "link": "https://jp.investing.com/news/commodities-news/article-1503538",
-      "published": "2026-04-24 01:22:54",
-      "isoDate": "2026-04-24T01:22:54Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "個別銘柄戦略: ファナックやNRIに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1505211",
+      "published": "2026-04-27 00:45:06",
+      "isoDate": "2026-04-27T00:45:06Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "強弱材料 4/27",
@@ -94,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505192",
       "published": "2026-04-26 23:30:04",
       "isoDate": "2026-04-26T23:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：中東紛争長期化への懸念強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1505189",
-      "published": "2026-04-26 23:00:04",
-      "isoDate": "2026-04-26T23:00:04Z"
     },
     {
       "source": "Investing.com 外為",
