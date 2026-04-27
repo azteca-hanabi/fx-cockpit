@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-27T14:00:33Z",
-  "last_checked": "2026-04-27T14:00:33Z",
+  "updated": "2026-04-27T14:30:28Z",
+  "last_checked": "2026-04-27T14:30:28Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東紛争長期化なら原油価格は150ドル超える可能性とアナリストが警告",
+      "link": "https://jp.investing.com/news/commodities-news/article-1506302",
+      "published": "2026-04-27 13:51:18",
+      "isoDate": "2026-04-27T13:51:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米イラン協議再開の期待で欧州天然ガス価格が下落",
@@ -57,13 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1504771",
       "published": "2026-04-24 18:34:53",
       "isoDate": "2026-04-24T18:34:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とEUが重要鉱物に関する協定に署名、供給源の多様化を目指す",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1504608",
-      "published": "2026-04-24 15:14:17",
-      "isoDate": "2026-04-24T15:14:17Z"
     }
   ],
   "usdjpy_items": [
@@ -87,6 +87,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1506101",
       "published": "2026-04-27 13:02:08",
       "isoDate": "2026-04-27T13:02:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "POETテクノロジーズ、マーベル・テクノロジー・グループ傘下企業からの発注を失う",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1506098",
+      "published": "2026-04-27 12:59:07",
+      "isoDate": "2026-04-27T12:59:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1505986",
       "published": "2026-04-27 12:04:04",
       "isoDate": "2026-04-27T12:04:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500:5月に売って退散すべきか?バンク・オブ・アメリカが見解",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505848",
-      "published": "2026-04-27 11:30:57",
-      "isoDate": "2026-04-27T11:30:57Z"
     },
     {
       "source": "Investing.com 外為",
