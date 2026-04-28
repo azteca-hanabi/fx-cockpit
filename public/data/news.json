@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T22:30:26Z",
-  "last_checked": "2026-04-28T22:30:26Z",
+  "updated": "2026-04-28T23:00:34Z",
+  "last_checked": "2026-04-28T23:00:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "28日の米国市場ダイジェスト：米国株式市場は下落、原油高でインフレ懸念が再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1508904",
+      "published": "2026-04-28 22:15:04",
+      "isoDate": "2026-04-28T22:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：原油や金利が上昇、ドル反発",
       "link": "https://jp.investing.com/news/forex-news/article-1508863",
       "published": "2026-04-28 21:45:05",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1507775",
       "published": "2026-04-28 12:26:07",
       "isoDate": "2026-04-28T12:26:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "DAデビッドソンがマイクロンテクノロジーを買い推奨で開始、目標株価1000ドルはウォール街最高値",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507756",
-      "published": "2026-04-28 12:06:57",
-      "isoDate": "2026-04-28T12:06:57Z"
     },
     {
       "source": "Investing.com 外為",
