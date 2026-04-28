@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-28T00:30:25Z",
-  "last_checked": "2026-04-28T00:30:25Z",
+  "updated": "2026-04-28T01:00:48Z",
+  "last_checked": "2026-04-28T01:00:48Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は小幅上昇、イラン協議と中央銀行会合に注目集まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-1506969",
+      "published": "2026-04-28 00:38:57",
+      "isoDate": "2026-04-28T00:38:57Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国とイランがホルムズ海峡再開協議を検討、原油価格は上昇基調",
@@ -69,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ウォール街先物は最高値更新後に上昇、イランのホルムズ海峡提案に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1506961",
+      "published": "2026-04-28 00:18:21",
+      "isoDate": "2026-04-28T00:18:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比20円安の60220円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1506955",
+      "published": "2026-04-28 00:15:08",
+      "isoDate": "2026-04-28T00:15:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "強弱材料 4/28",
       "link": "https://jp.investing.com/news/stock-market-news/article-1506944",
       "published": "2026-04-28 00:00:08",
@@ -87,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1506933",
       "published": "2026-04-27 23:30:07",
       "isoDate": "2026-04-27T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、イランのホルムズ海峡再開提案に懐疑的―WSJ",
-      "link": "https://jp.investing.com/news/economy-news/article-1506939",
-      "published": "2026-04-27 23:26:31",
-      "isoDate": "2026-04-27T23:26:31Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +136,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1506731",
       "published": "2026-04-27 20:14:08",
       "isoDate": "2026-04-27T20:14:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループからの受注喪失でPOET Technologies株が急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1506101",
-      "published": "2026-04-27 13:02:08",
-      "isoDate": "2026-04-27T13:02:08Z"
     },
     {
       "source": "Investing.com 外為",
