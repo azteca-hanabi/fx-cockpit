@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T22:00:41Z",
-  "last_checked": "2026-04-28T22:00:41Z",
+  "updated": "2026-04-28T22:30:26Z",
+  "last_checked": "2026-04-28T22:30:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：原油や金利が上昇、ドル反発",
+      "link": "https://jp.investing.com/news/forex-news/article-1508863",
+      "published": "2026-04-28 21:45:05",
+      "isoDate": "2026-04-28T21:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは25.86ドル安、原油高でインフレ懸念が再燃",
       "link": "https://jp.investing.com/news/forex-news/article-1508840",
       "published": "2026-04-28 21:30:05",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1508735",
       "published": "2026-04-28 20:31:02",
       "isoDate": "2026-04-28T20:31:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Seagateが好調な決算と堅調な見通しで急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1508707",
-      "published": "2026-04-28 20:20:42",
-      "isoDate": "2026-04-28T20:20:42Z"
     },
     {
       "source": "Investing.com 外為",
