@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T23:30:24Z",
-  "last_checked": "2026-04-27T23:30:24Z",
+  "updated": "2026-04-28T00:00:35Z",
+  "last_checked": "2026-04-28T00:00:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,41 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "大台乗せの達成感などから利食い売りが先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1506933",
+      "published": "2026-04-27 23:30:07",
+      "isoDate": "2026-04-27T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、原油高を嫌気も主要企業決算への期待が下支え",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1506923",
+      "published": "2026-04-27 23:15:07",
+      "isoDate": "2026-04-27T23:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：日銀金利据え置きでドル高持続の可能性",
+      "link": "https://jp.investing.com/news/forex-news/article-1506916",
+      "published": "2026-04-27 23:00:07",
+      "isoDate": "2026-04-27T23:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "27日の米国市場ダイジェスト：米国株式市場はまちまち、原油高を嫌気も主要企業決算への期待が下支え",
+      "link": "https://jp.investing.com/news/forex-news/article-1506903",
+      "published": "2026-04-27 22:30:06",
+      "isoDate": "2026-04-27T22:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは62.92ドル安、原油高を嫌気も主要企業決算への期待が下支え",
+      "link": "https://jp.investing.com/news/forex-news/article-1506897",
+      "published": "2026-04-27 22:15:05",
+      "isoDate": "2026-04-27T22:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "エヌビディア、元インテル幹部を最高会計責任者に任命",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1506731",
       "published": "2026-04-27 20:14:08",
@@ -80,20 +115,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1506709",
       "published": "2026-04-27 20:06:08",
       "isoDate": "2026-04-27T20:06:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロソフトとOpenAIが提携を再構築：独占契約終了で双方が柔軟性を追求",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1506160",
-      "published": "2026-04-27 13:09:48",
-      "isoDate": "2026-04-27T13:09:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NAND価格急騰でサンディスク株に上昇期待、アナリストが強気姿勢",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-1506130",
-      "published": "2026-04-27 13:05:51",
-      "isoDate": "2026-04-27T13:05:51Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,31 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "IONQがフロリダ州全域の量子セーフネットワーク構築でFlorida LambdaRailと提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1505952",
-      "published": "2026-04-27 12:04:08",
-      "isoDate": "2026-04-27T12:04:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ダウ、ナスダック、S&P500展望:メガキャップ決算が最高値更新の株式市場を試す",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1505986",
-      "published": "2026-04-27 12:04:04",
-      "isoDate": "2026-04-27T12:04:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "4月のAI選定銘柄から10銘柄が30%超上昇、高確信度銘柄も好調",
       "link": "https://jp.investing.com/news/stock-market-news/article-1505885",
       "published": "2026-04-27 10:54:10",
       "isoDate": "2026-04-27T10:54:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラがマスク氏の業績報酬として3億390万株を登録",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1505616",
-      "published": "2026-04-27 10:07:07",
-      "isoDate": "2026-04-27T10:07:07Z"
     }
   ],
   "btc_items": [
