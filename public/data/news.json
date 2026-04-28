@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T12:30:28Z",
-  "last_checked": "2026-04-28T12:30:28Z",
+  "updated": "2026-04-28T13:00:38Z",
+  "last_checked": "2026-04-28T13:00:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "UAEがOPECおよびOPECプラスから脱退",
+      "link": "https://jp.investing.com/news/economy-news/article-1507778",
+      "published": "2026-04-28 12:29:23",
+      "isoDate": "2026-04-28T12:29:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "UAEが5月1日からOPECおよびOPEC+を脱退",
+      "link": "https://jp.investing.com/news/economy-news/article-1507774",
+      "published": "2026-04-28 12:28:13",
+      "isoDate": "2026-04-28T12:28:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "TSX先物は米・イラン�膠着状態とOpenAI懸念で軟調",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1507775",
+      "published": "2026-04-28 12:26:07",
+      "isoDate": "2026-04-28T12:26:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "DAデビッドソンがマイクロンテクノロジーを買い推奨で開始、目標株価1000ドルはウォール街最高値",
       "link": "https://jp.investing.com/news/stock-market-news/article-1507756",
       "published": "2026-04-28 12:06:57",
@@ -87,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1507675",
       "published": "2026-04-28 11:53:02",
       "isoDate": "2026-04-28T11:53:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ホルムズ海峡封鎖と原油高騰下で株価が最高値を記録する理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507638",
-      "published": "2026-04-28 11:37:17",
-      "isoDate": "2026-04-28T11:37:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゼネラル・モーターズとコカ・コーラが時間外取引で上昇、Oracleとコアウィーブは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507599",
-      "published": "2026-04-28 11:23:24",
-      "isoDate": "2026-04-28T11:23:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1507439",
       "published": "2026-04-28 10:17:19",
       "isoDate": "2026-04-28T10:17:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OpenAI懸念の高まりでAI設備投資関連株のOracleとソフトバンクが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507285",
-      "published": "2026-04-28 08:25:02",
-      "isoDate": "2026-04-28T08:25:02Z"
     },
     {
       "source": "Investing.com 外為",
