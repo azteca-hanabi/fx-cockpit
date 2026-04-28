@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T01:00:48Z",
-  "last_checked": "2026-04-28T01:00:48Z",
+  "updated": "2026-04-28T01:30:26Z",
+  "last_checked": "2026-04-28T01:30:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米企業3社が相次いで仮想通貨を追加購入、ストラテジー社は先週3273BTCを取得",
+      "link": "https://coinpost.jp/?p=705446",
+      "published": "Tue, 28 Apr 2026 10:26:52 +0900",
+      "isoDate": "2026-04-28T01:26:52Z"
+    },
     {
       "source": "CoinPost",
       "title": "仮想通貨ETFなど、先週は約1910億円が純流入　投資家の関心は米FOMCへ＝コインシェアーズ",
