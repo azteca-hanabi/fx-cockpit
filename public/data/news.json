@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T11:00:37Z",
-  "last_checked": "2026-04-28T11:00:37Z",
+  "updated": "2026-04-28T11:30:25Z",
+  "last_checked": "2026-04-28T11:30:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "GoldMining、コロンビアのラ・ミナ・プロジェクトで10億ドルの評価額を報告",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1507460",
+      "published": "2026-04-28 10:33:07",
+      "isoDate": "2026-04-28T10:33:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン、評価額とイーライリリーとの競合リスクを理由にBioArcticを格下げ、株価下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1507407",
       "published": "2026-04-28 10:05:49",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1507254",
       "published": "2026-04-28 08:12:07",
       "isoDate": "2026-04-28T08:12:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は値を戻す展開、日銀総裁会見受け",
-      "link": "https://jp.investing.com/news/forex-news/article-1507202",
-      "published": "2026-04-28 07:30:15",
-      "isoDate": "2026-04-28T07:30:15Z"
     },
     {
       "source": "Investing.com 外為",
