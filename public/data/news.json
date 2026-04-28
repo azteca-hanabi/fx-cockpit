@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-28T11:30:25Z",
-  "last_checked": "2026-04-28T11:30:25Z",
+  "updated": "2026-04-28T12:00:34Z",
+  "last_checked": "2026-04-28T12:00:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UBSがパラジウムとプラチナの価格予測を引き下げ、市場の逼迫緩和と経済リスクを理由に",
+      "link": "https://jp.investing.com/news/commodities-news/article-1507630",
+      "published": "2026-04-28 11:31:30",
+      "isoDate": "2026-04-28T11:31:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格は小幅上昇、イラン協議と中央銀行会合に注目集まる",
@@ -64,16 +71,30 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1505540",
       "published": "2026-04-27 09:25:02",
       "isoDate": "2026-04-27T09:25:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米イラン協議難航で原油見通し引き上げ、短期的な原油エクスポージャーを推奨",
-      "link": "https://jp.investing.com/news/commodities-news/article-1505465",
-      "published": "2026-04-27 08:04:01",
-      "isoDate": "2026-04-27T08:04:01Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円はやや値を戻す、原油高にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1507577",
+      "published": "2026-04-28 11:15:10",
+      "isoDate": "2026-04-28T11:15:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "コーニング、予想上回るも第2四半期見通しで株価下落",
+      "link": "https://jp.investing.com/news/earnings/article-1507565",
+      "published": "2026-04-28 11:10:15",
+      "isoDate": "2026-04-28T11:10:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Cleveland-Cliffs、Palantirと3年間のAI導入で提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1507530",
+      "published": "2026-04-28 11:01:48",
+      "isoDate": "2026-04-28T11:01:48Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "GoldMining、コロンビアのラ・ミナ・プロジェクトで10億ドルの評価額を報告",
@@ -83,35 +104,14 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ゴールドマン、評価額とイーライリリーとの競合リスクを理由にBioArcticを格下げ、株価下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507407",
-      "published": "2026-04-28 10:05:49",
-      "isoDate": "2026-04-28T10:05:49Z"
+      "title": "4月は40%超が3銘柄、30%超が10銘柄：5月のAI選定リストが間もなく公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1507439",
+      "published": "2026-04-28 10:17:19",
+      "isoDate": "2026-04-28T10:17:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "バリック、2026年末までに北米金資産のIPOを推進",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1507396",
-      "published": "2026-04-28 10:02:15",
-      "isoDate": "2026-04-28T10:02:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は伸び悩み、160円台を意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1507372",
-      "published": "2026-04-28 09:45:13",
-      "isoDate": "2026-04-28T09:45:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株の強気相場は終わりにはほど遠いのか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507367",
-      "published": "2026-04-28 09:25:32",
-      "isoDate": "2026-04-28T09:25:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OpenAI懸念の高まりでAI設備投資関連株が下落",
+      "title": "OpenAI懸念の高まりでAI設備投資関連株のOracleとソフトバンクが下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1507285",
       "published": "2026-04-28 08:25:02",
       "isoDate": "2026-04-28T08:25:02Z"
