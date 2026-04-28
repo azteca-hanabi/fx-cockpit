@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T03:00:30Z",
-  "last_checked": "2026-04-28T03:00:30Z",
+  "updated": "2026-04-28T03:30:23Z",
+  "last_checked": "2026-04-28T03:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AI・半導体関連株中心に利食い売り優勢",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1507032",
+      "published": "2026-04-28 03:15:15",
+      "isoDate": "2026-04-28T03:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "OpenAI、社内の収益とユーザー目標を未達成=WSJ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1507020",
       "published": "2026-04-28 02:31:04",
       "isoDate": "2026-04-28T02:31:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金価格は小幅上昇、イラン協議と中央銀行会合に注目集まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1506969",
-      "published": "2026-04-28 00:38:57",
-      "isoDate": "2026-04-28T00:38:57Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "送金大手ウエスタンユニオン、ステーブルコインUSDPTを5月にローンチへ　カード発行も計画",
+      "link": "https://coinpost.jp/?p=705433",
+      "published": "Tue, 28 Apr 2026 12:28:45 +0900",
+      "isoDate": "2026-04-28T03:28:45Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン準備金で「重大発表」予告、トランプ政権の仮想通貨顧問",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=704761",
       "published": "Sun, 26 Apr 2026 09:25:31 +0900",
       "isoDate": "2026-04-26T00:25:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ポーランド最大級仮想通貨取引所Zondacrypto、CEOがイスラエルへ出国　巨額顧客資産の紛失疑惑",
-      "link": "https://coinpost.jp/?p=705156",
-      "published": "Sat, 25 Apr 2026 13:55:28 +0900",
-      "isoDate": "2026-04-25T04:55:28Z"
     },
     {
       "source": "Investing.com 暗号資産",
