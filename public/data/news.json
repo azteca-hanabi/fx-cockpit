@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T02:00:30Z",
-  "last_checked": "2026-04-28T02:00:30Z",
+  "updated": "2026-04-28T02:30:24Z",
+  "last_checked": "2026-04-28T02:30:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "金価格は小幅上昇、イラン協議と中央銀行会合に注目集まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1506969",
-      "published": "2026-04-28 00:38:57",
-      "isoDate": "2026-04-28T00:38:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ウォール街先物は最高値更新後に上昇、イランのホルムズ海峡提案に注目",
       "link": "https://jp.investing.com/news/stock-market-news/article-1506961",
       "published": "2026-04-28 00:18:21",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1506101",
       "published": "2026-04-27 13:02:08",
       "isoDate": "2026-04-27T13:02:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ノースランド・キャピタルが11年ぶりにアドバンスト・マイクロ・デバイセズを格下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1506061",
+      "published": "2026-04-27 12:37:35",
+      "isoDate": "2026-04-27T12:37:35Z"
     },
     {
       "source": "Investing.com 外為",
