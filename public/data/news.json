@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-28T18:00:38Z",
-  "last_checked": "2026-04-28T18:00:38Z",
+  "updated": "2026-04-28T18:30:29Z",
+  "last_checked": "2026-04-28T18:30:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国のガソリン価格、イラン紛争と製油所問題で約4年ぶりの高値に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1508548",
+      "published": "2026-04-28 18:14:11",
+      "isoDate": "2026-04-28T18:14:11Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "世界銀行、2026年のエネルギー価格が24%急騰と予測",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1506626",
       "published": "2026-04-27 18:18:14",
       "isoDate": "2026-04-27T18:18:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東紛争長期化なら原油価格は150ドル超える可能性とアナリストが警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-1506302",
-      "published": "2026-04-27 13:51:18",
-      "isoDate": "2026-04-27T13:51:18Z"
     }
   ],
   "usdjpy_items": [
