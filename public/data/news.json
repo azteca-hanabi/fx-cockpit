@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T08:30:30Z",
-  "last_checked": "2026-04-28T08:30:30Z",
+  "updated": "2026-04-28T09:00:34Z",
+  "last_checked": "2026-04-28T09:00:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,41 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は切り返し、日銀総裁会見後は円売り",
+      "link": "https://jp.investing.com/news/forex-news/article-1507280",
+      "published": "2026-04-28 08:30:15",
+      "isoDate": "2026-04-28T08:30:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "OpenAI懸念の高まりでAI設備投資関連株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1507285",
+      "published": "2026-04-28 08:25:02",
+      "isoDate": "2026-04-28T08:25:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日ぶり反落、ソフトバンクGやアドバンテストが2銘柄で約885円押下",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1507256",
+      "published": "2026-04-28 08:15:17",
+      "isoDate": "2026-04-28T08:15:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "直近の上昇の反動や日銀の利上げ観測を背景に利食い売りが優勢に【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1507257",
+      "published": "2026-04-28 08:15:17",
+      "isoDate": "2026-04-28T08:15:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ氏がイラン提案を検討、決算発表ラッシュに注目―市場の動き",
+      "link": "https://jp.investing.com/news/economy-news/article-1507254",
+      "published": "2026-04-28 08:12:07",
+      "isoDate": "2026-04-28T08:12:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は値を戻す展開、日銀総裁会見受け",
       "link": "https://jp.investing.com/news/forex-news/article-1507202",
       "published": "2026-04-28 07:30:15",
@@ -90,27 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は底堅い、原油相場の上昇で",
-      "link": "https://jp.investing.com/news/forex-news/article-1507127",
-      "published": "2026-04-28 06:30:17",
-      "isoDate": "2026-04-28T06:30:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、ハイテクは調整中心",
-      "link": "https://jp.investing.com/news/forex-news/article-1507114",
-      "published": "2026-04-28 06:15:15",
-      "isoDate": "2026-04-28T06:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "グーグル、国防総省と機密AI契約を締結と報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507090",
-      "published": "2026-04-28 05:54:02",
-      "isoDate": "2026-04-28T05:54:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は反落、日銀政策決定受け下落",
       "link": "https://jp.investing.com/news/forex-news/article-1507035",
       "published": "2026-04-28 03:30:14",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日銀が金利据え置き、インフレリスクで追加利上げを示唆",
-      "link": "https://jp.investing.com/news/economy-news/article-1507034",
-      "published": "2026-04-28 03:26:20",
-      "isoDate": "2026-04-28T03:26:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "OpenAI、社内の収益とユーザー目標を未達成=WSJ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1507020",
       "published": "2026-04-28 02:31:04",
       "isoDate": "2026-04-28T02:31:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループからの受注喪失でPOET Technologies株が急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1506101",
-      "published": "2026-04-27 13:02:08",
-      "isoDate": "2026-04-27T13:02:08Z"
     },
     {
       "source": "Investing.com 外為",
