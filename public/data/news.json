@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T05:30:29Z",
-  "last_checked": "2026-04-28T05:30:29Z",
+  "updated": "2026-04-28T06:00:31Z",
+  "last_checked": "2026-04-28T06:00:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は安値圏、円買い再開に警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1507063",
+      "published": "2026-04-28 05:15:16",
+      "isoDate": "2026-04-28T05:15:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日立---大幅反落、ガイダンスはコンセンサスを小幅に下振れ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1507060",
       "published": "2026-04-28 05:15:15",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1507046",
       "published": "2026-04-28 04:30:17",
       "isoDate": "2026-04-28T04:30:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場の日経平均は416円安でスタート、ルネサスや住友ファーマなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507043",
-      "published": "2026-04-28 04:15:16",
-      "isoDate": "2026-04-28T04:15:16Z"
     },
     {
       "source": "Investing.com 外為",
