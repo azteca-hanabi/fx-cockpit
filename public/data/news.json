@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-28T19:30:27Z",
-  "last_checked": "2026-04-28T19:30:27Z",
+  "updated": "2026-04-28T20:00:41Z",
+  "last_checked": "2026-04-28T20:00:41Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イタリア、5月1日以降も燃料物品税の減税を延長する可能性",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1508619",
+      "published": "2026-04-28 19:35:18",
+      "isoDate": "2026-04-28T19:35:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国のガソリン価格、イラン紛争と製油所問題で約4年ぶりの高値に",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1506635",
       "published": "2026-04-27 18:47:51",
       "isoDate": "2026-04-27T18:47:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アナリスト、金価格は2026年末に1オンス4,500ドル以下と予想",
-      "link": "https://jp.investing.com/news/commodities-news/article-1506626",
-      "published": "2026-04-27 18:18:14",
-      "isoDate": "2026-04-27T18:18:14Z"
     }
   ],
   "usdjpy_items": [
