@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T21:00:36Z",
-  "last_checked": "2026-04-28T21:00:36Z",
+  "updated": "2026-04-28T21:30:27Z",
+  "last_checked": "2026-04-28T21:30:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Seagateが好調な決算と堅調な見通しで急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1508707",
-      "published": "2026-04-28 20:20:42",
-      "isoDate": "2026-04-28T20:20:42Z"
+      "title": "4月28日のNY為替概況（訂正）",
+      "link": "https://jp.investing.com/news/forex-news/article-1508770",
+      "published": "2026-04-28 20:45:04",
+      "isoDate": "2026-04-28T20:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の値動き：BKNG、HOOD、SBUX、STX、WDC、MU、SNDK、V、NXPI、FFIV、BE",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1508735",
+      "published": "2026-04-28 20:31:02",
+      "isoDate": "2026-04-28T20:31:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1507914",
       "published": "2026-04-28 13:06:19",
       "isoDate": "2026-04-28T13:06:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル高値から反落、UAEがOPEC脱退＆段階的な増産へ、原油伸び悩む",
-      "link": "https://jp.investing.com/news/forex-news/article-1507866",
-      "published": "2026-04-28 13:00:08",
-      "isoDate": "2026-04-28T13:00:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -208,69 +208,6 @@
       "link": "https://coinpost.jp/?p=705245",
       "published": "Mon, 27 Apr 2026 11:58:19 +0900",
       "isoDate": "2026-04-27T02:58:19Z"
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "Robinhoodが暗号資産ウォレットを展開：暗号資産と株式に対する代替先となるか",
-      "link": "https://jp.investing.com/analysis/article-200203808",
-      "published": "Apr 18, 2022 10:59 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産は米ドルの役割の変化から恩恵を受ける可能性",
-      "link": "https://jp.investing.com/analysis/article-200203734",
-      "published": "Apr 05, 2022 01:07 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産のパイオニア、コインシェアーズの成長で買収候補",
-      "link": "https://jp.investing.com/analysis/article-200203658",
-      "published": "Mar 22, 2022 10:38 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産が「まだ」急上昇しない3つの理由",
-      "link": "https://jp.investing.com/analysis/article-200203570",
-      "published": "Mar 07, 2022 13:44 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "バイナンスの成長とともに、取引所は暗号資産以外にもその力を発揮",
-      "link": "https://jp.investing.com/analysis/article-200203509",
-      "published": "Feb 24, 2022 13:23 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "ウクライナにおける地政学的リスクが暗号資産に与える影響",
-      "link": "https://jp.investing.com/analysis/article-200203489",
-      "published": "Feb 21, 2022 14:14 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産の強気なセンチメントが戻る中、注目すべき4つの主要な投資リスク",
-      "link": "https://jp.investing.com/analysis/article-200203474",
-      "published": "Feb 17, 2022 14:30 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産の下落は一服。ビットコイン、イーサリアムの新高値をつけるか",
-      "link": "https://jp.investing.com/analysis/article-200203448",
-      "published": "Feb 14, 2022 12:59 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "Dogecoin：おふざけから始まった暗号資産は、今や冗談の粋を超える時価総額200億ドル",
-      "link": "https://jp.investing.com/analysis/article-200203417",
-      "published": "Feb 09, 2022 13:23 GMT",
-      "isoDate": ""
     }
   ]
 }
