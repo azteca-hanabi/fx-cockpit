@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T10:00:33Z",
-  "last_checked": "2026-04-28T10:00:33Z",
+  "updated": "2026-04-28T10:30:27Z",
+  "last_checked": "2026-04-28T10:30:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ゴールドマン、評価額とイーライリリーとの競合リスクを理由にBioArcticを格下げ、株価下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1507407",
+      "published": "2026-04-28 10:05:49",
+      "isoDate": "2026-04-28T10:05:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "欧州為替：ドル・円は伸び悩み、160円台を意識",
       "link": "https://jp.investing.com/news/forex-news/article-1507372",
       "published": "2026-04-28 09:45:13",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1507367",
       "published": "2026-04-28 09:25:32",
       "isoDate": "2026-04-28T09:25:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は切り返し、日銀総裁会見後は円売り",
-      "link": "https://jp.investing.com/news/forex-news/article-1507280",
-      "published": "2026-04-28 08:30:15",
-      "isoDate": "2026-04-28T08:30:15Z"
     },
     {
       "source": "Investing.com 外為",
