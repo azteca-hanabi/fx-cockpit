@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T23:30:26Z",
-  "last_checked": "2026-04-28T23:30:26Z",
+  "updated": "2026-04-29T00:00:43Z",
+  "last_checked": "2026-04-29T00:00:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場は下落、原油高でインフレ懸念が再燃",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1508944",
+      "published": "2026-04-28 23:15:07",
+      "isoDate": "2026-04-28T23:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "28日の米国市場ダイジェスト：米国株式市場は下落、原油高でインフレ懸念が再燃",
       "link": "https://jp.investing.com/news/forex-news/article-1508904",
       "published": "2026-04-28 22:15:04",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1507774",
       "published": "2026-04-28 12:28:13",
       "isoDate": "2026-04-28T12:28:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国・イラン膠着状態とOpenAI懸念で、TSXが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1507775",
-      "published": "2026-04-28 12:26:07",
-      "isoDate": "2026-04-28T12:26:07Z"
     },
     {
       "source": "Investing.com 外為",
