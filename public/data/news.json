@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-29T13:00:33Z",
-  "last_checked": "2026-04-29T13:00:33Z",
+  "updated": "2026-04-29T13:30:38Z",
+  "last_checked": "2026-04-29T13:30:38Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イラン和平協議の停滞で欧州天然ガス価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1509936",
+      "published": "2026-04-29 13:02:35",
+      "isoDate": "2026-04-29T13:02:35Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金は1カ月ぶり安値付近で横ばい、イラン情勢の不透明感続く中でFRBに注目",
@@ -57,29 +64,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1507630",
       "published": "2026-04-28 11:31:30",
       "isoDate": "2026-04-28T11:31:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格は小幅上昇、イラン協議と中央銀行会合に注目集まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1506969",
-      "published": "2026-04-28 00:38:57",
-      "isoDate": "2026-04-28T00:38:57Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ゴリラ・テクノロジー、インドのAIインフラ契約を28億ドルに拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1509931",
+      "published": "2026-04-29 13:03:08",
+      "isoDate": "2026-04-29T13:03:08Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "TSX先物は中銀決定とテック決算ラッシュを控え小動き",
       "link": "https://jp.investing.com/news/stock-market-news/article-1509838",
       "published": "2026-04-29 12:30:09",
       "isoDate": "2026-04-29T12:30:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アッヴィ株、好決算と通期見通し引き上げで上昇",
-      "link": "https://jp.investing.com/news/earnings/article-1509734",
-      "published": "2026-04-29 12:04:09",
-      "isoDate": "2026-04-29T12:04:09Z"
     },
     {
       "source": "Investing.com 外為",
