@@ -1,7 +1,28 @@
 {
-  "updated": "2026-04-29T19:30:30Z",
-  "last_checked": "2026-04-29T19:30:30Z",
+  "updated": "2026-04-29T20:00:40Z",
+  "last_checked": "2026-04-29T20:00:40Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆先物が原油高と搾油マージン改善で上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1510779",
+      "published": "2026-04-29 19:53:01",
+      "isoDate": "2026-04-29T19:53:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物が1年ぶり高値、輸出需要と天候懸念で",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1510777",
+      "published": "2026-04-29 19:52:35",
+      "isoDate": "2026-04-29T19:52:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油急騰を受けてキャノーラ先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1510754",
+      "published": "2026-04-29 19:37:03",
+      "isoDate": "2026-04-29T19:37:03Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国原油・燃料在庫が大幅減少",
@@ -43,30 +64,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1508970",
       "published": "2026-04-29 00:34:05",
       "isoDate": "2026-04-29T00:34:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イタリア、5月1日以降も燃料物品税の減税を延長する可能性",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1508619",
-      "published": "2026-04-28 19:35:18",
-      "isoDate": "2026-04-28T19:35:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国のガソリン価格、イラン紛争と製油所問題で約4年ぶりの高値に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1508548",
-      "published": "2026-04-28 18:14:11",
-      "isoDate": "2026-04-28T18:14:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "世界銀行、2026年のエネルギー価格が24%急騰と予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1508075",
-      "published": "2026-04-28 13:40:22",
-      "isoDate": "2026-04-28T13:40:22Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "4月29日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1510742",
+      "published": "2026-04-29 19:30:03",
+      "isoDate": "2026-04-29T19:30:03Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "[通貨オプション]OP買い強まる、リスク警戒感が高まる",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1509838",
       "published": "2026-04-29 12:30:09",
       "isoDate": "2026-04-29T12:30:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゼネラル・ダイナミクス、ADPが上昇、SoFi Technologiesは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1509691",
-      "published": "2026-04-29 11:53:55",
-      "isoDate": "2026-04-29T11:53:55Z"
     },
     {
       "source": "Investing.com 外為",
