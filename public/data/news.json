@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-29T00:30:26Z",
-  "last_checked": "2026-04-29T00:30:26Z",
+  "updated": "2026-04-29T01:00:41Z",
+  "last_checked": "2026-04-29T01:00:41Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格は3週間ぶり高値から下落、UAEがOPEC離脱、ホルムズ海峡の混乱続く",
+      "link": "https://jp.investing.com/news/commodities-news/article-1508970",
+      "published": "2026-04-29 00:34:05",
+      "isoDate": "2026-04-29T00:34:05Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イタリア、5月1日以降も燃料物品税の減税を延長する可能性",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1506641",
       "published": "2026-04-27 18:57:10",
       "isoDate": "2026-04-27T18:57:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油急騰でCBOTコーン先物が10カ月ぶり高値を記録",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1506635",
-      "published": "2026-04-27 18:47:51",
-      "isoDate": "2026-04-27T18:47:51Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "「マグニフィセント・セブン」決算とFRB決定を控え、ウォール街先物が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1508968",
+      "published": "2026-04-29 00:30:35",
+      "isoDate": "2026-04-29T00:30:35Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比880円安の59140円",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1508840",
       "published": "2026-04-28 21:30:05",
       "isoDate": "2026-04-28T21:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "4月28日のNY為替概況（訂正）",
-      "link": "https://jp.investing.com/news/forex-news/article-1508770",
-      "published": "2026-04-28 20:45:04",
-      "isoDate": "2026-04-28T20:45:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETFから420億円流出、FOMC前に9日連続の資金流入が途絶える",
+      "link": "https://coinpost.jp/?p=705715",
+      "published": "Wed, 29 Apr 2026 09:40:16 +0900",
+      "isoDate": "2026-04-29T00:40:16Z"
+    },
     {
       "source": "CoinPost",
       "title": "EU、ロシア関連仮想通貨取引の全面禁止　デジタルルーブルも制裁対象に",
