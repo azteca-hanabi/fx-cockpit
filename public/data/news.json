@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T01:00:41Z",
-  "last_checked": "2026-04-29T01:00:41Z",
+  "updated": "2026-04-29T01:30:31Z",
+  "last_checked": "2026-04-29T01:30:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：米ドル・円は引き続き159円台半ばで推移",
+      "link": "https://jp.investing.com/news/forex-news/article-1508976",
+      "published": "2026-04-29 01:00:07",
+      "isoDate": "2026-04-29T01:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "「マグニフィセント・セブン」決算とFRB決定を控え、ウォール街先物が上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1508968",
       "published": "2026-04-29 00:30:35",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1508958",
       "published": "2026-04-29 00:00:07",
       "isoDate": "2026-04-29T00:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は下落、原油高でインフレ懸念が再燃",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1508944",
-      "published": "2026-04-28 23:15:07",
-      "isoDate": "2026-04-28T23:15:07Z"
     },
     {
       "source": "Investing.com 外為",
