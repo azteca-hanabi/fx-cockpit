@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T09:00:44Z",
-  "last_checked": "2026-04-29T09:00:44Z",
+  "updated": "2026-04-29T09:30:32Z",
+  "last_checked": "2026-04-29T09:30:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,13 +97,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円はじり高、160円を意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1509096",
-      "published": "2026-04-29 06:45:04",
-      "isoDate": "2026-04-29T06:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "台湾セミコンダクター・マニュファクチャリング、2億3100万ドルの株式売却でArm持分を全て処分",
       "link": "https://jp.investing.com/news/stock-market-news/article-1509054",
       "published": "2026-04-29 05:59:48",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1507774",
       "published": "2026-04-28 12:28:13",
       "isoDate": "2026-04-28T12:28:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "コーニング、予想上回るも第2四半期見通しで株価下落",
+      "link": "https://jp.investing.com/news/earnings/article-1507565",
+      "published": "2026-04-28 11:10:15",
+      "isoDate": "2026-04-28T11:10:15Z"
     },
     {
       "source": "Investing.com 外為",
