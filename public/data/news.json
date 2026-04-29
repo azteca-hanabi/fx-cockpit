@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T03:30:25Z",
-  "last_checked": "2026-04-29T03:30:25Z",
+  "updated": "2026-04-29T04:00:31Z",
+  "last_checked": "2026-04-29T04:00:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "BYD株、予想より良好な第1四半期決算と輸出の楽観視で上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1509012",
+      "published": "2026-04-29 03:03:32",
+      "isoDate": "2026-04-29T03:03:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "トランプ大統領、イラン長期封鎖に向け準備とWSJ報道",
       "link": "https://jp.investing.com/news/economy-news/article-1508987",
       "published": "2026-04-29 01:39:47",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1508904",
       "published": "2026-04-28 22:15:04",
       "isoDate": "2026-04-28T22:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "時間外取引の値動き：BKNG、HOOD、SBUX、STX、WDC、MU、SNDK、V、NXPI、FFIV、BE",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1508735",
-      "published": "2026-04-28 20:31:02",
-      "isoDate": "2026-04-28T20:31:02Z"
     },
     {
       "source": "Investing.com 外為",
