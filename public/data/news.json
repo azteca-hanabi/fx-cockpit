@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T17:00:42Z",
-  "last_checked": "2026-04-29T17:00:42Z",
+  "updated": "2026-04-29T17:30:30Z",
+  "last_checked": "2026-04-29T17:30:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アップル、iOS 27でiPhoneカメラアプリにSiri AIモードを追加へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1510527",
+      "published": "2026-04-29 16:35:25",
+      "isoDate": "2026-04-29T16:35:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SoFi、2026年第1四半期に41%の収益成長も懸念で株価下落",
       "link": "https://jp.investing.com/news/company-news/article-93CH-1510133",
       "published": "2026-04-29 14:03:10",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1509675",
       "published": "2026-04-29 11:41:38",
       "isoDate": "2026-04-29T11:41:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SoFi株、ガイダンスへの懸念で売上高予想超えにもかかわらず8%急落",
-      "link": "https://jp.investing.com/news/earnings/article-93CH-1509649",
-      "published": "2026-04-29 11:37:05",
-      "isoDate": "2026-04-29T11:37:05Z"
     },
     {
       "source": "Investing.com 外為",
