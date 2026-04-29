@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T13:30:38Z",
-  "last_checked": "2026-04-29T13:30:38Z",
+  "updated": "2026-04-29T14:00:37Z",
+  "last_checked": "2026-04-29T14:00:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SoFi Technologies、2026年第1四半期は増収も株価下落",
+      "link": "https://jp.investing.com/news/transcripts/article-93CH-1509977",
+      "published": "2026-04-29 13:18:16",
+      "isoDate": "2026-04-29T13:18:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴリラ・テクノロジー、インドのAIインフラ契約を28億ドルに拡大",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1509931",
       "published": "2026-04-29 13:03:08",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/earnings/article-93CH-1509649",
       "published": "2026-04-29 11:37:05",
       "isoDate": "2026-04-29T11:37:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：米ドル・円は159円84銭まで値上り",
-      "link": "https://jp.investing.com/news/forex-news/article-1509385",
-      "published": "2026-04-29 10:00:03",
-      "isoDate": "2026-04-29T10:00:03Z"
     },
     {
       "source": "Investing.com 外為",
