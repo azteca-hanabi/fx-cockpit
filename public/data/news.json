@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-29T07:00:30Z",
-  "last_checked": "2026-04-29T07:00:30Z",
+  "updated": "2026-04-29T07:30:25Z",
+  "last_checked": "2026-04-29T07:30:25Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金は1カ月ぶり安値付近で横ばい、イラン情勢の不透明感続く中でFRBに注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1509102",
+      "published": "2026-04-29 06:46:54",
+      "isoDate": "2026-04-29T06:46:54Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "2026年第1四半期の世界金需要が過去最高を記録 - ワールド・ゴールド・カウンシル",
@@ -64,22 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1506951",
       "published": "2026-04-28 00:04:37",
       "isoDate": "2026-04-28T00:04:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国小麦先物、原油高とドル安で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1506682",
-      "published": "2026-04-27 19:52:43",
-      "isoDate": "2026-04-27T19:52:43Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "2026年第1四半期の世界金需要が過去最高を記録 - ワールド・ゴールド・カウンシル",
-      "link": "https://jp.investing.com/news/commodities-news/article-1509059",
-      "published": "2026-04-29 06:05:15",
-      "isoDate": "2026-04-29T06:05:15Z"
+      "title": "東京為替：ドル・円はじり高、160円を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1509096",
+      "published": "2026-04-29 06:45:04",
+      "isoDate": "2026-04-29T06:45:04Z"
     },
     {
       "source": "Investing.com 外為",
