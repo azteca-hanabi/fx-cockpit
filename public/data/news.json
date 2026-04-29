@@ -1,7 +1,14 @@
 {
-  "updated": "2026-04-29T15:00:45Z",
-  "last_checked": "2026-04-29T15:00:45Z",
+  "updated": "2026-04-29T15:30:37Z",
+  "last_checked": "2026-04-29T15:30:37Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国原油・燃料在庫が大幅減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1510307",
+      "published": "2026-04-29 14:58:55",
+      "isoDate": "2026-04-29T14:58:55Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "地政学的混乱が銅を国家安全保障問題にしていると米国退役軍人が指摘",
@@ -57,13 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1508075",
       "published": "2026-04-28 13:40:22",
       "isoDate": "2026-04-28T13:40:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米イラン膠着状態と温暖な気候で米天然ガス価格が急落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1507912",
-      "published": "2026-04-28 13:05:03",
-      "isoDate": "2026-04-28T13:05:03Z"
     }
   ],
   "usdjpy_items": [
