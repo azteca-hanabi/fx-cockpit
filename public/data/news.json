@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T04:00:31Z",
-  "last_checked": "2026-04-29T04:00:31Z",
+  "updated": "2026-04-29T04:30:27Z",
+  "last_checked": "2026-04-29T04:30:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "テスラ、FSDソフトウェアを国際市場に展開へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1509020",
+      "published": "2026-04-29 04:14:04",
+      "isoDate": "2026-04-29T04:14:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は小じっかり、原油高でドル買い",
+      "link": "https://jp.investing.com/news/forex-news/article-1509013",
+      "published": "2026-04-29 03:30:05",
+      "isoDate": "2026-04-29T03:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "BYD株、予想より良好な第1四半期決算と輸出の楽観視で上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1509012",
       "published": "2026-04-29 03:03:32",
@@ -90,24 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：米ドル・円は引き続き159円台半ばで推移",
-      "link": "https://jp.investing.com/news/forex-news/article-1508976",
-      "published": "2026-04-29 01:00:07",
-      "isoDate": "2026-04-29T01:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "「マグニフィセント・セブン」決算とFRB決定を控え、ウォール街先物が上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1508968",
       "published": "2026-04-29 00:30:35",
       "isoDate": "2026-04-29T00:30:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比880円安の59140円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1508958",
-      "published": "2026-04-29 00:00:07",
-      "isoDate": "2026-04-29T00:00:07Z"
     },
     {
       "source": "Investing.com 外為",
