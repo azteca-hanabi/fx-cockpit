@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T05:00:31Z",
-  "last_checked": "2026-04-29T05:00:31Z",
+  "updated": "2026-04-29T05:30:24Z",
+  "last_checked": "2026-04-29T05:30:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は高値圏、原油高止まりで",
-      "link": "https://jp.investing.com/news/forex-news/article-1509019",
-      "published": "2026-04-29 04:15:04",
-      "isoDate": "2026-04-29T04:15:04Z"
+      "title": "米国株見通し：下げ渋りか、主力ハイテク決算を見極め",
+      "link": "https://jp.investing.com/news/forex-news/article-1509024",
+      "published": "2026-04-29 04:45:04",
+      "isoDate": "2026-04-29T04:45:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,76 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETFから420億円流出、FOMC前に9日連続の資金流入が途絶える",
+      "link": "https://coinpost.jp/?p=705715",
+      "published": "Wed, 29 Apr 2026 09:40:16 +0900",
+      "isoDate": "2026-04-29T00:40:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "EU、ロシア関連仮想通貨取引の全面禁止　デジタルルーブルも制裁対象に",
+      "link": "https://coinpost.jp/?p=705542",
+      "published": "Tue, 28 Apr 2026 14:30:58 +0900",
+      "isoDate": "2026-04-28T05:30:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "金融庁ら4省庁、仮想通貨を使った不動産取引に犯罪悪用防止の対応を要請",
+      "link": "https://coinpost.jp/?p=705575",
+      "published": "Tue, 28 Apr 2026 14:01:21 +0900",
+      "isoDate": "2026-04-28T05:01:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの新たなフォーク「eCash」ローンチへ　サトシの資産割り当てめぐり批判も",
+      "link": "https://coinpost.jp/?p=705506",
+      "published": "Tue, 28 Apr 2026 13:00:53 +0900",
+      "isoDate": "2026-04-28T04:00:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "送金大手ウエスタンユニオン、ステーブルコインUSDPTを5月にローンチへ　カード発行も計画",
+      "link": "https://coinpost.jp/?p=705433",
+      "published": "Tue, 28 Apr 2026 12:28:45 +0900",
+      "isoDate": "2026-04-28T03:28:45Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン準備金で「重大発表」予告、トランプ政権の仮想通貨顧問",
+      "link": "https://coinpost.jp/?p=705420",
+      "published": "Tue, 28 Apr 2026 10:49:28 +0900",
+      "isoDate": "2026-04-28T01:49:28Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米企業3社が相次いで仮想通貨を追加購入、ストラテジー社は先週3273BTCを取得",
+      "link": "https://coinpost.jp/?p=705446",
+      "published": "Tue, 28 Apr 2026 10:26:52 +0900",
+      "isoDate": "2026-04-28T01:26:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ETFなど、先週は約1910億円が純流入　投資家の関心は米FOMCへ＝コインシェアーズ",
+      "link": "https://coinpost.jp/?p=705412",
+      "published": "Tue, 28 Apr 2026 09:09:43 +0900",
+      "isoDate": "2026-04-28T00:09:43Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン上昇は先物主導、現物需要は依然低迷＝CryptoQuant",
+      "link": "https://coinpost.jp/?p=705296",
+      "published": "Mon, 27 Apr 2026 15:12:16 +0900",
+      "isoDate": "2026-04-27T06:12:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "国内初、仮想通貨取引所残高から引き落とし可能なクレカ誕生　ビットバンクとエポスカードが連携",
+      "link": "https://coinpost.jp/?p=705245",
+      "published": "Mon, 27 Apr 2026 11:58:19 +0900",
+      "isoDate": "2026-04-27T02:58:19Z"
+    },
     {
       "source": "Investing.com 暗号資産",
       "title": "Robinhoodが暗号資産ウォレットを展開：暗号資産と株式に対する代替先となるか",
