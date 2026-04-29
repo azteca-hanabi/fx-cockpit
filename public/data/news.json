@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T05:30:24Z",
-  "last_checked": "2026-04-29T05:30:24Z",
+  "updated": "2026-04-29T06:00:32Z",
+  "last_checked": "2026-04-29T06:00:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は底堅い、ドル買い継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1509030",
+      "published": "2026-04-29 05:15:04",
+      "isoDate": "2026-04-29T05:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、主力ハイテク決算を見極め",
       "link": "https://jp.investing.com/news/forex-news/article-1509024",
       "published": "2026-04-29 04:45:04",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1509020",
       "published": "2026-04-29 04:14:04",
       "isoDate": "2026-04-29T04:14:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ドル、FRB決定控え安定、豪ドルはCPI予想下回り下落",
-      "link": "https://jp.investing.com/news/forex-news/article-1509018",
-      "published": "2026-04-29 04:05:20",
-      "isoDate": "2026-04-29T04:05:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ライトコインのゼロデイ脆弱性に攻撃、NEAR Intentsで9600万円相当がリスクに",
+      "link": "https://coinpost.jp/?p=705732",
+      "published": "Wed, 29 Apr 2026 14:30:22 +0900",
+      "isoDate": "2026-04-29T05:30:22Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン現物ETFから420億円流出、FOMC前に9日連続の資金流入が途絶える",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=705296",
       "published": "Mon, 27 Apr 2026 15:12:16 +0900",
       "isoDate": "2026-04-27T06:12:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "国内初、仮想通貨取引所残高から引き落とし可能なクレカ誕生　ビットバンクとエポスカードが連携",
-      "link": "https://coinpost.jp/?p=705245",
-      "published": "Mon, 27 Apr 2026 11:58:19 +0900",
-      "isoDate": "2026-04-27T02:58:19Z"
     },
     {
       "source": "Investing.com 暗号資産",
