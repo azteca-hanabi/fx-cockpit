@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T06:30:26Z",
-  "last_checked": "2026-04-29T06:30:26Z",
+  "updated": "2026-04-29T07:00:30Z",
+  "last_checked": "2026-04-29T07:00:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "2026年第1四半期の世界金需要が過去最高を記録 - ワールド・ゴールド・カウンシル",
+      "link": "https://jp.investing.com/news/commodities-news/article-1509059",
+      "published": "2026-04-29 06:05:15",
+      "isoDate": "2026-04-29T06:05:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "台湾セミコンダクター・マニュファクチャリング、2億3100万ドルの株式売却でArm持分を全て処分",
       "link": "https://jp.investing.com/news/stock-market-news/article-1509054",
       "published": "2026-04-29 05:59:48",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1509012",
       "published": "2026-04-29 03:03:32",
       "isoDate": "2026-04-29T03:03:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、イラン長期封鎖に向け準備とWSJ報道",
-      "link": "https://jp.investing.com/news/economy-news/article-1508987",
-      "published": "2026-04-29 01:39:47",
-      "isoDate": "2026-04-29T01:39:47Z"
     },
     {
       "source": "Investing.com 外為",
