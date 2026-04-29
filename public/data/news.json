@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T12:00:35Z",
-  "last_checked": "2026-04-29T12:00:35Z",
+  "updated": "2026-04-29T12:30:29Z",
+  "last_checked": "2026-04-29T12:30:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ゼネラル・ダイナミクス、ADPが上昇、SoFi Technologiesは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1509691",
+      "published": "2026-04-29 11:53:55",
+      "isoDate": "2026-04-29T11:53:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン、2026年金価格目標に下振れリスクを指摘",
       "link": "https://jp.investing.com/news/commodities-news/article-1509675",
       "published": "2026-04-29 11:41:38",
@@ -80,13 +87,6 @@
       "link": "https://jp.investing.com/news/earnings/article-93CH-1509649",
       "published": "2026-04-29 11:37:05",
       "isoDate": "2026-04-29T11:37:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：米ドル・円はやや上げ渋り、節目の160円を意識か",
-      "link": "https://jp.investing.com/news/forex-news/article-1509595",
-      "published": "2026-04-29 11:15:03",
-      "isoDate": "2026-04-29T11:15:03Z"
     },
     {
       "source": "Investing.com 外為",
