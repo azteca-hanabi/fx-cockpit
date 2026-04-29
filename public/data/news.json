@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T10:00:46Z",
-  "last_checked": "2026-04-29T10:00:46Z",
+  "updated": "2026-04-29T10:30:29Z",
+  "last_checked": "2026-04-29T10:30:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "欧州為替：米ドル・円は159円84銭まで値上り",
+      "link": "https://jp.investing.com/news/forex-news/article-1509385",
+      "published": "2026-04-29 10:00:03",
+      "isoDate": "2026-04-29T10:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "欧州為替：ドル・円は堅調、原油高でドル買い再開",
       "link": "https://jp.investing.com/news/forex-news/article-1509259",
       "published": "2026-04-29 09:00:04",
@@ -97,24 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "金は1カ月ぶり安値付近で横ばい、イラン情勢の不透明感続く中でFRBに注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1509102",
-      "published": "2026-04-29 06:46:54",
-      "isoDate": "2026-04-29T06:46:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "台湾セミコンダクター・マニュファクチャリング、2億3100万ドルの株式売却でArm持分を全て処分",
       "link": "https://jp.investing.com/news/stock-market-news/article-1509054",
       "published": "2026-04-29 05:59:48",
       "isoDate": "2026-04-29T05:59:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、主力ハイテク決算を見極め",
-      "link": "https://jp.investing.com/news/forex-news/article-1509024",
-      "published": "2026-04-29 04:45:04",
-      "isoDate": "2026-04-29T04:45:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1507774",
       "published": "2026-04-28 12:28:13",
       "isoDate": "2026-04-28T12:28:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "コーニング、予想上回るも第2四半期見通しで株価下落",
+      "link": "https://jp.investing.com/news/earnings/article-1507565",
+      "published": "2026-04-28 11:10:15",
+      "isoDate": "2026-04-28T11:10:15Z"
     },
     {
       "source": "Investing.com 外為",
