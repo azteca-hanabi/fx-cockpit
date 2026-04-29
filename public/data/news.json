@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T08:30:29Z",
-  "last_checked": "2026-04-29T08:30:29Z",
+  "updated": "2026-04-29T09:00:44Z",
+  "last_checked": "2026-04-29T09:00:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は伸び悩み、160円台を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1509189",
+      "published": "2026-04-29 08:15:03",
+      "isoDate": "2026-04-29T08:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "FRB決定と大手テック企業決算を控え、市場を動かす要因",
       "link": "https://jp.investing.com/news/economy-news/article-1509180",
       "published": "2026-04-29 08:06:17",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1509020",
       "published": "2026-04-29 04:14:04",
       "isoDate": "2026-04-29T04:14:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "BYD株、予想より良好な第1四半期決算と輸出の楽観視で上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1509012",
-      "published": "2026-04-29 03:03:32",
-      "isoDate": "2026-04-29T03:03:32Z"
     },
     {
       "source": "Investing.com 外為",
