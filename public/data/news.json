@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-29T11:00:34Z",
-  "last_checked": "2026-04-29T11:00:34Z",
+  "updated": "2026-04-29T11:30:38Z",
+  "last_checked": "2026-04-29T11:30:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ファイザーのELREXFIO、多発性骨髄腫試験で主要評価項目を達成",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1509503",
+      "published": "2026-04-29 10:46:08",
+      "isoDate": "2026-04-29T10:46:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "欧州為替：米ドル・円は159円84銭まで値上り",
       "link": "https://jp.investing.com/news/forex-news/article-1509385",
       "published": "2026-04-29 10:00:03",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1509259",
       "published": "2026-04-29 09:00:04",
       "isoDate": "2026-04-29T09:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は伸び悩み、160円台を意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1509189",
-      "published": "2026-04-29 08:15:03",
-      "isoDate": "2026-04-29T08:15:03Z"
     },
     {
       "source": "Investing.com 外為",
